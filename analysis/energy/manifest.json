@@ -1,0 +1,906 @@
+{
+ "project": "Week 03 Canada-Turkiye energy and critical minerals",
+ "accessed": "2026-10-23",
+ "results": "results.md",
+ "key_sources": {
+  "pm_statement_2026-10-22": "https://www.pm.gc.ca/en/news/statements/2026/10/22/statement-prime-minister-carney-and-president-recep-tayyip-erdogan",
+  "pm_readout_2026-10-22": "https://www.pm.gc.ca/en/news/readouts/2026/10/22/prime-minister-carney-meets-president-turkiye-recep-tayyip-erdogan",
+  "nrcan_joint_statement_newswire": "https://www.newswire.ca/news-releases/joint-statement-between-the-minister-of-energy-and-natural-resources-of-canada-and-the-minister-of-energy-and-natural-resources-of-turkiye-on-cooperation-in-the-field-of-energy-892792181.html",
+  "menr_candu_mou": "https://enerji.gov.tr/news-detail?id=31758",
+  "epdk_2025_gas_report": "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fSTHy8vYN/Q=",
+  "menr_energy_balance_2024": "https://enerji.gov.tr//Media/Dizin/EIGM/tr/Raporlar/Ulusal_Enerji_Denge_Tablolari/2024_r1.xlsx",
+  "menr_2026_performance_programme": "https://enerji.gov.tr//Media/Dizin/SGB/tr/Performans_Programlari/2026PP.pdf",
+  "trade_ministry_dec2025_bulletin": "https://ticaret.gov.tr/data/695902c813b8762ee8545ef5/Aylık%20Dış%20Ticaret%20Veri%20Bülteni_Aralık_.pdf",
+  "iaea_pris_api": "https://pris-stats.iaea.org/reactor/reactors-by-code/{CC}",
+  "cer_lng_detail_csv": "https://www.cer-rec.gc.ca/open/imports-exports/liquefied-natural-gas-exports-detail.csv",
+  "cer_ng_trade_summary_xlsx": "https://www.cer-rec.gc.ca/en/data-analysis/energy-commodities/natural-gas/statistics/natural-gas-trade-summary/natural-gas-trades-summary-resume-echanges-commerciaux-gaz-naturel.xlsx",
+  "nrcan_uranium_facts": "https://natural-resources.canada.ca/minerals-mining/mining-data-statistics-analysis/minerals-metals-facts/uranium-nuclear-power-facts",
+  "canada_critical_minerals": "https://www.canada.ca/en/campaign/critical-minerals-in-canada/critical-minerals-an-opportunity-for-canada",
+  "usgs_mcs2026_boron": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-boron.pdf",
+  "usgs_mcs2026_chromium": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-chromium.pdf",
+  "un_comtrade_preview": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+  "eccc_nir_2026": "https://www.canada.ca/en/environment-climate-change/services/climate-change/greenhouse-gas-emissions/sources-sinks-executive-summary-2026.html",
+  "tr_ndc3": "https://www.iklim.gov.tr/en/turkiye-submits-its-second-nationally-determined-contribution-to-the-united-nations-news-4640"
+ },
+ "notes": [
+  "Excluded 3 anomalous CER LNG records (Aug 2026, vessel QINGCHENG) from summaries",
+  "canada.ca, data.tuik.gov.tr, etimaden.gov.tr, ISED TDO, www150.statcan unreachable from shell"
+ ],
+ "files": [
+  {
+   "path": "raw/dis-ticaret-acigi-2025te-92-milyar-dolar-71310.html",
+   "bytes": 133190,
+   "sha256": "d2a6f0e4d142d7fc80deeb39ea83c7128ce529589d470d30c4cc42d7f37d0371"
+  },
+  {
+   "path": "raw/en_31940.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/en_31941.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/en_31942.html",
+   "bytes": 328637,
+   "sha256": "f435f1fcdc2c6470fdf18f7a4521e1e1987dbe8255e7fbda8b38459803d82f97"
+  },
+  {
+   "path": "raw/en_31943.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/en_31944.html",
+   "bytes": 328829,
+   "sha256": "c7025860ac0260eb44fd6c25fa0e38f69b65a709a23ca248a2cc60a0f1d7c62b"
+  },
+  {
+   "path": "raw/en_31945.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/en_31946.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/en_31947.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/en_31948.html",
+   "bytes": 334358,
+   "sha256": "9ee298194da1b9d4e8aca9573a88339cb7171700988709ead12605c1aa5c3011"
+  },
+  {
+   "path": "raw/en_31949.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/en_31950.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/en_31951.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/en_31952.html",
+   "bytes": 1204218,
+   "sha256": "e8afa7410610f418e7210d6704f758b10a38de7e9bcfa3a69b050e36f46e5924"
+  },
+  {
+   "path": "raw/enerji-ithalati-faturasi-yillik-yuzde-434-artti-82181.html",
+   "bytes": 119972,
+   "sha256": "8467866ac3fd905b5020793cede575e0d102fc00da44340069ecdc1ba35b1fb9"
+  },
+  {
+   "path": "raw/enerji.gov.tr_media-news_p_1.html",
+   "bytes": 345543,
+   "sha256": "710bf8756e88a95ea113624f4bb38860a92734caf54c4ac3fdce3807fbf1af26"
+  },
+  {
+   "path": "raw/enerji.gov.tr_news-detail_id_31758.html",
+   "bytes": 327881,
+   "sha256": "b3b8d0124354203aa5a29be5c9f6bee9856cd1ca3e415341d0b39d8d807b902e"
+  },
+  {
+   "path": "raw/enerji_media_news.html",
+   "bytes": 345543,
+   "sha256": "e09ceecffd266e0c5ae6822af658a6ec86335cae125bf46ae6f16c763f12498f"
+  },
+  {
+   "path": "raw/gazeteoksijen.com_dunya_kanada-basbakani-carneyin-ilk-turkiye-ziyareti-reuters-perde-arkasindaki-ortakligi-yazdi-293331.html",
+   "bytes": 131031,
+   "sha256": "5461c97a3939f96215f7d426f612a151f54bb8af754c6e2303a6a42bb3348540"
+  },
+  {
+   "path": "raw/hdn_dependence.html",
+   "bytes": 52327,
+   "sha256": "cd21763caa0bb35e95b6b610fcafcaabbc9da4f6df772fe2da3cdec33a830574"
+  },
+  {
+   "path": "raw/lead_1e88dfce.html",
+   "bytes": 374654,
+   "sha256": "e9205e6339686b6a43a8686c2add23ebac8e4dc9bd92343c7ce66cb93c438bfb"
+  },
+  {
+   "path": "raw/lead_4309051a.html",
+   "bytes": 134492,
+   "sha256": "e080ae55aec7de67c69fc2956f318d08973960c97377ec698b51b20d646857e9"
+  },
+  {
+   "path": "raw/lead_909e2b0e.html",
+   "bytes": 5400,
+   "sha256": "8a7da26bb8e66db2bc9d8b5c36698148b929589e38dfabcc11ac0efcecdec649"
+  },
+  {
+   "path": "raw/lead_a742e602.html",
+   "bytes": 5714,
+   "sha256": "51ca6893f6eacee7a4f885212c6ede15fe0a53476a3572f9518c66b272583aaf"
+  },
+  {
+   "path": "raw/lead_fac20319.html",
+   "bytes": 48249,
+   "sha256": "83fa7d898b02f275d1ab649e5dccb51c1e8d6a83b16ad7165f1cf6ea49779b3f"
+  },
+  {
+   "path": "raw/nrcan_jointstatement_newswire.html",
+   "bytes": 208123,
+   "sha256": "7ef7963e4ff3beeb249a9dc06a73cda84e690037faff9aee96cfe89f597e1f83"
+  },
+  {
+   "path": "raw/pm_news-releases.html",
+   "bytes": 37583,
+   "sha256": "15e54533e8172ac2b1bd9db282fea128f2d67d627894b2da98ca6c2ed32bf7c9"
+  },
+  {
+   "path": "raw/pm_prime-minister-carney-meets-president-turkiye-recep-tayyip-erdogan.html",
+   "bytes": 44371,
+   "sha256": "4b89ba7a39168a94ec307dacce61732c7ac35803e18af744fd02087fba846e87"
+  },
+  {
+   "path": "raw/pm_readouts.html",
+   "bytes": 39815,
+   "sha256": "041c60f22990420f11b9522887fd34847994f6404602c53f4b5b236cc3f8d149"
+  },
+  {
+   "path": "raw/pm_releases.html",
+   "bytes": 39810,
+   "sha256": "333b22f9d1cd5197aaffbdaf946dda0c748cf8e12a7b4dd04a254df15ff7fdd7"
+  },
+  {
+   "path": "raw/pm_statement-prime-minister-carney-and-president-recep-tayyip-erdogan.html",
+   "bytes": 46760,
+   "sha256": "d1995344eb5005d3caa628be82a53eb5590d7cf2ef8feaa09c4ae9e35db2a2df"
+  },
+  {
+   "path": "raw/pm_statements.html",
+   "bytes": 39819,
+   "sha256": "d26071a5bf2aea4eab8d3fc8c8ba987b019492240e902244901e956a3fa31004"
+  },
+  {
+   "path": "raw/world-nuclear-news.org_articles_potential-for-candu-units-in-turkey-to-be-explored.html",
+   "bytes": 55799,
+   "sha256": "c73129f85f446e7b15f80ab0d560a8dff70464985f1c7a92e2a1a49664d41948"
+  },
+  {
+   "path": "raw/www.atkinsrealis.com_en_media_trade-releases_2026_2026-03-03-a.html",
+   "bytes": 440961,
+   "sha256": "870e89e4ac783d778050bef7deaf02a31dd202fdd23d8704d5454961cd1dc1c9"
+  },
+  {
+   "path": "raw/www.bnnbloomberg.ca_business_international_2026_07_03_atkinsrealis-anticipates-turkiyes-early-nuclear-assessment-will-be.html",
+   "bytes": 147963,
+   "sha256": "33856bfee88eeb8b0675fc3d719db240a79a4078f9588886934b1a0fedb78b9d"
+  },
+  {
+   "path": "raw/www.cp24.com_news_canada_2026_10_20_canada-turkiye-set-to-sign-pledge-during-carney-visit-to-deepen-defence-energy-ties-.html",
+   "bytes": 137692,
+   "sha256": "0c86d7c125d0f4b0e41e1dc85210d7c59a5947b2662497f0b90e5aabec64175d"
+  },
+  {
+   "path": "raw/www.ekonomigazetesi.com_enerji_kanada-ile-nukleer-enerji-icin-mutabakat-zapti-74102.html",
+   "bytes": 120866,
+   "sha256": "4282f5a90abb56b487fcc18f3135da2dc377b3b05240ef0aa69e2a87a74445ed"
+  },
+  {
+   "path": "raw/www.epdk.gov.tr_Detay_Icerik_3-0-94_dogal-gazyillik-sektor-raporu.html",
+   "bytes": 130846,
+   "sha256": "8079962e391dd1397faa7f43590213b7879da494cfa983aeae97f3bdfc1d9503"
+  },
+  {
+   "path": "raw/www.epdk.gov.tr_Detay_Icerik_3-0-95_dogal-gazaylik-sektor-raporu.html",
+   "bytes": 317098,
+   "sha256": "f67e44ce9c17afd3bf98b8ab258d7281b8535bef5e8630acee345e83148f1d50"
+  },
+  {
+   "path": "raw/www.pm.gc.ca_en_news.html",
+   "bytes": 39659,
+   "sha256": "13c76c9ae18b31ea3189b85706bd807617984627723e6b5e2133c80f8d397f6b"
+  },
+  {
+   "path": "raw/www.pm.gc.ca_en_node_54279.html",
+   "bytes": 44882,
+   "sha256": "7a3a8b74194317d16cbfdc068212b13155e2d475912e9fbf4cd053d991eaed6b"
+  },
+  {
+   "path": "raw/www.tuik.gov.tr_.html",
+   "bytes": 430820,
+   "sha256": "db9c3b749c5aa96679d2e2899720880bf4e633a382b4abca36b9ea43671f6838"
+  },
+  {
+   "path": "raw/akkuyu/93ceb2.html",
+   "bytes": 3393,
+   "sha256": "313f7933571c886495adee178db4965b451123610a3e8f1dbc479c7813ac3da8"
+  },
+  {
+   "path": "raw/akkuyu/9b9bc9.html",
+   "bytes": 3410,
+   "sha256": "5fa14a1a30eca228ddab8f14e64627d91521a978a9904b8d3321935480773d86"
+  },
+  {
+   "path": "raw/ticaret/aylik_dis_ticaret_bulteni_aralik.pdf",
+   "bytes": 485603,
+   "sha256": "dc51a83b24f3ed6bb8ce423318c49349b117a48e9300c9f3a4bf688e9c826aeb"
+  },
+  {
+   "path": "raw/ticaret/b.txt",
+   "bytes": 10357,
+   "sha256": "7acf45ac50b66c9d283b136839dd7240845ca933b0a5b40cc3f06d23f97c3d8d"
+  },
+  {
+   "path": "raw/cer/30f324.html",
+   "bytes": 25086,
+   "sha256": "a4c63f58a9e83f0bf6223f2ae23537440d3851ebff91d896c7ecb7d57a42c195"
+  },
+  {
+   "path": "raw/cer/3bfc6b.html",
+   "bytes": 3411,
+   "sha256": "27bfb226fcffd13895f052cfc81d67a47b1ac1d2ed260d01f84fd7c6635b837c"
+  },
+  {
+   "path": "raw/cer/646b6c.html",
+   "bytes": 183074,
+   "sha256": "4593cd7820dfe4ad8ddc0f20d3a9ec3b3c4ba50d6bc5f0b574db3a1fc3ac54eb"
+  },
+  {
+   "path": "raw/cer/72e1c5.html",
+   "bytes": 4405,
+   "sha256": "4a376eb7e447b8441bd5263fad1c7dddd6816381a472494a41458d7dc3666720"
+  },
+  {
+   "path": "raw/cer/a1356d.html",
+   "bytes": 4405,
+   "sha256": "4a376eb7e447b8441bd5263fad1c7dddd6816381a472494a41458d7dc3666720"
+  },
+  {
+   "path": "raw/cer/ckan_lng.json",
+   "bytes": 153980,
+   "sha256": "016e13dd5a2a4841ecae1ff269413065fae35960ae1cf7aa435adb00ccebf84b"
+  },
+  {
+   "path": "raw/cer/dcf511.html",
+   "bytes": 42635,
+   "sha256": "5d9f786225605bde9a3ad07aac84029472be139c426587f4f4e8fe543f0ac1af"
+  },
+  {
+   "path": "raw/cer/f8fff1.html",
+   "bytes": 4405,
+   "sha256": "4a376eb7e447b8441bd5263fad1c7dddd6816381a472494a41458d7dc3666720"
+  },
+  {
+   "path": "raw/cer/liquefied-natural-gas-exports-annual.csv",
+   "bytes": 10110,
+   "sha256": "c2b8ab08e1d28912e9ff4c64641df84a18bb766c17a593a49802117369cfa71d"
+  },
+  {
+   "path": "raw/cer/liquefied-natural-gas-exports-detail.csv",
+   "bytes": 685776,
+   "sha256": "c98ed8a657b1656bb9fe32a5aaf9c94312bc67e33dd5b9c5c18c59fbfdf9c767"
+  },
+  {
+   "path": "raw/cer/liquefied-natural-gas-exports-monthly.csv",
+   "bytes": 82534,
+   "sha256": "250a4d46d5b7bcd945a0e694ff5e5103b35f96131aa741eb7475e3e0b6f7bda4"
+  },
+  {
+   "path": "raw/cer/market-snapshot-canadas-federally-regulated-energy-system-by-the-numbers.html",
+   "bytes": 27684,
+   "sha256": "8da6b9fd8ba35b3cb63af4debc567f1174777818ef34f2cf346bdfc99ea1d485"
+  },
+  {
+   "path": "raw/cer/market-snapshot-canadas-natural-gas-production-kept-climbing-in-2025.html",
+   "bytes": 23682,
+   "sha256": "359583514be5633bdd8ef218fc3534513fcbdd744445c00a63bbd0180c8b9775"
+  },
+  {
+   "path": "raw/cer/market-snapshot-canadian-uranium-exports-help-fuel-nuclear-generation-around-the-world.html",
+   "bytes": 30275,
+   "sha256": "2050f708ef70b17a4a70d7bd1ccee0c476063cd28f124651e7de045e51661473"
+  },
+  {
+   "path": "raw/cer/market-snapshot-growing-indigenous-ownership-in-canadian-pipelines-and-lng-facilities.html",
+   "bytes": 48373,
+   "sha256": "68098c6a80f1badff9f049a0cf8d51e889f3d566313745fb9804df2fd91559de"
+  },
+  {
+   "path": "raw/cer/ng_trade_summary.xlsx",
+   "bytes": 158930,
+   "sha256": "004946dd1d0550eb377684f3a19e807d163035536197a0b177838f641a271995"
+  },
+  {
+   "path": "raw/cer/snap_2024_lngfuture.html",
+   "bytes": 35415,
+   "sha256": "1570eafd1e45869c8094cfe8fbd1ed4741919794caf35d2ad7cfdc74628d5a75"
+  },
+  {
+   "path": "raw/cer/snap_market-snapshot-canadian-lng-projects-face-competitive-global-market.html",
+   "bytes": 31853,
+   "sha256": "7395fe70444fddd7a1e947bfd96c13165cf471c5eab893a69b97d82bb76b684d"
+  },
+  {
+   "path": "raw/cer/snap_market-snapshot-east-coast-lng-projects-tackle-competition-supply-challenges.html",
+   "bytes": 25578,
+   "sha256": "3916130be5dff2a803dd3693e28b78bfffb116c64cf0691af19294c083c7bac7"
+  },
+  {
+   "path": "raw/cer/snap_market-snapshot-expanded-panama-canal-brings-new-competition-asia-pacific-lng-market-even-with-low-asian-lng-prices.html",
+   "bytes": 38505,
+   "sha256": "47c3d5a61ebaef4a8521ae02d6cd6fdeb7de4db95ba18d390b249afe8fbc747e"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2022_sel.json",
+   "bytes": 2768,
+   "sha256": "5357eed874229486376417559337d3162c2ef93bc588607c9a82d4884326e5a8"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2022_total.json",
+   "bytes": 1851,
+   "sha256": "897af752ae809df7e8da968b168eb051f770e684cfeceefff40add43178afe85"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2023_AG4.json",
+   "bytes": 447702,
+   "sha256": "99ef602c60f9ff0b1d4f3f3f5474f4bb5b79cb115a120905fca471454bd78bd6"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2023_sel.json",
+   "bytes": 2773,
+   "sha256": "fa86a0e97d89d6ec129492a17d3f6384aca1078c8909b2b7e42b27d548fbd869"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2023_total.json",
+   "bytes": 1849,
+   "sha256": "ddcf878d2b53f05f94702d377d3aa314dc7ec30740f189d7daf2a0af096de16c"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2024_AG2.json",
+   "bytes": 73895,
+   "sha256": "e92148ec6c3f18e6a4ef337818cfb5899e6bc41380f6efc77bfe55d2a5906b0a"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2024_AG4.json",
+   "bytes": 447694,
+   "sha256": "feed5bc684f1d973756940f4f1d6717467dc506dd787aa568dc103e305180fc8"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2024_sel.json",
+   "bytes": 2748,
+   "sha256": "b4c60837e64c3708875d0fb12b88f0912ff2341b29e64bd2c07975d40b51aa38"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2024_total.json",
+   "bytes": 1846,
+   "sha256": "b7044d680dbe83551acbcb472a752552452d4871dcd13f309c1af78a19de94ae"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2025_AG2.json",
+   "bytes": 72139,
+   "sha256": "681f9fda894961a177d0176e6bb4b53d41df7ab3e7c3597c13380b06cde3b50a"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2025_AG4.json",
+   "bytes": 447965,
+   "sha256": "ee34c85bb0ca479abfd311285493bf042455e65674974b1e82b777967dc1b982"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2025_sel.json",
+   "bytes": 3664,
+   "sha256": "9952215ae9ca35a9415802f9e5d727297aad9d30b9130ea798e1c2d14263e6ad"
+  },
+  {
+   "path": "raw/comtrade/ca_to_tr_2025_total.json",
+   "bytes": 83,
+   "sha256": "87b2054653b05cd43aa59af75935bc7ff1294932f43411b8b7b551c563407e96"
+  },
+  {
+   "path": "raw/comtrade/tr_from_ca_2022_sel.json",
+   "bytes": 4577,
+   "sha256": "a1a1768573f14949e37614f8a5ddbfee0b13ba6b1db2371644f417f48a4377d3"
+  },
+  {
+   "path": "raw/comtrade/tr_from_ca_2023_AG4.json",
+   "bytes": 446362,
+   "sha256": "252daca672211c91cf37bcb7b718f6f75b04e91ccfb329283fa45d3e059746fb"
+  },
+  {
+   "path": "raw/comtrade/tr_from_ca_2023_sel.json",
+   "bytes": 5464,
+   "sha256": "d2cd565801e57be6efbeb77c0d9c3346cf6cfd22f57a527b3bf1385c831cd653"
+  },
+  {
+   "path": "raw/comtrade/tr_from_ca_2024_AG4.json",
+   "bytes": 445969,
+   "sha256": "c4e9e205d832ec3e0ee3e777d1153b4f9d6b9680c293316200b8c8bb53250fd2"
+  },
+  {
+   "path": "raw/comtrade/tr_from_ca_2024_sel.json",
+   "bytes": 5430,
+   "sha256": "bb926f56841b2878d651d8d8a7dceae73b8d680cae4aec132e4e259eac80ba6a"
+  },
+  {
+   "path": "raw/comtrade/tr_from_ca_2025_AG4.json",
+   "bytes": 445589,
+   "sha256": "ca7642ab7679e541528f7ad5fdbdb186fb7a800824ef6f480297f6608c3489a4"
+  },
+  {
+   "path": "raw/comtrade/tr_from_ca_2025_sel.json",
+   "bytes": 5450,
+   "sha256": "340b4d77aa005d66a7e8480e246cf4b3380edc5520a7752e65ec18d8ecea43a5"
+  },
+  {
+   "path": "raw/epdk/EPDK_2025_dogal_gaz_gelisim_raporu.pdf",
+   "bytes": 2727117,
+   "sha256": "c5a7af83854922c7109db7d6da1cd219ce67fb4ff83af9e92ef2ebce6c799244"
+  },
+  {
+   "path": "raw/epdk/epdk2025.txt",
+   "bytes": 202949,
+   "sha256": "c2b8bdc2f83590f7cedb2db5f05e11070e138f4e4e12d1113fef79a5cda59c63"
+  },
+  {
+   "path": "raw/leads/03ae63bc",
+   "bytes": 5644,
+   "sha256": "ff17507d3cc3c71a56dae5b41c12159c28a4d399b779d6480795489c881af3d9"
+  },
+  {
+   "path": "raw/leads/2c2fa92d.html",
+   "bytes": 100655,
+   "sha256": "cd57675a578845cccd6d6706c2db46c9a35a9801d5c70fdcfe27374709586ea5"
+  },
+  {
+   "path": "raw/leads/51b0da5e.html",
+   "bytes": 133553,
+   "sha256": "65ba030c67067123000284c054e3512b2573f5e0b6ac96a137aa56262fa0b79d"
+  },
+  {
+   "path": "raw/leads/623fa0b8",
+   "bytes": 6768,
+   "sha256": "5f8b65bb0d2fd15be6e277ff5b78a7dc14261911e2ae8e1cbb9f1db3575619ab"
+  },
+  {
+   "path": "raw/leads/68bb5f79",
+   "bytes": 5667,
+   "sha256": "894b1147e0b9458c494592b7ec42eb036e487959e076d796f921e734a298f244"
+  },
+  {
+   "path": "raw/leads/787b392f.html",
+   "bytes": 386309,
+   "sha256": "3324f108a479f43ae5066f5d8398e5535204792e1ff6d7f708652456e9f2168f"
+  },
+  {
+   "path": "raw/leads/7cfc376f",
+   "bytes": 308952,
+   "sha256": "8aeed921ae374edd6ce173ec45e8793213c0db78e79795f6b3f7775843c4964f"
+  },
+  {
+   "path": "raw/leads/88b37ecd",
+   "bytes": 197031,
+   "sha256": "e542b74effc2a24debc9ac1065df840131e52b64e2a18f93c56a63d43e896b9d"
+  },
+  {
+   "path": "raw/leads/8f89e2e0",
+   "bytes": 482125,
+   "sha256": "56fe2f6b5a11e640d12d13e288163f75231e8cdcba717757707ac4b8f55ed073"
+  },
+  {
+   "path": "raw/leads/99bfdf01",
+   "bytes": 453,
+   "sha256": "189f0f24ba55a6f722513e1df07e96a80151f47a965922ca9b739727a5a4b081"
+  },
+  {
+   "path": "raw/leads/cd8044ea",
+   "bytes": 5560,
+   "sha256": "fda32a4f52fe08eae59a9ca22e919ade6c3c9413124d1833c2e89bc46c579259"
+  },
+  {
+   "path": "raw/leads/e1aeb735",
+   "bytes": 5497,
+   "sha256": "db82b1c260583e8228a651b9c5b37a271592a46b1133dae2723f065efb8dfab2"
+  },
+  {
+   "path": "raw/leads/eb35c6d0",
+   "bytes": 6768,
+   "sha256": "d9fea8f3a80e1c33ae3ef9db80322826dba85839677d5646bfc787df5bd7ecc8"
+  },
+  {
+   "path": "raw/leads/fb09f164.html",
+   "bytes": 498958,
+   "sha256": "32533d47900c5eafb86b8755ec07f31118a4fe24fdee685165c122a36ee234e6"
+  },
+  {
+   "path": "raw/pris/countries.json",
+   "bytes": 4437,
+   "sha256": "c43b1a2a1d8a0e9274a74a2589e78688383b7af7b234c5ef16215ee9db5661a4"
+  },
+  {
+   "path": "raw/pris/country_CA.html",
+   "bytes": 40878,
+   "sha256": "e59c7c69e78c963be4ff46c22aadf085d756d1a0bb2756c4eca31d8e8ba3089b"
+  },
+  {
+   "path": "raw/pris/country_TR.html",
+   "bytes": 40878,
+   "sha256": "e59c7c69e78c963be4ff46c22aadf085d756d1a0bb2756c4eca31d8e8ba3089b"
+  },
+  {
+   "path": "raw/pris/country_statistics.json",
+   "bytes": 25511,
+   "sha256": "ad6d5eb7ba39959377d7d49624ece04068ac431220b30d259c03c57496f5704a"
+  },
+  {
+   "path": "raw/pris/main.js",
+   "bytes": 1526358,
+   "sha256": "255c8c3714e6e1684772f548c2e38ededae4ef14744e3cf4cd184d7f0e5da1d6"
+  },
+  {
+   "path": "raw/pris/reactors_AE.json",
+   "bytes": 5771,
+   "sha256": "8b4f619bdd4d0f02bb1f933a8f7320d0ab93efe1c8ef1f7ed73fc731bb6ed291"
+  },
+  {
+   "path": "raw/pris/reactors_AM.json",
+   "bytes": 2868,
+   "sha256": "d58174d64e2cf02045c41daf2654b89388c3642c99c69ccd5e2788a784d5772d"
+  },
+  {
+   "path": "raw/pris/reactors_AR.json",
+   "bytes": 5502,
+   "sha256": "afc9d03fceb6df10e17f84557ee1e5ecd81a813909fb36c78c88f538009d201d"
+  },
+  {
+   "path": "raw/pris/reactors_BD.json",
+   "bytes": 2695,
+   "sha256": "7fc8678a8db323e54b8c8ccd1c8253644894c5df2ff52bb175925dc5a2dc07dd"
+  },
+  {
+   "path": "raw/pris/reactors_BE.json",
+   "bytes": 11396,
+   "sha256": "ac046fcf282f830fcec22e3f3d2a505125efca984b8019c3696efcb2705ef7a7"
+  },
+  {
+   "path": "raw/pris/reactors_BG.json",
+   "bytes": 8327,
+   "sha256": "01acf24135c8f2c56dff98b2e52c6e07fdc328e906dd7549419f032f1f390212"
+  },
+  {
+   "path": "raw/pris/reactors_BR.json",
+   "bytes": 4031,
+   "sha256": "561cba05d5c94f00325208b9a8e2d05feb36bacf70c0de7a500d6583aae81d02"
+  },
+  {
+   "path": "raw/pris/reactors_BY.json",
+   "bytes": 2905,
+   "sha256": "6cea42c99402d4264bdb8240da809872669eeafbb65449590b78588c8f2d551b"
+  },
+  {
+   "path": "raw/pris/reactors_CA.json",
+   "bytes": 35971,
+   "sha256": "186caf6cf7211350d352d75419faa0f450e3f798f922f6ff2c49a579a9450788"
+  },
+  {
+   "path": "raw/pris/reactors_CH.json",
+   "bytes": 8255,
+   "sha256": "2c59bbfdb474ec19106ddcc41a3e358a5778f977ea2e89f629e2557f15729f8d"
+  },
+  {
+   "path": "raw/pris/reactors_CN.json",
+   "bytes": 141871,
+   "sha256": "c17e8eeddd470cb9f61e0cf346d66d6930731263d4fac4ac9e2f641c896e00a1"
+  },
+  {
+   "path": "raw/pris/reactors_CZ.json",
+   "bytes": 8371,
+   "sha256": "2a48c2480041fd4eaf09086da4059c5d11fbba385c421e0b8476914d3f9d450f"
+  },
+  {
+   "path": "raw/pris/reactors_DE.json",
+   "bytes": 50721,
+   "sha256": "81249eb4a04473ef389127f4d30e1ee74d0aefdbf147fcb1584ef555ea9cb526"
+  },
+  {
+   "path": "raw/pris/reactors_EG.json",
+   "bytes": 5261,
+   "sha256": "0bd500f3afbfa37082c28a6c515e04c7c480c5db4073ff365bfd57f990768724"
+  },
+  {
+   "path": "raw/pris/reactors_ES.json",
+   "bytes": 13960,
+   "sha256": "e327c2992ae4cb53da2936a90cc8e410c42ac53b0e95d730c95a1a4b3aa23fa7"
+  },
+  {
+   "path": "raw/pris/reactors_FI.json",
+   "bytes": 6857,
+   "sha256": "1e3d85c76e60365db86c9831d91fcb2b5f4d8025ad3aec7cb100440f880d4e2f"
+  },
+  {
+   "path": "raw/pris/reactors_FR.json",
+   "bytes": 93300,
+   "sha256": "47cb083e400f0dbb6056d88ae33af8b1d96a5267cbfcabdb453428a68d9495ee"
+  },
+  {
+   "path": "raw/pris/reactors_GB.json",
+   "bytes": 63731,
+   "sha256": "7ce96503ac7fa368ef09baac6e36a1b96f4dd8ceaee91ddb87a692be02c4a744"
+  },
+  {
+   "path": "raw/pris/reactors_HU.json",
+   "bytes": 6882,
+   "sha256": "1589f70c92e4b85ab036b2f5226a5ac18b0dc84e7e7206e40bef8036e4c6a3f4"
+  },
+  {
+   "path": "raw/pris/reactors_IN.json",
+   "bytes": 48468,
+   "sha256": "f97498fc28e5f0da95a66b340ce1810f6557d6d5bfc0b03bbb44252caa62a93b"
+  },
+  {
+   "path": "raw/pris/reactors_IR.json",
+   "bytes": 4280,
+   "sha256": "ab71a5d82ce25d7e0135d6d7c9200a2d77dc2254e138c703dfeccb83e5b16bae"
+  },
+  {
+   "path": "raw/pris/reactors_IT.json",
+   "bytes": 5796,
+   "sha256": "791bdd84731560090aea738242037f67c9a05275f3953dd74acafcd95f6f5d34"
+  },
+  {
+   "path": "raw/pris/reactors_JP.json",
+   "bytes": 85909,
+   "sha256": "50f11bf3cf31773d47dd24325b3e28087112ec70c2bc554dd9fc2591b53b620b"
+  },
+  {
+   "path": "raw/pris/reactors_KR.json",
+   "bytes": 46851,
+   "sha256": "dfb850f6639fe0437e3e70dde022684ae9bbf4a239c21f1572eb41034868fa90"
+  },
+  {
+   "path": "raw/pris/reactors_KZ.json",
+   "bytes": 1575,
+   "sha256": "8299ed03155a51c27487ac3de5a47c3910da76ef293e652f199026c7ae82757e"
+  },
+  {
+   "path": "raw/pris/reactors_LT.json",
+   "bytes": 2965,
+   "sha256": "bc33953cd8e9f74247192ef448cef840c856bcce3e983481a73ec30dec0fb5fe"
+  },
+  {
+   "path": "raw/pris/reactors_MX.json",
+   "bytes": 2793,
+   "sha256": "168ccdeeedb904b304018aece77a75d4475cce4f86705d6f2c30b7627df6a859"
+  },
+  {
+   "path": "raw/pris/reactors_NL.json",
+   "bytes": 3031,
+   "sha256": "34407776d1b82fd42ee055b558546945ab0d251884debfb34c29f216d25abea0"
+  },
+  {
+   "path": "raw/pris/reactors_PK.json",
+   "bytes": 11330,
+   "sha256": "1b2c2695f3b77ca130603326d69e7d8a3d50382ff38da19332abd601b60ef2e3"
+  },
+  {
+   "path": "raw/pris/reactors_RO.json",
+   "bytes": 2849,
+   "sha256": "e722f9b166c37bfe13d863ebb7e76bce81c622ac8bd003de542be566c14ab0ec"
+  },
+  {
+   "path": "raw/pris/reactors_RU.json",
+   "bytes": 74540,
+   "sha256": "3b079b4ad9185ccd678e0637abb41704121fc3e23784f67e6356266ecd5c2f88"
+  },
+  {
+   "path": "raw/pris/reactors_SE.json",
+   "bytes": 17632,
+   "sha256": "fdb5957e0b96cea3f8ac4de32c1f41899794ec0cfff399df9ab18b41f0b2be00"
+  },
+  {
+   "path": "raw/pris/reactors_SI.json",
+   "bytes": 1388,
+   "sha256": "1880c3f22407c9555a6a90c4e7fc3e5a80d38d30ff13bcaeac6202e06b8b18ca"
+  },
+  {
+   "path": "raw/pris/reactors_SK.json",
+   "bytes": 13005,
+   "sha256": "bdebb4b331c5277df570aac22eb07f38bdd2da448457af13a7c4d2e47cddc1b3"
+  },
+  {
+   "path": "raw/pris/reactors_TR.json",
+   "bytes": 5349,
+   "sha256": "19f770f19373be27070c2abc88770118a70bce3320c5ed055763e2f19e693489"
+  },
+  {
+   "path": "raw/pris/reactors_UA.json",
+   "bytes": 31067,
+   "sha256": "f7096a8ae456e3827b6d615cb5fb9bde5120549d997574e9da3c8ece2bb4df0e"
+  },
+  {
+   "path": "raw/pris/reactors_US.json",
+   "bytes": 185647,
+   "sha256": "a960054880a02f29a17e1093bb1481fe50b93480c8a944287e524770fe90794e"
+  },
+  {
+   "path": "raw/pris/reactors_ZA.json",
+   "bytes": 2583,
+   "sha256": "18c9d89a8b4183d5fdec1e121c94b72b3b55b72eba16b8c97621cc7e1001f270"
+  },
+  {
+   "path": "raw/pris/world_statistics.json",
+   "bytes": 961,
+   "sha256": "f8b432d53ccf6566af9169a404b30edbace3bb6ee81fae4f072980d0bc1413ae"
+  },
+  {
+   "path": "raw/minerals/020f80.html",
+   "bytes": 325353,
+   "sha256": "372e047e2741fa4c4f5fa574920ad7bc4975c30495829c0b0c74def1cb281a71"
+  },
+  {
+   "path": "raw/minerals/24e872.html",
+   "bytes": 43164,
+   "sha256": "a91eb290f1e339c22681b7f1fc0fc739ddbcccbdd1164741e8090f354c470c4e"
+  },
+  {
+   "path": "raw/minerals/452d67.html",
+   "bytes": 40331,
+   "sha256": "24a2e8c22488bbd1306e04affbcbadb3e35a8abd5d81b266baa8f759328e59e5"
+  },
+  {
+   "path": "raw/minerals/c2c914.html",
+   "bytes": 40331,
+   "sha256": "24a2e8c22488bbd1306e04affbcbadb3e35a8abd5d81b266baa8f759328e59e5"
+  },
+  {
+   "path": "raw/minerals/mcs2025-boron.pdf",
+   "bytes": 695557,
+   "sha256": "3f0385c87f3ff7be8f53df7461a1841baf91305458421f26c71db6201f2de920"
+  },
+  {
+   "path": "raw/minerals/mcs2025-chromium.pdf",
+   "bytes": 766500,
+   "sha256": "650dc3db07128f7233a0d730c31b67d782e78e6276ce7ec2e95fb2e13630b3b7"
+  },
+  {
+   "path": "raw/minerals/mcs2026-boron.pdf",
+   "bytes": 115584,
+   "sha256": "a7606ad4a3c2b0b24d3fd7f3092fdd71f6256b196875137d9b9dfb1c591d2ec9"
+  },
+  {
+   "path": "raw/minerals/mcs2026-boron.txt",
+   "bytes": 10849,
+   "sha256": "31658bc760be8e8990d6ed316acec30068967d0ded83c1da540817991686a13b"
+  },
+  {
+   "path": "raw/minerals/mcs2026-chromium.pdf",
+   "bytes": 139309,
+   "sha256": "c19e412f65eddf60ab8b3b49ec415d7e0b817d08412733a0094a47af06fa4a04"
+  },
+  {
+   "path": "raw/minerals/mcs2026-chromium.txt",
+   "bytes": 10807,
+   "sha256": "fb35b2eab009313b779d6e178c22c199e5b2a7658517eefc6a1a8038f81e8ae5"
+  },
+  {
+   "path": "raw/nrcan/06b49f.html",
+   "bytes": 46109,
+   "sha256": "e405f9d9e470d0e6d8f4fd0e994280f25d6d39f60d11e203c8618b56ee2c71e1"
+  },
+  {
+   "path": "raw/etkb/2026PP.pdf",
+   "bytes": 8251195,
+   "sha256": "00e024659ffd709156f6868db2a7ba3bc80b0cadd4879986ab11db8e3cb0f486"
+  },
+  {
+   "path": "raw/etkb/denge_2024_r1.xlsx",
+   "bytes": 72365,
+   "sha256": "2e24a8d0904028d3d85a7438868da0c829cacf4e699886b93f9a8074264dd970"
+  },
+  {
+   "path": "raw/etkb/eigm-raporlari.html",
+   "bytes": 579997,
+   "sha256": "67ad8e52f00bc7194a3bbde174eb0e8edba044d6cb6ca4133f984df33be02545"
+  },
+  {
+   "path": "raw/etkb/pp.txt",
+   "bytes": 317452,
+   "sha256": "f024e4e632a76a3ee3394fe740691ad61e5ae00a34d23b8f94085b6077bb8a6d"
+  },
+  {
+   "path": "raw/ghg/010a43.html",
+   "bytes": 65954,
+   "sha256": "1892be689b7680fa132a9a8c4836f6fa60b9b6e57185f5b75c712ebc3913f0ca"
+  },
+  {
+   "path": "raw/ghg/cnzeaa.html",
+   "bytes": 48926,
+   "sha256": "903d8e9028af4cfb4e2fbbcd6a5549d05ee7eda579e79e33d406c22e36b0e80e"
+  },
+  {
+   "path": "raw/ghg/eb2c2d.html",
+   "bytes": 231483,
+   "sha256": "ece7dd6501c754eafe975da30393953192b239b680b64f905ccf3c0f0e3e4e19"
+  },
+  {
+   "path": "raw/ghg/tr_ndc.html",
+   "bytes": 26789,
+   "sha256": "9a94fd668128e2097003fb310c7df73815f20cc26cc9e9146fbc5e8de5551538"
+  },
+  {
+   "path": "scripts/cer_lng.py",
+   "bytes": 1436,
+   "sha256": "4e5f10eb40ed141fc049faa8649e9bc756240a5fc7369a7ef9493576def8c3f6"
+  },
+  {
+   "path": "scripts/cer_lng_clean.py",
+   "bytes": 1582,
+   "sha256": "1568219f9557a97d17ef283e5d8906945a09912434af47fc242487b442d6c283"
+  },
+  {
+   "path": "scripts/comtrade_summary.py",
+   "bytes": 767,
+   "sha256": "7e35e4d8a93510b2cf6caef4a6f0e81a238fc92cfcb9324df3c557e4f86fa198"
+  },
+  {
+   "path": "scripts/h2t.py",
+   "bytes": 207,
+   "sha256": "e92c9d512daa473de05c5df736aef37e91bd9476014e72e06668208794f3292b"
+  },
+  {
+   "path": "scripts/pris_summary.py",
+   "bytes": 1378,
+   "sha256": "88e1bc20fa5a2aae0c8be53df10d0bba95259cb5b42b5aa24a58795015099bd5"
+  },
+  {
+   "path": "scripts/tr_energy_balance.py",
+   "bytes": 981,
+   "sha256": "f40d2fefbda39865ca7a6176c7203d6b903caa32492446712f98dbf7771b3011"
+  },
+  {
+   "path": "outputs/cer_lng_summary.txt",
+   "bytes": 3167,
+   "sha256": "8c36c35025fa689d5b487058ff0d5cf7b537eab1b56452474cbe38cfab19a056"
+  },
+  {
+   "path": "outputs/comtrade_summary.txt",
+   "bytes": 1501,
+   "sha256": "85f4ec1e760cd2570d0ad81ad08016ffe39ebe56ba11ece1d02b07c34d4d469c"
+  },
+  {
+   "path": "outputs/pris_summary.txt",
+   "bytes": 3129,
+   "sha256": "f19a51cc3321ee5e2cfd18386aee27676a8dbc505031a2d19e2a359db9bafca3"
+  },
+  {
+   "path": "outputs/tr_energy_balance_2024.txt",
+   "bytes": 342,
+   "sha256": "ee726356fa5855271bee0a0014e237ae85c98bc931ac55f547cee4d3f42b5a4b"
+  }
+ ]
+}

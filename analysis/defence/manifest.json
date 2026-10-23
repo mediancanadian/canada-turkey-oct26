@@ -1,0 +1,780 @@
+{
+ "thread": "defence and tested trust",
+ "created": "2026-10-23",
+ "access_date": "2026-10-23",
+ "scripts": {
+  "scripts/h2t.py": "HTML to text",
+  "scripts/parse_reports.py": "Türkiye value, rank, ECL from GAC reports 2014-2025",
+  "scripts/parse_2010_2013.py": "Same for 2010-2013 (SIPRI-hosted GAC reports)",
+  "scripts/build_table.py": "Combine into CSV",
+  "scripts/rank_table6.py": "Early rank check 2023-2025"
+ },
+ "outputs": [
+  "outputs/exports_turkiye_2010_2025.csv",
+  "outputs/exports_by_year_parsed.json",
+  "outputs/exports_2010_2013_parsed.json",
+  "outputs/table6_ranks.json"
+ ],
+ "fetched_via_webfetch_not_saved": [
+  "canada.ca Garneau 2021 statement",
+  "canada.ca DND Jul 8 2026",
+  "canada.ca Finance Mar 23 2026",
+  "canada.ca GAC PKK May 15 2025",
+  "travel.gc.ca/destinations/turkey",
+  "istiklal.com.tr SSB 2025 exports",
+  "sencanada.ca Housakos 2023"
+ ],
+ "blocked": [
+  "webarchiveweb.wayback.bac-lac.canada.ca (bot challenge)",
+  "web.archive.org 2010-2013 GAC pages (permission timeout)",
+  "ourcommons.ca Hansard (403)",
+  "ssb.gov.tr, fctca.org (connection reset)"
+ ],
+ "files": [
+  {
+   "path": "results.md",
+   "bytes": 20501,
+   "sha256": "cf5a730bdf3012bf"
+  },
+  {
+   "path": "scripts/build_table.py",
+   "bytes": 1270,
+   "sha256": "117f87000a7a86ec"
+  },
+  {
+   "path": "scripts/h2t.py",
+   "bytes": 351,
+   "sha256": "af311c5b505653b2"
+  },
+  {
+   "path": "scripts/parse_2010_2013.py",
+   "bytes": 1825,
+   "sha256": "95b4ab4288cff451"
+  },
+  {
+   "path": "scripts/parse_reports.py",
+   "bytes": 4453,
+   "sha256": "596d2843d0f975f4"
+  },
+  {
+   "path": "scripts/rank_table6.py",
+   "bytes": 1137,
+   "sha256": "35d8a12931ea1e27"
+  },
+  {
+   "path": "outputs/exports_2010_2013_parsed.json",
+   "bytes": 1475,
+   "sha256": "0a4650f9f8c87d94"
+  },
+  {
+   "path": "outputs/exports_by_year_parsed.json",
+   "bytes": 4187,
+   "sha256": "2afcecd9c39fa195"
+  },
+  {
+   "path": "outputs/exports_turkiye_2010_2025.csv",
+   "bytes": 3046,
+   "sha256": "bdd3a17dca073095"
+  },
+  {
+   "path": "outputs/parse_log.txt",
+   "bytes": 3594,
+   "sha256": "5514b44f79d08277"
+  },
+  {
+   "path": "outputs/table6_ranks.json",
+   "bytes": 399,
+   "sha256": "4921150489815d7b"
+  },
+  {
+   "path": "raw/ancc_20240129.html",
+   "bytes": 138244,
+   "sha256": "1ef6e974b04bc701"
+  },
+  {
+   "path": "raw/ancc_20240129.html.txt",
+   "bytes": 6025,
+   "sha256": "2ecc984af9382dbb"
+  },
+  {
+   "path": "raw/ancc_20260924.html",
+   "bytes": 141941,
+   "sha256": "419397c2b968d54b"
+  },
+  {
+   "path": "raw/ancc_20260924.html.txt",
+   "bytes": 8979,
+   "sha256": "c6f814c06a3f43c8"
+  },
+  {
+   "path": "raw/ckan_search.json",
+   "bytes": 88192,
+   "sha256": "fdafc31c5b807bd5"
+  },
+  {
+   "path": "raw/fedreg_caatsa_ssb.html",
+   "bytes": 6533,
+   "sha256": "e4074135851843f7"
+  },
+  {
+   "path": "raw/gac_notice_1108.html",
+   "bytes": 26006,
+   "sha256": "5f77b1e669dced4e"
+  },
+  {
+   "path": "raw/gac_notice_1108.html.txt",
+   "bytes": 3734,
+   "sha256": "8acc22e626020c54"
+  },
+  {
+   "path": "raw/gac_relations_en.html",
+   "bytes": 28593,
+   "sha256": "59f6bdf1fd7581da"
+  },
+  {
+   "path": "raw/gac_relations_en.html.txt",
+   "bytes": 4568,
+   "sha256": "b88430cdd7df7795"
+  },
+  {
+   "path": "raw/gac_turkey_review_2021.pdf",
+   "bytes": 6034806,
+   "sha256": "6413156cb5d5af6e"
+  },
+  {
+   "path": "raw/hansard_20040421.html",
+   "bytes": 17887,
+   "sha256": "3ae7f214126733fc"
+  },
+  {
+   "path": "raw/ikv.txt",
+   "bytes": 3975,
+   "sha256": "52659f81ba8366cf"
+  },
+  {
+   "path": "raw/ikv_2025_defence_exports.pdf",
+   "bytes": 200067,
+   "sha256": "6e681e87c001c469"
+  },
+  {
+   "path": "raw/mfatr_1915.html",
+   "bytes": 36958,
+   "sha256": "0e386e4822973db6"
+  },
+  {
+   "path": "raw/mfatr_1915.html.txt",
+   "bytes": 10494,
+   "sha256": "9d74eeb1ad72f71d"
+  },
+  {
+   "path": "raw/mfatr_2006_63.html",
+   "bytes": 30142,
+   "sha256": "8c3fe164607b60b1"
+  },
+  {
+   "path": "raw/mfatr_2006_63.html.txt",
+   "bytes": 6392,
+   "sha256": "2e0c8b3957ac5501"
+  },
+  {
+   "path": "raw/mfatr_canada_relations.html",
+   "bytes": 29606,
+   "sha256": "22e4a725de9da77e"
+  },
+  {
+   "path": "raw/mfatr_canada_relations.html.txt",
+   "bytes": 6047,
+   "sha256": "84ee25709114b1cf"
+  },
+  {
+   "path": "raw/nato_def_exp_2026.pdf",
+   "bytes": 10177392,
+   "sha256": "efd05e4a7e715b36"
+  },
+  {
+   "path": "raw/nato_def_exp_2026.txt",
+   "bytes": 15,
+   "sha256": "935047c666a1db09"
+  },
+  {
+   "path": "raw/nato_news.html",
+   "bytes": 316643,
+   "sha256": "bdd498ebef3d7c60"
+  },
+  {
+   "path": "raw/nato_topics_expenditure.html",
+   "bytes": 341611,
+   "sha256": "cd30459983da36dd"
+  },
+  {
+   "path": "raw/openparl_20040421.html",
+   "bytes": 69267,
+   "sha256": "4f49803941c563be"
+  },
+  {
+   "path": "raw/openparl_20040421.html.txt",
+   "bytes": 24037,
+   "sha256": "68d4a8daa4ea4475"
+  },
+  {
+   "path": "raw/openparl_20040421_page.html",
+   "bytes": 69266,
+   "sha256": "782d8e4e359cc037"
+  },
+  {
+   "path": "raw/openparl_20040421_page10.html",
+   "bytes": 55880,
+   "sha256": "a56b02d2cbdb184f"
+  },
+  {
+   "path": "raw/openparl_20040421_page2.html",
+   "bytes": 61953,
+   "sha256": "caedb512146fa7a6"
+  },
+  {
+   "path": "raw/openparl_20040421_page3.html",
+   "bytes": 63761,
+   "sha256": "bf968d90718700b9"
+  },
+  {
+   "path": "raw/openparl_20040421_page4.html",
+   "bytes": 63383,
+   "sha256": "dfdf103ece65e96d"
+  },
+  {
+   "path": "raw/openparl_20040421_page5.html",
+   "bytes": 60472,
+   "sha256": "1458e2a573d04be4"
+  },
+  {
+   "path": "raw/openparl_20040421_page6.html",
+   "bytes": 66119,
+   "sha256": "d0b1ded04ddc8b95"
+  },
+  {
+   "path": "raw/openparl_20040421_page7.html",
+   "bytes": 129436,
+   "sha256": "8121b40e0e88798f"
+  },
+  {
+   "path": "raw/openparl_20040421_page8.html",
+   "bytes": 76489,
+   "sha256": "9f240c425f8b2805"
+  },
+  {
+   "path": "raw/openparl_20040421_page9.html",
+   "bytes": 47757,
+   "sha256": "c9137c88d46c3494"
+  },
+  {
+   "path": "raw/openparl_2004_2_25__page_10.html",
+   "bytes": 95602,
+   "sha256": "1a1c0b5ace2f45da"
+  },
+  {
+   "path": "raw/openparl_2004_4_20__page_11.html",
+   "bytes": 95536,
+   "sha256": "09f6130aabbe15cf"
+  },
+  {
+   "path": "raw/pmo_46783.html",
+   "bytes": 44041,
+   "sha256": "7abe3342dd74cf2c"
+  },
+  {
+   "path": "raw/pmo_46783.html.txt",
+   "bytes": 2737,
+   "sha256": "37b0339db21ea28f"
+  },
+  {
+   "path": "raw/pmo_54279.html",
+   "bytes": 44882,
+   "sha256": "52541be96308ee1b"
+  },
+  {
+   "path": "raw/pmo_54279.html.txt",
+   "bytes": 3980,
+   "sha256": "91b7cf034d6b5d64"
+  },
+  {
+   "path": "raw/pmo_armenian_20260424.html",
+   "bytes": 42148,
+   "sha256": "229215458901fd46"
+  },
+  {
+   "path": "raw/pmo_armenian_20260424.html.txt",
+   "bytes": 2180,
+   "sha256": "07fb46b2ea919513"
+  },
+  {
+   "path": "raw/pmo_dsrb_declaration_20260707.html",
+   "bytes": 42880,
+   "sha256": "443f5680b87ab311"
+  },
+  {
+   "path": "raw/pmo_dsrb_declaration_20260707.html.txt",
+   "bytes": 2584,
+   "sha256": "42297d83fe0ec9c4"
+  },
+  {
+   "path": "raw/pmo_joint_statement_20261022.html",
+   "bytes": 46760,
+   "sha256": "4f935b67d7b357de"
+  },
+  {
+   "path": "raw/pmo_joint_statement_20261022.html.txt",
+   "bytes": 6199,
+   "sha256": "c409f3d2d04ab78f"
+  },
+  {
+   "path": "raw/pmo_news.html",
+   "bytes": 39659,
+   "sha256": "5a5c34b22890373a"
+  },
+  {
+   "path": "raw/pmo_news.html.txt",
+   "bytes": 996,
+   "sha256": "6c8daf3bae6807da"
+  },
+  {
+   "path": "raw/pmo_readout_20230711.html",
+   "bytes": 44041,
+   "sha256": "fe51c7fdc9ebfcf8"
+  },
+  {
+   "path": "raw/pmo_readout_20230711.html.txt",
+   "bytes": 2737,
+   "sha256": "37b0339db21ea28f"
+  },
+  {
+   "path": "raw/pmo_readout_20261022.html",
+   "bytes": 44370,
+   "sha256": "a12acf617885139e"
+  },
+  {
+   "path": "raw/pmo_readout_20261022.html.txt",
+   "bytes": 3948,
+   "sha256": "39a30b768ace2891"
+  },
+  {
+   "path": "raw/review.txt",
+   "bytes": 67013,
+   "sha256": "7154202690bdc8f4"
+  },
+  {
+   "path": "raw/state_caatsa_20201214.html",
+   "bytes": 109928,
+   "sha256": "212a322a2a10be4c"
+  },
+  {
+   "path": "raw/state_caatsa_20201214.html.txt",
+   "bytes": 15053,
+   "sha256": "4c90024b65b814e0"
+  },
+  {
+   "path": "raw/tim_sektorel.html",
+   "bytes": 529333,
+   "sha256": "6ad2acc296868c42"
+  },
+  {
+   "path": "raw/nato_pages/p-01.txt",
+   "bytes": 1727,
+   "sha256": "3437dfc76e6cfc4f"
+  },
+  {
+   "path": "raw/nato_pages/p-02.txt",
+   "bytes": 968,
+   "sha256": "883e6ef28ec9060e"
+  },
+  {
+   "path": "raw/nato_pages/p-03.txt",
+   "bytes": 1593,
+   "sha256": "aa051d4377eb915e"
+  },
+  {
+   "path": "raw/nato_pages/p-04.txt",
+   "bytes": 1059,
+   "sha256": "9c170973a3673c84"
+  },
+  {
+   "path": "raw/nato_pages/p-05.txt",
+   "bytes": 5579,
+   "sha256": "94b365854c545867"
+  },
+  {
+   "path": "raw/nato_pages/p-06.txt",
+   "bytes": 4851,
+   "sha256": "601968f48d0656cc"
+  },
+  {
+   "path": "raw/nato_pages/p-07.txt",
+   "bytes": 3515,
+   "sha256": "5ad643fd31386673"
+  },
+  {
+   "path": "raw/nato_pages/p-08.txt",
+   "bytes": 1191,
+   "sha256": "fbf9dc4b8e202a40"
+  },
+  {
+   "path": "raw/nato_pages/p-09.txt",
+   "bytes": 7544,
+   "sha256": "8febf2cd1049487b"
+  },
+  {
+   "path": "raw/nato_pages/p-10.txt",
+   "bytes": 2418,
+   "sha256": "019855b630dfdd2c"
+  },
+  {
+   "path": "raw/nato_pages/p-11.txt",
+   "bytes": 2021,
+   "sha256": "c470f6270229fe51"
+  },
+  {
+   "path": "raw/nato_pages/p-12.txt",
+   "bytes": 3670,
+   "sha256": "da1c21cfddf9b1e1"
+  },
+  {
+   "path": "raw/nato_pages/p-13.txt",
+   "bytes": 3184,
+   "sha256": "c8ea2d42536b36ab"
+  },
+  {
+   "path": "raw/nato_pages/p-14.txt",
+   "bytes": 3637,
+   "sha256": "3853ea2504bdf985"
+  },
+  {
+   "path": "raw/nato_pages/p-15.txt",
+   "bytes": 1445,
+   "sha256": "0112c923f1f0d265"
+  },
+  {
+   "path": "raw/reports/cj.txt",
+   "bytes": 233,
+   "sha256": "debd0eac3beb5284"
+  },
+  {
+   "path": "raw/reports/ps3.html",
+   "bytes": 253952,
+   "sha256": "85cfc03a034bc607"
+  },
+  {
+   "path": "raw/reports/ps_q.html",
+   "bytes": 255311,
+   "sha256": "4d8a838c2d5d4270"
+  },
+  {
+   "path": "raw/reports/pub_9.504691.html",
+   "bytes": 94818,
+   "sha256": "e746365726714692"
+  },
+  {
+   "path": "raw/reports/pub_9.506695.html",
+   "bytes": 94677,
+   "sha256": "06cbb24d09956a31"
+  },
+  {
+   "path": "raw/reports/pub_9.507790.html",
+   "bytes": 101346,
+   "sha256": "6e93d32e8adf0a6f"
+  },
+  {
+   "path": "raw/reports/pub_9.507940.html",
+   "bytes": 103517,
+   "sha256": "e9651f4292f04ca3"
+  },
+  {
+   "path": "raw/reports/pub_9.660735.html",
+   "bytes": 89170,
+   "sha256": "dbc27291a4334066"
+  },
+  {
+   "path": "raw/reports/pub_9.661641.html",
+   "bytes": 89634,
+   "sha256": "e94b27b9f23b6ff3"
+  },
+  {
+   "path": "raw/reports/pub_9.661647.html",
+   "bytes": 89634,
+   "sha256": "d4b7ce0b5f80f812"
+  },
+  {
+   "path": "raw/reports/pub_9.691727.html",
+   "bytes": 89216,
+   "sha256": "c7e67f80fd717597"
+  },
+  {
+   "path": "raw/reports/pub_9.800151.html",
+   "bytes": 99641,
+   "sha256": "4a17a95829855f28"
+  },
+  {
+   "path": "raw/reports/pub_9.800156.html",
+   "bytes": 99590,
+   "sha256": "d1302aa124e321d9"
+  },
+  {
+   "path": "raw/reports/pub_9.804658.html",
+   "bytes": 91098,
+   "sha256": "7cd75bd3c8ab39ee"
+  },
+  {
+   "path": "raw/reports/pub_9.828714.html",
+   "bytes": 122,
+   "sha256": "880c929020d4b79b"
+  },
+  {
+   "path": "raw/reports/pub_9.829568.html",
+   "bytes": 100226,
+   "sha256": "9a455bf108286e31"
+  },
+  {
+   "path": "raw/reports/pub_9.838725.html",
+   "bytes": 98078,
+   "sha256": "d926888bd5895dc9"
+  },
+  {
+   "path": "raw/reports/pub_9.838972.html",
+   "bytes": 97846,
+   "sha256": "749b914c06bb2565"
+  },
+  {
+   "path": "raw/reports/pub_9.880291.html",
+   "bytes": 100726,
+   "sha256": "bd0d7c07adfa6244"
+  },
+  {
+   "path": "raw/reports/pub_9.904754.html",
+   "bytes": 92990,
+   "sha256": "cc47b72893f4304f"
+  },
+  {
+   "path": "raw/reports/pub_9.917302.html",
+   "bytes": 103583,
+   "sha256": "54c7f194c555870c"
+  },
+  {
+   "path": "raw/reports/pubs_9880296.html",
+   "bytes": 98358,
+   "sha256": "e7215e5e418cf24c"
+  },
+  {
+   "path": "raw/reports/pubs_search.html",
+   "bytes": 254746,
+   "sha256": "f934fed8b0affb9a"
+  },
+  {
+   "path": "raw/reports/pubs_search2.html",
+   "bytes": 254956,
+   "sha256": "1073882ee74ea19c"
+  },
+  {
+   "path": "raw/reports/rep_2014.pdf",
+   "bytes": 800859,
+   "sha256": "df2ac4041d4abf1b"
+  },
+  {
+   "path": "raw/reports/rep_2014.txt",
+   "bytes": 82344,
+   "sha256": "9b9d41bf300aee59"
+  },
+  {
+   "path": "raw/reports/rep_2015.pdf",
+   "bytes": 317302,
+   "sha256": "5d07e7477a98678e"
+  },
+  {
+   "path": "raw/reports/rep_2015.txt",
+   "bytes": 71978,
+   "sha256": "f8a80dbe2fe56a0e"
+  },
+  {
+   "path": "raw/reports/rep_2016.pdf",
+   "bytes": 1437408,
+   "sha256": "30b2ce200df83921"
+  },
+  {
+   "path": "raw/reports/rep_2016.txt",
+   "bytes": 121610,
+   "sha256": "6e315c185c5799d3"
+  },
+  {
+   "path": "raw/reports/rep_2017.pdf",
+   "bytes": 1084212,
+   "sha256": "182a32af1fd2a91e"
+  },
+  {
+   "path": "raw/reports/rep_2017.txt",
+   "bytes": 114978,
+   "sha256": "312a910645849eb5"
+  },
+  {
+   "path": "raw/reports/rep_2018.pdf",
+   "bytes": 1114470,
+   "sha256": "a3e872c88b2d4196"
+  },
+  {
+   "path": "raw/reports/rep_2018.txt",
+   "bytes": 132593,
+   "sha256": "cb1cf2ee9496958a"
+  },
+  {
+   "path": "raw/reports/rep_2019.pdf",
+   "bytes": 2674708,
+   "sha256": "ce624d322874e243"
+  },
+  {
+   "path": "raw/reports/rep_2019.txt",
+   "bytes": 138654,
+   "sha256": "78a4c98d7c57a39b"
+  },
+  {
+   "path": "raw/reports/rep_2020.pdf",
+   "bytes": 912644,
+   "sha256": "f107f4d6d1f868d2"
+  },
+  {
+   "path": "raw/reports/rep_2020.txt",
+   "bytes": 152775,
+   "sha256": "cf54a698da3c3aad"
+  },
+  {
+   "path": "raw/reports/rep_2021.pdf",
+   "bytes": 3876893,
+   "sha256": "94b58397fdab19a8"
+  },
+  {
+   "path": "raw/reports/rep_2021.txt",
+   "bytes": 149271,
+   "sha256": "a9a3a5dba4fd61ef"
+  },
+  {
+   "path": "raw/reports/rep_2022.pdf",
+   "bytes": 1116992,
+   "sha256": "2f7612901a21e155"
+  },
+  {
+   "path": "raw/reports/rep_2022.txt",
+   "bytes": 150632,
+   "sha256": "5277a5b5c95943a1"
+  },
+  {
+   "path": "raw/reports/report_2010-2011.html",
+   "bytes": 470,
+   "sha256": "40a0457e763902ed"
+  },
+  {
+   "path": "raw/reports/report_2012-2013.html",
+   "bytes": 4429,
+   "sha256": "1b2209efaf8de90a"
+  },
+  {
+   "path": "raw/reports/report_2014.html",
+   "bytes": 4428,
+   "sha256": "4822dc25d46ad286"
+  },
+  {
+   "path": "raw/reports/report_2015.html",
+   "bytes": 4429,
+   "sha256": "f948f832a4ef49f9"
+  },
+  {
+   "path": "raw/reports/report_2016.html",
+   "bytes": 4429,
+   "sha256": "ca24ddff99d8def3"
+  },
+  {
+   "path": "raw/reports/report_2017.html",
+   "bytes": 4429,
+   "sha256": "eeaf57e6e8fdc000"
+  },
+  {
+   "path": "raw/reports/report_2018.html",
+   "bytes": 4428,
+   "sha256": "3e49409404f0cc27"
+  },
+  {
+   "path": "raw/reports/report_2019.html",
+   "bytes": 4428,
+   "sha256": "5fe23895f3913ef5"
+  },
+  {
+   "path": "raw/reports/report_2020.html",
+   "bytes": 470,
+   "sha256": "40a0457e763902ed"
+  },
+  {
+   "path": "raw/reports/report_2021.html",
+   "bytes": 470,
+   "sha256": "40a0457e763902ed"
+  },
+  {
+   "path": "raw/reports/report_2022.html",
+   "bytes": 470,
+   "sha256": "40a0457e763902ed"
+  },
+  {
+   "path": "raw/reports/report_2023.html",
+   "bytes": 201139,
+   "sha256": "6ade23e7b87292ae"
+  },
+  {
+   "path": "raw/reports/report_2023.html.txt",
+   "bytes": 106476,
+   "sha256": "5802424b823ad45f"
+  },
+  {
+   "path": "raw/reports/report_2024.html",
+   "bytes": 189127,
+   "sha256": "7783524568596015"
+  },
+  {
+   "path": "raw/reports/report_2024.html.txt",
+   "bytes": 105535,
+   "sha256": "9099ba1350125e83"
+  },
+  {
+   "path": "raw/reports/report_2025.html",
+   "bytes": 212194,
+   "sha256": "cde98b65a3f0702b"
+  },
+  {
+   "path": "raw/reports/report_2025.html.txt",
+   "bytes": 108972,
+   "sha256": "20ed62f1774e4b5c"
+  },
+  {
+   "path": "raw/reports/sipri_canada.html",
+   "bytes": 61444,
+   "sha256": "bd2d659b81ea21e5"
+  },
+  {
+   "path": "raw/reports/sipri_canada_2010_2011.pdf",
+   "bytes": 649829,
+   "sha256": "4dd2e208c2447878"
+  },
+  {
+   "path": "raw/reports/sipri_canada_2010_2011.txt",
+   "bytes": 125529,
+   "sha256": "e72a6ce50df647f0"
+  },
+  {
+   "path": "raw/reports/sipri_canada_2012_2013.pdf",
+   "bytes": 365309,
+   "sha256": "0a1cf560672f41a0"
+  },
+  {
+   "path": "raw/reports/sipri_canada_2012_2013.txt",
+   "bytes": 84935,
+   "sha256": "98a4f5a7184b3ea3"
+  },
+  {
+   "path": "raw/reports/urls.txt",
+   "bytes": 2646,
+   "sha256": "586f7fd2a873976b"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "_note": "Values that are not computed from a data table. Each has its source; the slide builder reads them from here.",
+ "nato_turkiye_joined_year": {
+  "value": 1952,
+  "source": "NATO, member countries: Türkiye joined on 18 February 1952 (https://www.nato.int/cps/en/natohq/topics_52044.htm)"
+ },
+ "partnership_date": {
+  "value": "October 22, 2026",
+  "source": "PMO joint statement, Ankara, 2026-10-22 (https://www.pm.gc.ca/en/news/statements/2026/10/22/statement-prime-minister-carney-and-president-recep-tayyip-erdogan)"
+ },
+ "flights_old_per_week": {
+  "value": 12,
+  "source": "PMO news release 2026-10-23; people/results-followup.md line 44"
+ },
+ "flights_new_per_week": {
+  "value": 21,
+  "source": "PMO news release 2026-10-23 ('from 12 to up to 21'); people/results-followup.md line 44"
+ },
+ "permits_cancelled_2021": {
+  "value": 29,
+  "source": "GAC statement 2021-04-12; defence/results.md; independent check OK"
+ },
+ "cop31_dates": {
+  "value": "November 9 to 20",
+  "source": "PMO joint statement 2026-10-22 (COP31, Antalya, 9-20 November 2026)"
+ },
+ "fta_round_month": {
+  "value": "November 30",
+  "source": "PMO news release 2026-10-23: first round of negotiations November 30 to December 4, 2026, in Ankara (https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic)"
+ },
+ "air_transat_montreal_istanbul_start": {
+  "value": "October 29",
+  "source": "Air Transat news release https://www.transat.com/en-CA/corporate/media/news-releases/124611; people/results.md line 269"
+ },
+ "first_official_visit": {
+  "value": true,
+  "source": "Kept for the builder. Wording on slides: 'first bilateral visit'. PMO news release 2026-10-06: 'This will mark the first bilateral visit to Türkiye by a Canadian Prime Minister'; the same release says Carney last travelled to Türkiye in July 2026 for the NATO Summit in Ankara, so 'first official visit' or 'first visit' can be challenged"
+ },
+ "fta_round_dates": {
+  "value": "November 30 to December 4",
+  "source": "same PMO news release"
+ },
+ "first_bilateral_visit": {
+  "value": "first bilateral visit to Türkiye by a Canadian prime minister",
+  "source": "PMO news release 2026-10-06, PMO readout 2026-10-22, the Prime Minister's remarks 2026-10-22 and PMO news release 2026-10-23 all say 'the first bilateral visit to Türkiye by a Canadian Prime Minister' (https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic). Joint statement 2026-10-22: 'the first visit of a Head of Government between two countries'"
+ },
+ "signed_during_visit": {
+  "value": [
+   "expanded Air Transport Agreement",
+   "joint statement on energy cooperation",
+   "Export Development Canada and Türk Eximbank MOU"
+  ],
+  "source": "PMO news release 2026-10-23 (https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic): 'signed the recently expanded Air Transport Agreement'; 'signed a joint statement' on energy; EDC and Türk Eximbank 'signed a memorandum of understanding'"
+ },
+ "diversifying_quote": {
+  "value": "Canada is diversifying our trade",
+  "source": "Prime Minister Carney, quoted in PMO news release 2026-10-23 (https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic)"
+ },
+ "flights_easier_affordable": {
+  "value": "easier and more affordable",
+  "source": "PMO news release 2026-10-23 (https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic): more flights make travel 'easier and more affordable' for families, students and tourists"
+ },
+ "tr_nuclear_goal_2035_gw": {
+  "value": 7.2,
+  "source": "Türkiye Ministry of Energy, 2023-09-25: addition of 7.2 GW of nuclear by end of 2035 (https://enerji.gov.tr/news-detail?id=21184)"
+ },
+ "tr_nuclear_goal_2050_gw": {
+  "value": 20,
+  "source": "Türkiye Ministry of Energy, 2023-09-25: 'over 20 GW' of nuclear capacity by end of 2050 (https://enerji.gov.tr/news-detail?id=21184)"
+ },
+ "tr_wind_solar_goal_2035_gw": {
+  "value": 120,
+  "source": "Türkiye Ministry of Energy, 2024-11-04: '120 thousand megawatts of solar and wind installed capacity by 2035' (https://enerji.gov.tr/news-detail?id=21392); Invest in Türkiye energy page"
+ },
+ "tr_net_zero_year": {
+  "value": 2053,
+  "source": "Invest in Türkiye (Presidency Investment Office), energy sector page: 'Net Zero 2053' (https://www.invest.gov.tr/en/Sectors/Pages/energy.aspx)"
+ },
+ "akkuyu_gw": {
+  "value": 4.8,
+  "source": "Invest in Türkiye energy page: 4.8 GW Akkuyu plant under construction; IAEA PRIS: 4 units under construction (energy/outputs/pris_summary.txt)"
+ },
+ "candu_mou": {
+  "value": "March 2026",
+  "source": "Türkiye Ministry of Energy (https://enerji.gov.tr/news-detail?id=31758) and AtkinsRéalis release 2026-03-03: TÜNAŞ and AtkinsRéalis MoU for a detailed assessment of CANDU technology in Türkiye"
+ },
+ "defence_milestones": {
+  "value": [
+   [
+    "2019-10",
+    "New permits suspended after Türkiye's operation in Syria"
+   ],
+   [
+    "2021-04",
+    "29 permits cancelled. A review found credible evidence that Canadian sensors were used in Nagorno-Karabakh"
+   ],
+   [
+    "2024-01",
+    "Reopened case by case. Türkiye must say if goods will go to a country outside NATO"
+   ],
+   [
+    "2025",
+    "Permit to broker $125 million of Turkish ammunition for Ukraine"
+   ],
+   [
+    "2026-10",
+    "Agreement to link the two countries' defence industries"
+   ]
+  ],
+  "source": "GAC Report on Exports of Military Goods 2019 and 2020; GAC statement 2021-04-12 and review; GAC Notice to Exporters 1108 (2024-01); DND release 2026-07-08; DSRB declaration 2026-07-07; Canada-Türkiye joint statement 2026-10-22 (defence/results.md lines 61-98); GAC Report on Exports of Military Goods 2025, Table 16 (brokering permit, ECL 2-3, origin Türkiye, destination Ukraine, $125,000,000 authorized)"
+ },
+ "trade_mission_2027": {
+  "value": "2027",
+  "source": "PMO news release 2026-10-23 (https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic): Canadian trade mission to Türkiye in 2027 led by the Minister of International Trade"
+ },
+ "erdogan_visit": {
+  "value": "Date to be set",
+  "source": "Joint statement 2026-10-22: Türkiye welcomed the invitation for President Erdoğan to visit Canada at a mutually convenient time"
+ },
+ "tk_countries": {
+  "value": 120,
+  "source": "Guinness World Records, 'Most countries flown to by an airline': Turkish Airlines, 120 countries, recorded 2024-10-21 for Sep 2023 to Sep 2024 (https://www.guinnessworldrecords.com/world-records/736843-most-countries-flown-by-a-commercial-airline)"
+ },
+ "ist_passengers_2025": {
+  "value": 84437710,
+  "source": "ACI World, 2026-07-15: Istanbul Airport 84,437,710 passengers in 2025, 8th in the world (https://aci.aero/2026/07/15/worlds-busiest-airports-atlanta-holds-asia-climbs-strong-demand-while-asia-pacific-growth-reshape-the-rankings/)"
+ },
+ "pmo_air_beyond": {
+  "value": "new opportunities for Canadian exporters to Türkiye and the markets beyond",
+  "source": "PMO news release 2026-10-23 (https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic)"
+ },
+ "pmo_defence_benefit": {
+  "value": "creating good jobs at home, export opportunities abroad",
+  "source": "PMO news release 2026-10-23 (https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic): the defence sector MOU 'will connect Canadian and Turkish companies so they can build together, creating good jobs at home, export opportunities abroad, greater security for Canadians, and a stronger NATO Alliance.'"
+ },
+ "nato_second_largest": {
+  "value": true,
+  "source": "PMO news release 2026-10-23: Türkiye 'has NATO's second-largest standing military'; NATO defence expenditure data (2026 estimates): Türkiye 395,800 personnel, Canada 77,100 (defence/results.md lines 120-123)"
+ },
+ "ancc_2026": {
+  "value": "asks Canada to keep full authority over military export permits",
+  "source": "Armenian National Committee of Canada, 2026-09-24, submission to the FTA consultation (https://anccanada.org/ancc-calls-on-canada-to-protect-export-controls-in-canada-turkey-fta/)"
+ },
+ "permit_cancel_authority": {
+  "value": true,
+  "source": "Global Affairs Canada Notice to Exporters No. 1108 (2024-01-23, modified 2024-01-29): permits may be suspended or cancelled if there is credible evidence of misuse (defence/results.md line 68)"
+ },
+ "non_us_exports_goal": {
+  "value": "double our non-U.S. exports in the next decade",
+  "source": "PMO news release 2025-10-29, 'Prime Minister Carney strengthens trade and economic partnerships': 'the government's ambitious new mission to double our non-U.S. exports in the next decade' (https://www.pm.gc.ca/en/news/news-releases/2025/10/29/prime-minister-carney-strengthens-trade-and-economic-partnerships)"
+ }
+}

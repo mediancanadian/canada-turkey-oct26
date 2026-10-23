@@ -1,0 +1,57 @@
+{
+ "cdia_2025_vs_2024_pct": -19.7,
+ "cdia_2025_vs_2022_x": 3.34,
+ "canada_2025": {
+  "pop": 41608982.0,
+  "median_age": 40.6,
+  "pct_0_14": 15.0,
+  "pct_15_64": 65.5,
+  "pct_65plus": 19.5
+ },
+ "canada_2026": {
+  "pop": 41798407.0,
+  "median_age": 40.9,
+  "pct_0_14": 15.0,
+  "pct_15_64": 65.0,
+  "pct_65plus": 20.0
+ },
+ "canada_growth_jul2025_jul2026_pct": 0.46,
+ "min_wage": {
+  "net": {
+   "TRY": 28075.5,
+   "CAD_at_2026_avg": 848,
+   "USD_at_2026_avg": 611,
+   "CAD_at_latest": 795,
+   "USD_at_latest": 567
+  },
+  "gross": {
+   "TRY": 33030.0,
+   "CAD_at_2026_avg": 997,
+   "USD_at_2026_avg": 719,
+   "CAD_at_latest": 935,
+   "USD_at_latest": 667
+  }
+ },
+ "fx_used": {
+  "TRY_per_CAD_2026_avg": 33.127,
+  "CAD_per_USD_2026_avg": 1.3876,
+  "latest_TRY_date": "2026-10-22",
+  "TRY_per_CAD_latest": 35.3357,
+  "latest_USD_date": "2026-10-22",
+  "CAD_per_USD_latest": 1.4021
+ },
+ "hh_consumption_2025_TUR": {
+  "usd_bn": 873.8,
+  "per_person_usd": 10181
+ },
+ "hh_consumption_2025_CAN": {
+  "usd_bn": 1294.1,
+  "per_person_usd": 31107
+ },
+ "gdp_pc_ratio_can_over_tur_2025": {
+  "nominal": 2.99,
+  "ppp": 1.52
+ },
+ "eldorado_turkiye_share_2025_pct": 49.4,
+ "cpi_cumulative_factor_dec2017_to_sep2026": 13.3
+}

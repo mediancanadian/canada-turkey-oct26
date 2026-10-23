@@ -1,0 +1,562 @@
+{
+ "thread": "Türkiye as a market, risks, investment flows",
+ "created": "2026-10-23",
+ "results": "results.md",
+ "scripts": {
+  "scripts/fx.py": "BoC TRY/CAD annual series and lira loss",
+  "scripts/imports.py": "Comtrade partner and HS2 tables",
+  "scripts/compute.py": "FDI table, Canada age structure, min wage conversions, consumption per person, IMF table, CPI cumulative"
+ },
+ "run": "python3 -I scripts/<name>.py ../market",
+ "web_sources_not_downloaded": [
+  "https://www.turkishminute.com/2026/02/09/turkeys-population-surpasses-86-million-in-2025/",
+  "https://brtk.net/?p=1175126",
+  "https://hronika.kz/?p=9848",
+  "https://turkishminute.com/2026/05/21/turkeys-fertility-rate-falls-to-1-42-children-per-woman/",
+  "https://www.hurriyetdailynews.com/turkiyes-population-soars-to-86-3-mln-official-data-says-225841",
+  "https://www.alomaliye.com/2024/07/30/nufus-projeksiyonlari-2023-2100/",
+  "https://www.dailysabah.com/turkiye/turkiyes-population-expected-to-diminish-below-77-million-by-2100/news/amp",
+  "https://www.turkiyetoday.com/nation/turkiyes-top-earners-capture-48-of-income-as-inequality-edges-lower-3211937",
+  "https://hurriyetdailynews.com/s-p-affirms-turkiyes-ratings-outlook-stable-221211",
+  "https://www.hurriyetdailynews.com/moodys-completes-periodic-review-of-turkiye-takes-no-rating-action-224798",
+  "https://www.hurriyetdailynews.com/fitch-affirms-turkiyes-bb-rating-with-stable-outlook-224514",
+  "https://investinglive.com/forex/fitch-affirms-canada-at-aa-with-a-stable-outlook/",
+  "https://investmentpolicy.unctad.org/international-investment-agreements/countries/214/t-rkiye",
+  "https://investmentpolicy.unctad.org/investment-dispute-settlement/cases/1119/alamos-gold-v-turkey",
+  "https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties/notices/2011/turkey-entry-force.html"
+ ],
+ "blocked": [
+  "data.tuik.gov.tr / veriportali.tuik.gov.tr (API 403, robots)",
+  "www.trade.gov.tr (proxy refused)",
+  "aa.com.tr (robots)",
+  "UNCTAD BIT page 648 Canada-Turkey (permission not answered)",
+  "hmb.gov.tr credit ratings (JS only)",
+  "GAC Türkiye FTA consultation page (connection reset)"
+ ],
+ "files": [
+  {
+   "path": "results.md",
+   "bytes": 22092,
+   "sha256": "2b2afd8cdf5b2ed32e209c844a926cc68a374b7ba1f5606b7585e0824b2d1b32",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/compute.py",
+   "bytes": 5045,
+   "sha256": "2787d8ac3abc320ca519f6488ea2a3dfbd5e077fc12faa24d3333dff54e51fd6",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/fx.py",
+   "bytes": 2259,
+   "sha256": "010ad10cd7de8ff7d9c1bfcae218499f4de49d7c7e580c08e1ad5f6bba75ccdf",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/imports.py",
+   "bytes": 2232,
+   "sha256": "2ceae9ef6fc641f1301f68bc892978ef48702f5422918a4e3aa00f9f11a548e6",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/derived.json",
+   "bytes": 1205,
+   "sha256": "2319b28c3de307720e0fd96bccb66cb0c43114f591cf12c28b08760fe8c2ebfe",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/fdi_canada_turkiye_2010_2025.csv",
+   "bytes": 315,
+   "sha256": "85aef70389a50817a81bc1d6d44ee348b5a594f6e38b3f745fe4da971f2506d2",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/fx_lira_loss.csv",
+   "bytes": 277,
+   "sha256": "54ebda63789e4b21cd3ba91afa614d2120f188eac6ece2dcb29524f763a451b0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/fx_try_per_cad_annual.csv",
+   "bytes": 561,
+   "sha256": "3c1cd24c03acda61b19503a6b35e5fde9a80eb166c02158b5589f662eddd6684",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/imf_weo_oct2026_tur_can.csv",
+   "bytes": 680,
+   "sha256": "53a9e8606734c768be91d05a5c49b2e58a5baaaa58af8a6b8f4fab7c087c6b7e",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/tcmb_policy_rate_1w_repo.csv",
+   "bytes": 1068,
+   "sha256": "991246155c44b39aae27340e6ce5905a40eb5b7c92721412e642525a0ce61261",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/tur_cpi_monthly_tcmb.csv",
+   "bytes": 5097,
+   "sha256": "0f9d78e5d7b89324a0ad3d22c9574c16310fad1a359b4326505954c9c03f15e3",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/tur_imports_2024_by_partner.csv",
+   "bytes": 7342,
+   "sha256": "46bf6b3d366f086ebb59c328c01af6977cba64f137edbd112a4c235fe298a7b9",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/tur_imports_2025_by_partner.csv",
+   "bytes": 7299,
+   "sha256": "cea038429bfefa7d7682a37a3459b1d67cba069e34afff797ecb6642b8dd9c7d",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/tur_imports_2025_hs2_canada.csv",
+   "bytes": 1441,
+   "sha256": "563aa2cee91ef7aae20e7dd98fb06732f0cfc500d23d043d41ccb381ab04fc1d",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/tur_imports_2025_hs2_world.csv",
+   "bytes": 1877,
+   "sha256": "a77cb1de71401bbb6700543d57593fa11e0f57f205430a9fdf5e12cc891ad1dd",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/imf/BCA.json",
+   "bytes": 148433,
+   "sha256": "1a2ce8ef25b8ca9be796ec41ad2ff943c87777b4a03e14d5de3fdd548c1394af",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/BCA/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/BCA_NGDPD.json",
+   "bytes": 124739,
+   "sha256": "dc00ba1e77238d02b3ed2cf4d2a49fa305ab65ced41907f49efc77fb3e54e405",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/BCA_NGDPD/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/LP.json",
+   "bytes": 150778,
+   "sha256": "9ddc36efbd0d0e8166afa9d00e99526425b3c484daf83f5c230af38213410dd0",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/LP/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/LUR.json",
+   "bytes": 57997,
+   "sha256": "26869cca52f939f48313edcb16218b77e226ac3580f3cec12740290a5a901001",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/LUR/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/NGDPD.json",
+   "bytes": 157611,
+   "sha256": "7294ac0b3013e39b131f50f3aeb23eb31bfa30a3b77199538b1e05518ecb491c",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/NGDPD/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/NGDPDPC.json",
+   "bytes": 175565,
+   "sha256": "d1143922c6ec0248cfc715d66c6d90f347396879a94ef464d150b7b98b75db17",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/NGDPDPC/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/NGDP_RPCH.json",
+   "bytes": 121784,
+   "sha256": "5200170b0f19f025e4e0a4e7685d8d5182e11068bff6ef4c92aea400739f0148",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/NGDP_RPCH/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/PCPIPCH.json",
+   "bytes": 121340,
+   "sha256": "e36fb78dc58c5b50df615add2656469d316fe0c11416559b473de78d56b9aa1d",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/PCPIPCH/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/PPPGDP.json",
+   "bytes": 159695,
+   "sha256": "20f6eefdb5d1179892b296c5c6dad3d15838c41664acb29771fe57689fb894b9",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/PPPGDP/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/PPPPC.json",
+   "bytes": 179284,
+   "sha256": "50bf0fd1cc9a9b57fefadc88d9999f530599065de42c9af0fef726f26b5f23b1",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/PPPPC/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/indicators.json",
+   "bytes": 48417,
+   "sha256": "30d77f9f74ca8c2777193db842876398688dad62f846e76fbdf4d49899e48d62",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/indicators/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/imf/meta.json",
+   "bytes": 46,
+   "sha256": "e7532f93e8716977332fc49e9680d0770d524ee2c39ba6c7842e535f4443efef",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.imf.org/external/datamapper/api/v1/meta/TUR/CAN (WEO Oct 2026)"
+  },
+  {
+   "path": "raw/icsid/case_ARB-21-33.html",
+   "bytes": 90193,
+   "sha256": "cdcb5e7d8eaf4a77b10ca4f846873e08899f3f4436b3c4840f1e7532c3ee1fac",
+   "accessed": "2026-10-23",
+   "source_url": "https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB/21/33"
+  },
+  {
+   "path": "raw/tcmb/cpi_page.html",
+   "bytes": 93185,
+   "sha256": "ae68c05d3eae6581a53936652f9d6976ee154ea9660ce33ea905b2612768d702",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Statistics/Inflation+Data/Consumer+Prices"
+  },
+  {
+   "path": "raw/tcmb/developments_external_debt.pdf",
+   "bytes": 492550,
+   "sha256": "37940d75e6209ac7ef493c1c767cb589dae68ac1c0135ae39529dbbb1c3815d0",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/a666d5da-02c4-4359-8d26-18747a9f39b2/Developments+in+External+Debt+Statistics.pdf?MOD=AJPERES"
+  },
+  {
+   "path": "raw/tcmb/external_debt.pdf",
+   "bytes": 418270,
+   "sha256": "13d3907ea95fb7794ed34ee6b73d0d053016ff0c03516ed6e9a7ae737ae14bdb",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/47e073c6-c1da-450c-bda5-4724e8db061d/External_Debt.pdf?MOD=AJPERES"
+  },
+  {
+   "path": "raw/tcmb/external_debt_page.html",
+   "bytes": 50147,
+   "sha256": "4936cb3d5e32d0f02c1733780f0d0b7344bf366801aa81ca167154eedb736115",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Statistics/Balance+of+Payments+and+Related+Statistics/External+Debt"
+  },
+  {
+   "path": "raw/tcmb/policy_rate.html",
+   "bytes": 53143,
+   "sha256": "f4721f16ee4c1f92f5da3165f012bd58e87bee7acebd22b80491c139fbf7d2e2",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Core+Functions/Monetary+Policy/Central+Bank+Interest+Rates/1+Week+Repo"
+  },
+  {
+   "path": "raw/comtrade/partners_ref.json",
+   "bytes": 96279,
+   "sha256": "2da5667693b5a7f8b203028964a431cdb46356d3a377c7369bb9736c59f03733",
+   "accessed": "2026-10-23",
+   "source_url": "https://comtradeapi.un.org/files/v1/app/reference/partnerAreas.json"
+  },
+  {
+   "path": "raw/comtrade/tur_imports_2024_partners.json",
+   "bytes": 203926,
+   "sha256": "3cf0df72fcfee62a03efee9029646a02266d06d89415f15d34c00d6fcac1d832",
+   "accessed": "2026-10-23",
+   "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=792&period=2024&flowCode=M&cmdCode=TOTAL&partner2Code=0&motCode=0&customsCode=C00"
+  },
+  {
+   "path": "raw/comtrade/tur_imports_2025_from_can_hs2.json",
+   "bytes": 79369,
+   "sha256": "d3a46ab700ccca05942f8b0dc7efd207c33444eda46619f3d0e2123cc23863d5",
+   "accessed": "2026-10-23",
+   "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=792&period=2025&flowCode=M&cmdCode=AG2&partnerCode=124&partner2Code=0&motCode=0&customsCode=C00"
+  },
+  {
+   "path": "raw/comtrade/tur_imports_2025_hs2.json",
+   "bytes": 86370,
+   "sha256": "d3584c22cdc6f8c9847015e3fcb266e01cde382047c1b3e5aefe365396046e11",
+   "accessed": "2026-10-23",
+   "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=792&period=2025&flowCode=M&cmdCode=AG2&partnerCode=0&partner2Code=0&motCode=0&customsCode=C00"
+  },
+  {
+   "path": "raw/comtrade/tur_imports_2025_hs4_7108_2709_2711.json",
+   "bytes": 3703,
+   "sha256": "3cd8572b4c2caeaf73e12ea9f428d7c75ca447425df6f59b6d935452dd715b50",
+   "accessed": "2026-10-23",
+   "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=792&period=2025&flowCode=M&cmdCode=7108,2709,2710,2711,2701&partnerCode=0&partner2Code=0&motCode=0&customsCode=C00"
+  },
+  {
+   "path": "raw/comtrade/tur_imports_2025_partners.json",
+   "bytes": 202189,
+   "sha256": "1effa4c57471448ec8bc182b6304dab139b3bf263fc5cdde4f5efe1b267c0e62",
+   "accessed": "2026-10-23",
+   "source_url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=792&period=2025&flowCode=M&cmdCode=TOTAL&partner2Code=0&motCode=0&customsCode=C00"
+  },
+  {
+   "path": "raw/finance_canada/seu2026_annex3_debt_mgmt.html",
+   "bytes": 76689,
+   "sha256": "2e01ad321b96a71b886a6ebe41d7bb1e62326ed46a618ba70a413fe1aee44024",
+   "accessed": "2026-10-23",
+   "source_url": "https://budget.canada.ca/update-miseajour/2026/report-rapport/anx3-en.html"
+  },
+  {
+   "path": "raw/csgb/asgari.html",
+   "bytes": 161553,
+   "sha256": "2da113b66bdc0ae363161a29b387eafbe7f2059e5bf08b9b3e176c0e44603448",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.csgb.gov.tr/poco-pages/asgari-ucret/"
+  },
+  {
+   "path": "raw/csgb/home.html",
+   "bytes": 394425,
+   "sha256": "e3d87dc8cc1907eb939e4a27c4353c07c66ee132fcf8fd8258ef160cb0ce3453",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/oecd/tur_cpi.csv",
+   "bytes": 31506,
+   "sha256": "dcd7d1aebed3887509490628763e3accbed1760798757e625c1b14a28b18a0f7",
+   "accessed": "2026-10-23",
+   "source_url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.TPS,DSD_PRICES@DF_PRICES_ALL,1.0/TUR.M.N.CPI.PA._T.N.GY?startPeriod=2018-01&format=csvfilewithlabels"
+  },
+  {
+   "path": "raw/company/alamos_20250914_sale.pdf",
+   "bytes": 192626,
+   "sha256": "eb943e317fd820b02059cd4a2538c3b0117a7135dfdbba8466e46563485d4d4c",
+   "accessed": "2026-10-23",
+   "source_url": "https://s24.q4cdn.com/779615370/files/doc_news/2025/Sept/20250914-Alamos-Announces-Sale-of-Turkish-Projects_FINAL.pdf"
+  },
+  {
+   "path": "raw/company/alamos_20251027_closing.pdf",
+   "bytes": 184338,
+   "sha256": "32b4a98193b572ebc4cb0f6962c486727d78b23b99b53c7bd79e8442063bff14",
+   "accessed": "2026-10-23",
+   "source_url": "https://s24.q4cdn.com/779615370/files/doc_news/2025/Oct/20251027-Alamos-Announces-Closing-of-Sale-of-Turkish-ProjectsFinal.pdf"
+  },
+  {
+   "path": "raw/company/eldorado_q4_2025.pdf",
+   "bytes": 140434,
+   "sha256": "c4b129a3a3c97be09a6deda26ac64f7e0ea9133033fd72dd04b3ead6805b7a91",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.eldoradogold.com/sites/eldorado-gold/files/2026-02/ELD%20Q4%202025%20Financial%20and%20Operational%20Data.pdf"
+  },
+  {
+   "path": "raw/company/eldorado_q4_2025.txt",
+   "bytes": 5721,
+   "sha256": "d7a8d80ced1755729959ce6acee5345bd2671885080dd782b0bfc840e8832839",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/gac/gac_canada_turkiye_fta_status.html",
+   "bytes": 25990,
+   "sha256": "c6f6cf1a02cbcfe63dd01faf6058bf4a8505226274a699e3085a177c0e7898dd",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/turkiye/fta-ale/info.aspx?lang=eng"
+  },
+  {
+   "path": "raw/gac/gac_fipa_model_page.html",
+   "bytes": 25214,
+   "sha256": "81ac3e6b7fe5ab9c08f11f9a125a1078313742f3f1228dfe70c24e1dc8cbb8c8",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/gac/gac_investment_agreements.html",
+   "bytes": 159758,
+   "sha256": "bb635d6005855920af61cea9730fd305f06d0fbfe80030ad16df2e9e4443a4f4",
+   "accessed": "2026-10-23",
+   "source_url": "https://international.canada.ca/en/services/business/trade/agreements-negotiations/investment-agreements"
+  },
+  {
+   "path": "raw/gac/gac_turkiye_relations.html",
+   "bytes": 28593,
+   "sha256": "59f6bdf1fd7581da8a09a4bbbfa723c829d829f7955e441a6db1baaf4b0a9fb1",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.international.gc.ca/country-pays/turkiye/relations.aspx?lang=eng"
+  },
+  {
+   "path": "raw/statcan/13100418-eng.zip",
+   "bytes": 32696,
+   "sha256": "55050633c4cfb4985b7c314614d540e21b1cc14cbf930283795ff592d6c4d311",
+   "accessed": "2026-10-23",
+   "source_url": "https://www150.statcan.gc.ca/n1/tbl/csv/13100418-eng.zip"
+  },
+  {
+   "path": "raw/statcan/13100418.csv",
+   "bytes": 811975,
+   "sha256": "85e3dfabb27b92ac76c749f591987ea39b23b3f31c4866f44cd9dcf8977e1ab5",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/statcan/13100418_MetaData.csv",
+   "bytes": 6633,
+   "sha256": "d4b5a6d9be08336c1c381e6b5e2cb0ac7522ceeb0a3ae969fbff61d769a47e93",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/statcan/17100005-eng.zip",
+   "bytes": 3880235,
+   "sha256": "fe0199629d63a98b410d8a2a9300a1a94fe7f575d55f7dd99f27d49993ad45b9",
+   "accessed": "2026-10-23",
+   "source_url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100005-eng.zip"
+  },
+  {
+   "path": "raw/statcan/17100005.csv",
+   "bytes": 39520665,
+   "sha256": "5ab3912c81d240fc61fb7637fab8a315d5954dfa29284b7cc0925e9ea2179614",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/statcan/17100005_MetaData.csv",
+   "bytes": 9230,
+   "sha256": "102be36d3a88635c3eaadb1643ba66cf8e41b370d67e2c440c7c2bb90af2d631",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/statcan/17100009-eng.zip",
+   "bytes": 30842,
+   "sha256": "b50bf05150e42edf3771ceb1d6868581fb6747b5886e0d1450b8b3437958bd0b",
+   "accessed": "2026-10-23",
+   "source_url": "https://www150.statcan.gc.ca/n1/tbl/csv/17100009-eng.zip"
+  },
+  {
+   "path": "raw/statcan/17100009.csv",
+   "bytes": 418418,
+   "sha256": "eb951304face945262e2007fbf4108b893a81c0cd1c70bc8c471631e58c8f38a",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/statcan/17100009_MetaData.csv",
+   "bytes": 3731,
+   "sha256": "3562f152e9907582706c770744ac21872886f8ce58cdab00e7469fa87e955ebc",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/statcan/36100008-eng.zip",
+   "bytes": 418271,
+   "sha256": "a0f01b1c45cef2c0244782d20116f9ad8c6fdb642e47c7ff347628fc8591d4e8",
+   "accessed": "2026-10-23",
+   "source_url": "https://www150.statcan.gc.ca/n1/tbl/csv/36100008-eng.zip"
+  },
+  {
+   "path": "raw/statcan/36100008.csv",
+   "bytes": 5779274,
+   "sha256": "c1008a20ff59536c900f3af6e13c25a7141f85d16daed0c429ed1d26938e5230",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/statcan/36100008_MetaData.csv",
+   "bytes": 10212,
+   "sha256": "0d62b71e488cf0da0df9d23ef0da62fc637d4c75471ab08a7327fef949ab152a",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/tuik/adnks2025_spa_shell.html",
+   "bytes": 3692,
+   "sha256": "ea3ab3b35a42b7305ec4bd203f165241399d21ddd9e4d84ab2daf2350d94d925",
+   "accessed": "2026-10-23",
+   "source_url": "https://veriportali.tuik.gov.tr/Bulten/Index?p=Adrese-Dayali-Nufus-Kayit-Sistemi-Sonuclari-2025-53899&dil=1 (JS shell only, no data)"
+  },
+  {
+   "path": "raw/tuik/index.js",
+   "bytes": 31036,
+   "sha256": "aa4a5e03aad17696a371da5a16457276439c884204321f47525e61c9c4a74628",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/tuik/main.js",
+   "bytes": 1132247,
+   "sha256": "b8b22e39b419f873f43b2076b6ee7ef928c6809ab97b449907a7ea141b609a0b",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/wb/NE.CON.PRVT.CD.json",
+   "bytes": 5690,
+   "sha256": "f5d398e9ed51bd2414c5424c469076b66e5556e4f4deeedffac9a90f56d7da5d",
+   "accessed": "2026-10-23",
+   "source_url": "https://api.worldbank.org/v2/country/TUR;CAN/indicator/NE.CON.PRVT.CD?format=json&date=2015:2025&per_page=100"
+  },
+  {
+   "path": "raw/wb/NE.CON.PRVT.PC.KD.json",
+   "bytes": 6126,
+   "sha256": "fc61c21ec168807597aded55513f54b18fba236e5e8912afe7d3b9208e43ff83",
+   "accessed": "2026-10-23",
+   "source_url": "https://api.worldbank.org/v2/country/TUR;CAN/indicator/NE.CON.PRVT.PC.KD?format=json&date=2015:2025&per_page=100"
+  },
+  {
+   "path": "raw/wb/NY.GNP.PCAP.CD.json",
+   "bytes": 4941,
+   "sha256": "f17260e7d4f639589a12b79ea44822bedcd3dc3f096aadf21fa2c41771359cc2",
+   "accessed": "2026-10-23",
+   "source_url": "https://api.worldbank.org/v2/country/TUR;CAN/indicator/NY.GNP.PCAP.CD?format=json&date=2015:2025&per_page=100"
+  },
+  {
+   "path": "raw/wb/SI.POV.GINI.json",
+   "bytes": 4149,
+   "sha256": "5c67001c06059ff04df9ace5f4898832399c1b0686e595cce72328eba16045ab",
+   "accessed": "2026-10-23",
+   "source_url": "https://api.worldbank.org/v2/country/TUR;CAN/indicator/SI.POV.GINI?format=json&date=2015:2025&per_page=100"
+  },
+  {
+   "path": "raw/wb/SP.DYN.TFRT.IN.json",
+   "bytes": 4873,
+   "sha256": "5a02370c6dac00a9d11bbb9881cb14613b1e257766bffec178cacb8667741e87",
+   "accessed": "2026-10-23",
+   "source_url": "https://api.worldbank.org/v2/country/TUR;CAN/indicator/SP.DYN.TFRT.IN?format=json&date=2015:2025&per_page=100"
+  },
+  {
+   "path": "raw/wb/SP.POP.65UP.TO.ZS.json",
+   "bytes": 5471,
+   "sha256": "3b62be8268012a43dc5e6cb3fc1b6da555e5b4877d81a09b61aca48d1dfbe5ba",
+   "accessed": "2026-10-23",
+   "source_url": "https://api.worldbank.org/v2/country/TUR;CAN/indicator/SP.POP.65UP.TO.ZS?format=json&date=2015:2025&per_page=100"
+  },
+  {
+   "path": "raw/wb/SP.URB.TOTL.IN.ZS.json",
+   "bytes": 5206,
+   "sha256": "59244717c80c5dbc9a0729b7b20c3d378b24b2152f31f4a3e7c4066c55cde00e",
+   "accessed": "2026-10-23",
+   "source_url": "https://api.worldbank.org/v2/country/TUR;CAN/indicator/SP.URB.TOTL.IN.ZS?format=json&date=2015:2025&per_page=100"
+  },
+  {
+   "path": "raw/boc/FXATRYCAD.json",
+   "bytes": 1685,
+   "sha256": "5813bb630e24355aa989439da5c5cbd74ed239ed458bb3f2bff070bee60b4a6e",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.bankofcanada.ca/valet/observations/FXATRYCAD/json"
+  },
+  {
+   "path": "raw/boc/FXCADTRY.json",
+   "bytes": 300216,
+   "sha256": "2fa30702824d4376a5cbae9b984a070b5988be3fdb1d597a8ed0a9e3015730da",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.bankofcanada.ca/valet/observations/FXCADTRY/json"
+  },
+  {
+   "path": "raw/boc/FXUSDCAD.json",
+   "bytes": 298985,
+   "sha256": "8ec8ca4568043ab973b3a6a5dd56543d713eb55c4e38572bec23a1bc96279775",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.bankofcanada.ca/valet/observations/FXUSDCAD/json"
+  },
+  {
+   "path": "raw/boc/groups.json",
+   "bytes": 1302800,
+   "sha256": "7d6a560adacb9abb971edba1586cc0485ade947b2de1a185285b4a17c21e4a9c",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/boc/legacy_annual.json",
+   "bytes": 107310,
+   "sha256": "5006d0728149dfee4994e6237df1bff84fd98756a8482f3f9a0170735d2b2383",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.bankofcanada.ca/valet/observations/group/LEGACY_ANNUAL_RATES/json"
+  },
+  {
+   "path": "raw/boc/legacy_noon_2015_2016.json",
+   "bytes": 2190276,
+   "sha256": "8f9f470a5a3593f1f2580ac7b1a6006a66a126fdf043d925e18af9a5d2feac76",
+   "accessed": "2026-10-23",
+   "source_url": "https://www.bankofcanada.ca/valet/observations/group/LEGACY_NOON_RATES/json?start_date=2015-01-01&end_date=2017-01-01"
+  }
+ ]
+}

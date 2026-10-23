@@ -1,0 +1,122 @@
+{
+ "2015": {
+  "referred": 295.0,
+  "accepted": 104.0,
+  "rejected": 51.0,
+  "finalized": 166.0,
+  "pending_end": 255.0,
+  "acc_pct_of_finalized": 62.7,
+  "all_countries_acc_pct": 63.9,
+  "all_referred": 16592.0
+ },
+ "2016": {
+  "referred": 1103.0,
+  "accepted": 398.0,
+  "rejected": 67.0,
+  "finalized": 473.0,
+  "pending_end": 885.0,
+  "acc_pct_of_finalized": 84.1,
+  "all_countries_acc_pct": 63.3,
+  "all_referred": 23350.0
+ },
+ "2017": {
+  "referred": 2199.0,
+  "accepted": 1247.0,
+  "rejected": 158.0,
+  "finalized": 1462.0,
+  "pending_end": 1621.0,
+  "acc_pct_of_finalized": 85.3,
+  "all_countries_acc_pct": 63.0,
+  "all_referred": 47425.0
+ },
+ "2018": {
+  "referred": 1904.0,
+  "accepted": 1407.0,
+  "rejected": 128.0,
+  "finalized": 1594.0,
+  "pending_end": 1937.0,
+  "acc_pct_of_finalized": 88.3,
+  "all_countries_acc_pct": 55.2,
+  "all_referred": 55388.0
+ },
+ "2019": {
+  "referred": 1939.0,
+  "accepted": 2043.0,
+  "rejected": 66.0,
+  "finalized": 2165.0,
+  "pending_end": 1696.0,
+  "acc_pct_of_finalized": 94.4,
+  "all_countries_acc_pct": 58.9,
+  "all_referred": 58378.0
+ },
+ "2020": {
+  "referred": 454.0,
+  "accepted": 739.0,
+  "rejected": 32.0,
+  "finalized": 800.0,
+  "pending_end": 1349.0,
+  "acc_pct_of_finalized": 92.4,
+  "all_countries_acc_pct": 62.7,
+  "all_referred": 18500.0
+ },
+ "2021": {
+  "referred": 1179.0,
+  "accepted": 1230.0,
+  "rejected": 43.0,
+  "finalized": 1299.0,
+  "pending_end": 1233.0,
+  "acc_pct_of_finalized": 94.7,
+  "all_countries_acc_pct": 63.1,
+  "all_referred": 24127.0
+ },
+ "2022": {
+  "referred": 5611.0,
+  "accepted": 1355.0,
+  "rejected": 27.0,
+  "finalized": 1450.0,
+  "pending_end": 5386.0,
+  "acc_pct_of_finalized": 93.4,
+  "all_countries_acc_pct": 62.2,
+  "all_referred": 60158.0
+ },
+ "2023": {
+  "referred": 9413.0,
+  "accepted": 4943.0,
+  "rejected": 95.0,
+  "finalized": 5256.0,
+  "pending_end": 9533.0,
+  "acc_pct_of_finalized": 94.0,
+  "all_countries_acc_pct": 71.8,
+  "all_referred": 137947.0
+ },
+ "2024": {
+  "referred": 3401.0,
+  "accepted": 4866.0,
+  "rejected": 184.0,
+  "finalized": 5455.0,
+  "pending_end": 7435.0,
+  "acc_pct_of_finalized": 89.2,
+  "all_countries_acc_pct": 63.3,
+  "all_referred": 190039.0
+ },
+ "2025": {
+  "referred": 1337.0,
+  "accepted": 4057.0,
+  "rejected": 227.0,
+  "finalized": 4637.0,
+  "pending_end": 4106.0,
+  "acc_pct_of_finalized": 87.5,
+  "all_countries_acc_pct": 63.0,
+  "all_referred": 107802.0
+ },
+ "2026": {
+  "referred": 248.0,
+  "accepted": 922.0,
+  "rejected": 104.0,
+  "finalized": 1199.0,
+  "pending_end": 3156.0,
+  "acc_pct_of_finalized": 76.9,
+  "all_countries_acc_pct": 44.3,
+  "all_referred": 26467.0
+ }
+}

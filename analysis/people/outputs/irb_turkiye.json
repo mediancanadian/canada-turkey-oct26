@@ -1,0 +1,604 @@
+{
+ "2015": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn & Other",
+   "Finalized Total",
+   "Pending (as of 2015/12/31) Pending (as of 2015/12/31)"
+  ],
+  "row": [
+   [
+    "Turkey",
+    "295",
+    "104",
+    "51",
+    "--",
+    "--",
+    "166",
+    "255"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "16592",
+    "8596",
+    "4119",
+    "212",
+    "532",
+    "13459",
+    "9999"
+   ]
+  ]
+ },
+ "2016": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn & Other",
+   "Finalized Total",
+   "Pending (as of 2016/12/31) Pending (as of 2016/12/31)"
+  ],
+  "row": [
+   [
+    "Turkey",
+    "1103",
+    "398",
+    "67",
+    "--",
+    "--",
+    "473",
+    "885"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "23350",
+    "9972",
+    "4821",
+    "286",
+    "682",
+    "15761",
+    "17537"
+   ]
+  ]
+ },
+ "2017": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn & Other",
+   "Finalized Total",
+   "Pending (as of 2017/12/31) Pending (as of 2017/12/31)"
+  ],
+  "row": [
+   [
+    "Turkey",
+    "2199",
+    "1247",
+    "158",
+    "--",
+    "​--",
+    "1462",
+    "1621"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "47425",
+    "13553",
+    "6223",
+    "740",
+    "997",
+    "21513",
+    "43250"
+   ]
+  ]
+ },
+ "2018": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn & Other",
+   "Finalized Total",
+   "Pending (as of 2018/12/31) Pending (as of 2018/12/31)"
+  ],
+  "row": [
+   [
+    "Turkey",
+    "1904",
+    "1407",
+    "128",
+    "--",
+    "--",
+    "1594",
+    "1937"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "55388",
+    "14790",
+    "8759",
+    "1376",
+    "1880",
+    "26805",
+    "71675"
+   ]
+  ]
+ },
+ "2019": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn & Other",
+   "Finalized Total",
+   "Pending (as of 2019/12/31)​ Pending (as of 2019/12/31)​"
+  ],
+  "row": [
+   [
+    "Turkey",
+    "1939",
+    "2043",
+    "66",
+    "--",
+    "--",
+    "2165",
+    "1696"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "58378",
+    "25034",
+    "13718",
+    "1610",
+    "2129",
+    "42491",
+    "87270"
+   ]
+  ]
+ },
+ "2020": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn & Other",
+   "Finalized Total",
+   "Pending (as of 2020/12​/31​)​ Pending (as of 2020/12​/31​)​"
+  ],
+  "row": [
+   [
+    "Turks and Caicos Islands",
+    "--",
+    "​--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "​--"
+   ],
+   [
+    "​Turkey",
+    "454",
+    "739",
+    "​32",
+    "--",
+    "--",
+    "800",
+    "1349"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "18500",
+    "16209",
+    "7733",
+    "395",
+    "1529",
+    "25866",
+    "79753"
+   ]
+  ]
+ },
+ "2021": {
+  "columns": [
+   "​ ​",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn & Other",
+   "Finalized Total",
+   "Pending (as of 2021/12​/31​)​ Pending (as of 2021/12​/31​)​"
+  ],
+  "row": [
+   [
+    "Turkey",
+    "1179",
+    "1230",
+    "43",
+    "--",
+    "--",
+    "1299",
+    "1233"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "24127",
+    "30290",
+    "12190",
+    "934",
+    "4600",
+    "48014",
+    "55937"
+   ]
+  ]
+ },
+ "2022": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn & Other",
+   "Finalized Total",
+   "Pending (as of 2022/12/31​) Pending (as of 2022/12/31​)"
+  ],
+  "row": [
+   [
+    "Türkiye",
+    "5611",
+    "1355",
+    "27",
+    "--",
+    "--",
+    "1450",
+    "5386"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "​Total",
+    "60158",
+    "28272",
+    "12537",
+    "1351",
+    "3284",
+    "45444",
+    "70223"
+   ]
+  ]
+ },
+ "2023": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn and Other",
+   "Finalized Total",
+   "Pending (as of 2023/12/31) Pending (as of 2023/12/31)"
+  ],
+  "row": [
+   [
+    "Türkiye",
+    "9413",
+    "4943",
+    "95",
+    "139",
+    "79",
+    "5256",
+    "9533"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ],
+   [
+    "Turks and Caicos Islands",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total​",
+    "137947",
+    "37222",
+    "9601",
+    "1712",
+    "3313",
+    "51848",
+    "156032"
+   ]
+  ]
+ },
+ "2024": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn and Other",
+   "Finalized Total",
+   "Pending (as of 2024/12/31) Pending (as of 2024/12/31)"
+  ],
+  "row": [
+   [
+    "Türkiye",
+    "3401",
+    "4866",
+    "184",
+    "320",
+    "85",
+    "5455",
+    "7435"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ],
+   [
+    "Turks and Caicos Islands",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "190039",
+    "46480",
+    "11761",
+    "9120",
+    "6095",
+    "73456",
+    "272440"
+   ]
+  ]
+ },
+ "2025": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn and Other",
+   "Finalized Total",
+   "Pending (as of 2025/12/31) Pending (as of 2025/12/31)"
+  ],
+  "row": [
+   [
+    "Türkiye",
+    "1337",
+    "4057",
+    "227",
+    "264",
+    "89",
+    "4637",
+    "4106"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ],
+   [
+    "Turks and Caicos Islands",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "107802",
+    "50067",
+    "14619",
+    "7944",
+    "6832",
+    "79462",
+    "299614"
+   ]
+  ]
+ },
+ "2026": {
+  "columns": [
+   "Unnamed: 0_level_0 Unnamed: 0_level_1",
+   "Referred Referred",
+   "Finalized Accepted",
+   "Finalized Rejected",
+   "Finalized Abandoned",
+   "Finalized Withdrawn and Other",
+   "Finalized Total",
+   "Pending (as of 2026/06/30) Pending (as of 2026/06/30)"
+  ],
+  "row": [
+   [
+    "Türkiye",
+    "248",
+    "922",
+    "104",
+    "89",
+    "84",
+    "1199",
+    "3156"
+   ],
+   [
+    "Turkmenistan",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ],
+   [
+    "Turks and Caicos Islands",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--",
+    "--"
+   ]
+  ],
+  "total": [
+   [
+    "Total",
+    "26467",
+    "22109",
+    "8166",
+    "4094",
+    "15591",
+    "49960",
+    "276099"
+   ]
+  ]
+ }
+}

@@ -1,0 +1,318 @@
+{
+ "thread": "follow-up: CTA rulings, new ATA, work permit split, Canada-Türkiye",
+ "created": "2026-10-23",
+ "files": [
+  {
+   "path": "results-followup.md",
+   "bytes": 11391,
+   "sha256": "c6c063cfe061bdce8efe2ec919b4d5366141757a1450220ac978bac9e0d246d6",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/followup/fetch.sh",
+   "bytes": 248,
+   "sha256": "891ea657bfb890f52942880929140bd5af09d77090f0fc5afdb46338f468eb31",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/followup/manifest_followup.py",
+   "bytes": 5821,
+   "sha256": "4438bebe9c2c56f216e2fd5a86b053681341237c5a3a7c48e2b36c2421b4a588",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/followup/txt.py",
+   "bytes": 363,
+   "sha256": "cc329957b4dcc0b7c5b823579bc5aa3e05a94854f0d7608d1d6515b2b8d340ee",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/followup/work_split.py",
+   "bytes": 2611,
+   "sha256": "85dd684ecee53d094d598493069cf80998bfd12cccec0273eaf26735a64f8d62",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/work_permit_split_turkey.json",
+   "bytes": 5573,
+   "sha256": "3b8098c4dd1b7f4bd0c92fc071020fbddf4dc08f3e6efa6e4c825df1fe677b44",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/a-2024-45.html",
+   "bytes": 34101,
+   "sha256": "65792fdb99a398f6f380e29da27d42788769ac85619179fe21863da930e5d347",
+   "source_url": "https://otc-cta.gc.ca/eng/ruling/a-2024-45",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/a-2025-25.html",
+   "bytes": 36117,
+   "sha256": "eefa22d23c565e41303c8ebf60eeaf9fcf90d8c5c1dd75c4b7fd032cbcaf10cf",
+   "source_url": "https://otc-cta.gc.ca/eng/ruling/a-2025-25",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/a-2025-77.html",
+   "bytes": 38258,
+   "sha256": "32416defd223f5112c6103f76d1f640162b42bb4623e32aa1c2f944126326f09",
+   "source_url": "https://otc-cta.gc.ca/eng/ruling/a-2025-77",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/a-2025-81.html",
+   "bytes": 32602,
+   "sha256": "cb18919297c5192eb4bf4e3f2e7312a25ffcb234964fd87e4100e726326f9e00",
+   "source_url": "https://otc-cta.gc.ca/eng/ruling/a-2025-81",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/a-2026-59.html",
+   "bytes": 31957,
+   "sha256": "f4dc96627ba5c3377a55592c435609d0514ec47035ce5e52fa8e4a18ee950980",
+   "source_url": "https://otc-cta.gc.ca/eng/ruling/a-2026-59",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/cta_agreement_turkey.html",
+   "bytes": 29230,
+   "sha256": "031785985de45ee09e044591cef8a489829d6ca89dd4dba61719af075080935c",
+   "source_url": "https://otc-cta.gc.ca/eng/transport-agreement/turkey",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/cta_wetlease_26-23513.html",
+   "bytes": 17024,
+   "sha256": "76c3c27d4cc2c6a13876323686f971549ded50cf0d0cae661f459c73abfb39e3",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_content_Istan.html",
+   "bytes": 46386,
+   "sha256": "80d12feb5f81a39aeea5051c21331436a208d20f8a4155a0c06324592caf72b0",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_content_Istan.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_content_T%C3%.html",
+   "bytes": 46556,
+   "sha256": "87807475b5af6b734ecf241c00e8fe6cb648fa8a98c0d068907178c5672ea4b2",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_content_T%C3%.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_content_Turki.html",
+   "bytes": 47660,
+   "sha256": "98a7b46c9cb768297b00b7ac769d2ece45a013d5cefb22211470483b9021edbf",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_content_Turki.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_content_all0.html",
+   "bytes": 57987,
+   "sha256": "0fa865a3a70f175d0bc125a1c747205629867143b1f76edb44198a5ebe694b53",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_content_all0.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_list.html",
+   "bytes": 56182,
+   "sha256": "abd516569eccd2d86c4642c50e73eb8bc8a341b8b7905d24f63e52ee909d953c",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_title_T%C3_0.html",
+   "bytes": 57609,
+   "sha256": "c5de860e2079cb2298d2d339cb16745ca0025506970e20d39cdfb62514519826",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_title_T%C3_0.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_title_T%C3_1.html",
+   "bytes": 58492,
+   "sha256": "99854146d7d560d7d4fd3a7b8466b77efce751cd9eea76f4fb5aceccfc1ca616",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_title_T%C3_1.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_title_T%C3_2.html",
+   "bytes": 58433,
+   "sha256": "29e5e4341876c227c7701c2a5fb2fa496040ba1c386ac824bb8909159ac87fb7",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_title_T%C3_2.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_title_Turk_0.html",
+   "bytes": 57958,
+   "sha256": "d5c53bc9be7476a0bbc3ddbb25b3111e99721c58894bcee6d9091323d99d2975",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_title_Turk_0.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_title_Turk_1.html",
+   "bytes": 58646,
+   "sha256": "02333e7feddfcb9ecafd9ee8d439f335e69741f8bb7f4ffe13ae48e983ae4817",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_title_Turk_1.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/dd_title_Turk_2.html",
+   "bytes": 58913,
+   "sha256": "b3d16e5ad7d024456968f99048ed466280353d2b96a58e8b3422e4068cc5b237",
+   "source_url": "https://otc-cta.gc.ca/eng/decisions-determinations (search: dd_title_Turk_2.html)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/decision-33-a-2025.html",
+   "bytes": 40213,
+   "sha256": "a3b93ade5520d9c56f0c146dd90f6b0a18be6486bc56b1c48b8bc6f8fe8ed738",
+   "source_url": "https://otc-cta.gc.ca/eng/ruling/decision-33-a-2025",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/oic_2026-0976.html",
+   "bytes": 21162,
+   "sha256": "5fc615422f8d94da1a01074b4ee595ae6de24b34d51cfce551566569ff9e6bdd",
+   "source_url": "https://orders-in-council.canada.ca/results.php?pcNumber=2026-0976&lang=en",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/oic_post.html",
+   "bytes": 10653,
+   "sha256": "568cf9de51c694b19033f7e2c1a4b20949cb9531e94bcdef6bd5c774f64f5464",
+   "source_url": "https://orders-in-council.canada.ca/results.php?lang=en (POST pcNumber=2026-0976; no rows returned)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/pmo_release_2026-10-23.html",
+   "bytes": 50756,
+   "sha256": "5a2f9e7afe232025782aad02f27f76d07b2755f5293b36d5afc9d3c88c036efd",
+   "source_url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/pmo_remarks_2026-10-22.html",
+   "bytes": 49289,
+   "sha256": "5ed5e6e21074ef6f983393def7c1d89353cc7fca6046b809c3c7cf747d5dd754",
+   "source_url": "https://www.pm.gc.ca/en/news/speeches/2026/10/22/prime-minister-carney-delivers-remarks-alongside-president-turkiye-recep",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/ircc/hc_citz.csv",
+   "bytes": 1054395,
+   "sha256": "0258ee304d4ad91b5f464f5804b0f3cfb3918ea82c4d67f9d22d2e4cfbae2edc",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/ODP-TR-Work-HC_citizenship.csv",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/ircc/hc_citz_effective.xlsx",
+   "bytes": 170771,
+   "sha256": "a2ceaa255a3f6f1424064bd680685943bdbd8216b5a70930175c5c2c042ff8bd",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-TR-Work-HC_citizenship_sign.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/ircc/imp_citz.csv",
+   "bytes": 1256607,
+   "sha256": "3f64b83f041a2f3c6a7ed50f333d12df25105415cb584c62663cd252755a6606",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/ODP-TR-Work-IMP-CITZ.csv",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/ircc/imp_citz_dec31_workonly.xlsx",
+   "bytes": 33373,
+   "sha256": "91406e7c0511ec22cf99664a27960495b0ea0ba370b29850ce3510d2f7eecfd8",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/en_odp_annual-tr-work-imp_citz_year_end.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/ircc/imp_pt_program_effective.xlsx",
+   "bytes": 435736,
+   "sha256": "9beca8ab95c9149f9ee198791113c612e16d997c8d7404d7f317127aad707538",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-TR-Work-IMP_PT_program_sign.xlsx",
+   "accessed": "2026-10-23"
+  }
+ ],
+ "web_sources": [
+  {
+   "what": "GAC media advisory, Minister Sidhu announcement on Canada-Türkiye ATA (issued 2026-08-14)",
+   "url": "https://www.canada.ca/en/global-affairs/news/2026/08/minister-sidhu-to-make-announcement-related-to-canadaturkiye-air-transport-agreement.html",
+   "via": "WebFetch"
+  },
+  {
+   "what": "IRCC earthquake public policy (signed 2023-03-15)",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/public-policies/turkiye-syria-earthquake-2023.html",
+   "via": "WebFetch"
+  },
+  {
+   "what": "IRCC earthquake public policy extension (signed 2023-09-28, expired 2024-01-03)",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/public-policies/turkiye-syria-earthquake-2023-extension.html",
+   "via": "WebFetch"
+  },
+  {
+   "what": "IRCC earthquake measures program instructions",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/service-delivery/earthquake-turkiye-syria.html",
+   "via": "WebFetch"
+  },
+  {
+   "what": "IRCC program delivery update, measures expired 2024-01-03",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/updates/2024-earthquakes-turkiye-syria.html",
+   "via": "WebFetch"
+  },
+  {
+   "what": "@CanadaTrade X post 12 to 21 (official account, social media)",
+   "url": "https://x.com/CanadaTrade/status/2089369612831887653",
+   "via": "search snippet only"
+  },
+  {
+   "what": "LEAD ONLY Bloomberg Tax: OIC 2026-0976 dated 2026-10-09 authorizing signing",
+   "url": "https://news.bloombergtax.com/daily-tax-report-state/canada-issues-order-authorizing-signing-of-air-transport-agreement-with-turkey",
+   "via": "WebFetch"
+  },
+  {
+   "what": "LEAD ONLY Turkville 2026-05-10, 12 to 21, unlimited cargo, fifth freedom",
+   "url": "https://turkville.ca/en/news/canada-turkey-aviation-agreement-revised-thy-flights-increasing-from-12-to-21",
+   "via": "WebFetch"
+  },
+  {
+   "what": "LEAD ONLY Airlinehaber 2026-05-12 SHGM MoU",
+   "url": "https://www.airlinehaber.com/turkiye-ile-kanada-arasinda-sivil-havacilikta-yeni-donem-ucus-haklari-artirildi/",
+   "via": "WebFetch"
+  },
+  {
+   "what": "LEAD ONLY CAPA 2026-05-13 Canada and Türkiye revise ATA (paywalled)",
+   "url": "https://centreforaviation.com/news/canada-and-turkiye-revise-air-transport-agreement-1359029",
+   "via": "WebFetch"
+  },
+  {
+   "what": "LEAD ONLY Aviation A2Z 2026-05-16 TK Montréal 3 to 4 weekly from Jul 7 2026",
+   "url": "https://aviationa2z.com/index.php/2026/05/16/turkish-airlines-adds-more-flights-to-canada/",
+   "via": "WebFetch"
+  },
+  {
+   "what": "LEAD ONLY Travel Extra 2025-03-05 (misstates objectors)",
+   "url": "https://www.travelextra.ie/canada-denies-turkish-airlines-request-for-five-additional-weekly-flights-between-turkiye-and-canada/",
+   "via": "WebFetch"
+  },
+  {
+   "what": "LEAD ONLY aviation.direct 2025-03-05 (misstates objectors)",
+   "url": "https://aviation.direct/en/kanadische-behoerde-lehnt-mehr-turkish-airlines-fluege-ab",
+   "via": "WebFetch"
+  }
+ ],
+ "blocked": [
+  "https://www.turkishairlines.com/en-ca/press-room/ (timeouts)",
+  "https://web.shgm.gov.tr/tr/haberler (timeouts)",
+  "https://portail-portal.otc-cta.gc.ca/en/wet-lease-applications/544908 (robots_disallowed; curl reset)",
+  "https://simpleflying.com/canada-rejects-this-long-haul-airlines-growth-plan-to-the-country/ (robots_disallowed)",
+  "orders-in-council.canada.ca search for 2026-0976 (no rows returned)"
+ ]
+}

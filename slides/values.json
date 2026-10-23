@@ -1,0 +1,690 @@
+{
+ "us_share_years": [
+  1999,
+  2000,
+  2001,
+  2002,
+  2003,
+  2004,
+  2005,
+  2006,
+  2007,
+  2008,
+  2009,
+  2010,
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "us_share_series": [
+  86.68026050257586,
+  86.94985961584877,
+  87.04916509948636,
+  87.1299917188068,
+  85.73660172857116,
+  84.44276290401052,
+  83.81880937000467,
+  81.55447150195386,
+  78.9683478478879,
+  77.66056158812106,
+  75.07652804009012,
+  74.87622591223383,
+  73.64459313305169,
+  74.5177346259809,
+  75.83799022924362,
+  76.82830602210151,
+  76.74046653541845,
+  76.2780855794243,
+  75.8459019050326,
+  74.93609389304793,
+  75.34058550446247,
+  73.2750152822348,
+  75.37953301232534,
+  76.50663356640497,
+  77.364314040886,
+  76.31884301545261,
+  72.32583967942824
+ ],
+ "us_share_peak": 87.1299917188068,
+ "us_share_peak_year": 2002,
+ "us_share_2025_is_lowest": true,
+ "exports_all_2025": 778004358600.0,
+ "exports_us_2025": 562698185100.0,
+ "exports_rest_2025": 215306173500.0,
+ "us_share_pct": 72.32583967942824,
+ "tr_exports_2025": 1137350532.0,
+ "tr_imports_2025": 3197312839.0,
+ "tr_two_way_2025": 4334663371.0,
+ "ratio_2025": 2.81119386595583,
+ "ratio_highest_since": 1988,
+ "series_years": [
+  1988,
+  1989,
+  1990,
+  1991,
+  1992,
+  1993,
+  1994,
+  1995,
+  1996,
+  1997,
+  1998,
+  1999,
+  2000,
+  2001,
+  2002,
+  2003,
+  2004,
+  2005,
+  2006,
+  2007,
+  2008,
+  2009,
+  2010,
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "series_exports_b": [
+  0.181822086,
+  0.168954936,
+  0.160704513,
+  0.100360631,
+  0.139346778,
+  0.160232529,
+  0.147377672,
+  0.290985275,
+  0.265096458,
+  0.33515564,
+  0.226040739,
+  0.214716054,
+  0.25975305,
+  0.172649207,
+  0.268716008,
+  0.273303175,
+  0.372102281,
+  0.486691831,
+  0.548196292,
+  0.67251851,
+  1.236429071,
+  0.891488486,
+  0.841748657,
+  1.271507611,
+  0.85099038,
+  0.888279382,
+  1.062523634,
+  1.126698818,
+  1.152524216,
+  1.265362637,
+  1.329334428,
+  1.616069328,
+  1.223074229,
+  1.151536984,
+  1.282345386,
+  1.231300005,
+  1.258110893,
+  1.137350532
+ ],
+ "series_imports_b": [
+  0.072198006,
+  0.081571167,
+  0.084406372,
+  0.065980752,
+  0.067998706,
+  0.082505118,
+  0.119813813,
+  0.150110303,
+  0.152156455,
+  0.194451856,
+  0.249769549,
+  0.25080242,
+  0.292605878,
+  0.315285452,
+  0.400377807,
+  0.466640373,
+  0.609896821,
+  0.637267655,
+  0.62498986,
+  0.561851388,
+  0.703107604,
+  0.632288448,
+  0.714198952,
+  1.122712194,
+  1.479098284,
+  1.318874469,
+  1.410184619,
+  1.293529682,
+  1.36779597,
+  1.785659958,
+  2.337335035,
+  1.96458238,
+  1.859346437,
+  2.78778565,
+  3.178226151,
+  2.847530641,
+  3.146038502,
+  3.197312839
+ ],
+ "days_of_us_sales": 2.81172424633612,
+ "share_of_canada_trade_pct": 0.2766430849318424,
+ "two_way_growth_5y_pct": 40.62530201709984,
+ "two_way_cagr_5y_pct": 7.056414401380029,
+ "doubling_cagr_5y_pct": 14.869835499703509,
+ "doubling_vs_past_ratio": 2.1072792290650337,
+ "lentil_duty_pct": 19.3,
+ "receipt_to_tr": {
+  "Lentils": {
+   "value": 172576223.0,
+   "duty": 30924203.176000003,
+   "rate": 17.91915632317437
+  },
+  "Aircraft": {
+   "value": 161982760.0,
+   "duty": 0.0,
+   "rate": 0.0
+  },
+  "Steel scrap": {
+   "value": 54414272.0,
+   "duty": 0.0,
+   "rate": 0.0
+  },
+  "Optical instruments": {
+   "value": 51512801.0,
+   "duty": 1227271.52,
+   "rate": 2.3824593036592985
+  },
+  "Chickpeas": {
+   "value": 28100491.0,
+   "duty": 3525541.6149999998,
+   "rate": 12.546192217780108
+  }
+ },
+ "receipt_to_ca": {
+  "Medicines": {
+   "value": 244474298.0,
+   "duty": 0.0,
+   "rate": 0.0
+  },
+  "Fishing ship": {
+   "value": 79205607.0,
+   "duty": 0.0,
+   "rate": 0.0
+  },
+  "Turbine parts": {
+   "value": 80371713.0,
+   "duty": 0.0,
+   "rate": 0.0
+  },
+  "Carpets": {
+   "value": 106919804.0,
+   "duty": 14116256.435,
+   "rate": 13.202658354106223
+  },
+  "Clothing": {
+   "value": 220144537.0,
+   "duty": 38318261.26,
+   "rate": 17.405956006076135
+  }
+ },
+ "tr_goods_duty_free_pct": 67.05463437448762,
+ "provinces": [
+  {
+   "name": "Quebec",
+   "value": 309521298.0,
+   "top": "aircraft"
+  },
+  {
+   "name": "Ontario",
+   "value": 274593423.0,
+   "top": "optical instruments"
+  },
+  {
+   "name": "Saskatchewan",
+   "value": 205310043.0,
+   "top": "lentils"
+  },
+  {
+   "name": "British Columbia",
+   "value": 111326148.0,
+   "top": "aircraft engines"
+  },
+  {
+   "name": "Alberta",
+   "value": 81536076.0,
+   "top": "lentils"
+  },
+  {
+   "name": "Newfoundland and Labrador",
+   "value": 27300404.0,
+   "top": "steel scrap"
+  },
+  {
+   "name": "Nova Scotia",
+   "value": 10283005.0,
+   "top": "vehicles"
+  },
+  {
+   "name": "Manitoba",
+   "value": 6660735.0,
+   "top": ""
+  },
+  {
+   "name": "New Brunswick",
+   "value": 2310166.0,
+   "top": ""
+  },
+  {
+   "name": "Prince Edward Island",
+   "value": 508876.0,
+   "top": ""
+  },
+  {
+   "name": "Northwest Territories",
+   "value": 2500.0,
+   "top": ""
+  },
+  {
+   "name": "Yukon",
+   "value": 0.0,
+   "top": ""
+  },
+  {
+   "name": "Nunavut",
+   "value": 0.0,
+   "top": ""
+  }
+ ],
+ "top3_share_pct": 76.69137934351934,
+ "domestic_exports_2025": 1029352674.0,
+ "tr_energy_import_pct": 70.3,
+ "tr_gas_imports_bcm": {
+  "Russia": 21.16,
+  "Azerbaijan": 11.918,
+  "United States (LNG)": 9.473,
+  "Iran": 7.702,
+  "Algeria (LNG)": 4.441,
+  "Nigeria (LNG)": 0.874,
+  "Others (LNG mostly)": 2.767
+ },
+ "tr_gas_total_bcm": 58.335,
+ "ca_lng_2025_bcm": 3.11,
+ "ca_lng_vs_tr_gas_pct": 5.331276249250021,
+ "military_years": [
+  2010,
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "military_m": [
+  4.34184,
+  3.767921,
+  5.865162,
+  3.023801,
+  5.603295,
+  7.556736,
+  3.99442341,
+  48.2695306,
+  115.74323698,
+  151.42845548,
+  48.04946554,
+  0.9284415,
+  0.06006,
+  0.12,
+  107.8754015,
+  60.76003944
+ ],
+ "nato_turkiye_joined_year": 1952,
+ "partnership_date": "October 22, 2026",
+ "flights_old_per_week": 12,
+ "flights_new_per_week": 21,
+ "permits_cancelled_2021": 29,
+ "cop31_dates": "November 9 to 20",
+ "fta_round_month": "November 30",
+ "air_transat_montreal_istanbul_start": "October 29",
+ "first_official_visit": true,
+ "fta_round_dates": "November 30 to December 4",
+ "first_bilateral_visit": "first bilateral visit to Türkiye by a Canadian prime minister",
+ "signed_during_visit": [
+  "expanded Air Transport Agreement",
+  "joint statement on energy cooperation",
+  "Export Development Canada and Türk Eximbank MOU"
+ ],
+ "diversifying_quote": "Canada is diversifying our trade",
+ "flights_easier_affordable": "easier and more affordable",
+ "tr_nuclear_goal_2035_gw": 7.2,
+ "tr_nuclear_goal_2050_gw": 20,
+ "tr_wind_solar_goal_2035_gw": 120,
+ "tr_net_zero_year": 2053,
+ "akkuyu_gw": 4.8,
+ "candu_mou": "March 2026",
+ "defence_milestones": [
+  [
+   "2019-10",
+   "New permits suspended after Türkiye's operation in Syria"
+  ],
+  [
+   "2021-04",
+   "29 permits cancelled. A review found credible evidence that Canadian sensors were used in Nagorno-Karabakh"
+  ],
+  [
+   "2024-01",
+   "Reopened case by case. Türkiye must say if goods will go to a country outside NATO"
+  ],
+  [
+   "2025",
+   "Permit to broker $125 million of Turkish ammunition for Ukraine"
+  ],
+  [
+   "2026-10",
+   "Agreement to link the two countries' defence industries"
+  ]
+ ],
+ "trade_mission_2027": "2027",
+ "erdogan_visit": "Date to be set",
+ "tk_countries": 120,
+ "ist_passengers_2025": 84437710,
+ "pmo_air_beyond": "new opportunities for Canadian exporters to Türkiye and the markets beyond",
+ "pmo_defence_benefit": "creating good jobs at home, export opportunities abroad",
+ "nato_second_largest": true,
+ "ancc_2026": "asks Canada to keep full authority over military export permits",
+ "permit_cancel_authority": true,
+ "non_us_exports_goal": "double our non-U.S. exports in the next decade",
+ "goods_to_tr": {
+  "Lentils": 172576223.0,
+  "Aircraft": 161982760.0,
+  "Steel scrap": 54414272.0,
+  "Optical instruments": 50878741.0,
+  "Aircraft engines": 71414937.0,
+  "Everything else": 626083599.0
+ },
+ "goods_to_ca": {
+  "Medicines": 241417316.0,
+  "Fishing ship": 79205607.0,
+  "Turbine parts": 71914766.0,
+  "Carpets": 70910995.0,
+  "Steel": 85820585.0,
+  "Everything else": 2648043570.0
+ },
+ "receipt_goods_to_tr": {
+  "Lentils, chickpeas, vegetables": 222,
+  "Machinery and engines": 188,
+  "Aircraft and parts": 176,
+  "Optical instruments": 100,
+  "Cars and parts": 83,
+  "Everything else": 368
+ },
+ "receipt_goods_to_ca": {
+  "Machinery and appliances": 405,
+  "Steel and steel goods": 308,
+  "Fruit, nuts and food": 259,
+  "Medicines": 247,
+  "Clothing": 220,
+  "Everything else": 1758
+ },
+ "last_surplus_year": 2011,
+ "duty_in_tr": {
+  "Lentils": 30924203.176000003,
+  "Chickpeas": 3525541.6149999998,
+  "Cars": 6094090.975,
+  "Everything else": 23870614.86187552
+ },
+ "duty_in_tr_durum": 37467293.5,
+ "duty_in_tr_total": 101881744.12787552,
+ "duty_in_ca": {
+  "Clothing": 38318261.26,
+  "Carpets": 14116256.435,
+  "Car parts": 7606452.857,
+  "Everything else": 45280246.4244
+ },
+ "duty_in_ca_total": 105321216.9764,
+ "sk_lentils_m": {
+  "2021": 339.6,
+  "2022": 366.0,
+  "2023": 319.0,
+  "2024": 266.2,
+  "2025": 130.0
+ },
+ "turkish_origin_canada": 76745.0,
+ "turkish_origin_cities": [
+  [
+   "Toronto",
+   28490.0
+  ],
+  [
+   "Montréal",
+   13895.0
+  ],
+  [
+   "Vancouver",
+   6300.0
+  ],
+  [
+   "Ottawa - Gatineau",
+   4805.0
+  ],
+  [
+   "Edmonton",
+   3430.0
+  ],
+  [
+   "Calgary",
+   2695.0
+  ]
+ ],
+ "ca_arrivals_years": [
+  2010,
+  2011,
+  2012,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018,
+  2019,
+  2020,
+  2021,
+  2022,
+  2023,
+  2024,
+  2025
+ ],
+ "ca_arrivals": [
+  152556,
+  191903,
+  182252,
+  199497,
+  190116,
+  187615,
+  106285,
+  81196,
+  108272,
+  139164,
+  34210,
+  72034,
+  197416,
+  248868,
+  302728,
+  321271
+ ],
+ "ca_arrivals_2025_is_max": true,
+ "tr_visitors_to_ca_2025": 27274.0,
+ "tr_energy_bill_usd": 62465580162.0,
+ "tr_imports_world_usd": 365369912607.0,
+ "tr_imports_from_ca_usd": 1162832980.0,
+ "ca_share_of_tr_imports_pct": 0.31826183270070435,
+ "tr_buys": [
+  {
+   "name": "Energy",
+   "world": 62465580162.0,
+   "canada": 37624468.0
+  },
+  {
+   "name": "Machinery",
+   "world": 41644032072.0,
+   "canada": 125163673.0
+  },
+  {
+   "name": "Gold and jewellery",
+   "world": 28110541146.0,
+   "canada": 97184796.0
+  },
+  {
+   "name": "Aircraft",
+   "world": 5421505809.0,
+   "canada": 174969182.0
+  },
+  {
+   "name": "Lentils and other vegetables",
+   "world": 1085939342.0,
+   "canada": 184747311.0
+  }
+ ],
+ "tr_population": 86092168.0,
+ "tr_median_age": 34.9,
+ "deficit_2025": 2059962307.0,
+ "deficit_ytd_2025": 1522042896.0,
+ "deficit_ytd_2026": 1164774584.0,
+ "ytd_exports_change_pct": 7.676764222687971,
+ "ytd_imports_change_pct": -13.663582801722773,
+ "deficit_series": {
+  "2014": 347660985.0,
+  "2015": 166830864.0,
+  "2016": 215271754.0,
+  "2017": 520297321.0,
+  "2018": 1008000607.0,
+  "2019": 348513052.0,
+  "2020": 636272208.0,
+  "2021": 1636248666.0,
+  "2022": 1895880765.0,
+  "2023": 1616230636.0,
+  "2024": 1887927609.0,
+  "2025": 2059962307.0
+ },
+ "duty_ca_goods": {
+  "base": 1000531679.0,
+  "duty": 64414450.627875514,
+  "free_pct": 46.6422362024981,
+  "rate": 6.4380221016345756
+ },
+ "duty_tr_goods": {
+  "base": 3197312839.0,
+  "duty": 105321216.9764,
+  "free_pct": 67.05463437448762,
+  "rate": 3.2940541723574523
+ },
+ "duty_rate_ratio": 1.95443722682529,
+ "clothing_duty_rate": 17.405956006076135,
+ "province_products": {
+  "Quebec": [
+   [
+    "Aircraft",
+    161982760.0
+   ],
+   [
+    "Steel scrap",
+    29194719.0
+   ],
+   [
+    "Newsprint",
+    15746710.0
+   ]
+  ],
+  "Ontario": [
+   [
+    "Optical instruments",
+    50801282.0
+   ],
+   [
+    "Cars",
+    43295816.0
+   ],
+   [
+    "Plastic-moulding machines",
+    12489066.0
+   ]
+  ],
+  "Saskatchewan": [
+   [
+    "Lentils",
+    130024689.0
+   ],
+   [
+    "Chickpeas",
+    26452077.0
+   ],
+   [
+    "Durum wheat",
+    22094175.0
+   ]
+  ],
+  "British Columbia": [
+   [
+    "Aircraft engines",
+    42163985.0
+   ],
+   [
+    "Coal",
+    37404690.0
+   ]
+  ],
+  "Alberta": [
+   [
+    "Lentils",
+    42551534.0
+   ],
+   [
+    "Durum wheat",
+    6553894.0
+   ],
+   [
+    "Other pulses",
+    4008919.0
+   ]
+  ]
+ },
+ "sk_lentil_drop_pct": 64.48087431693989,
+ "ca_arrivals_2019": 139164,
+ "ca_arrivals_2025_vs_2019": 2.3085783679687277,
+ "tr_solar_mw_dec2025": 24682.0,
+ "tr_wind_mw_dec2025": 14546.0,
+ "tr_wind_solar_gw_dec2025": 39.228,
+ "ca_uranium_world_share_pct": 24.0,
+ "brokering_ukraine_2025": 125000000.0
+}

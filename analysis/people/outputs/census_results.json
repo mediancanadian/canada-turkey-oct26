@@ -1,0 +1,2632 @@
+{
+ "98100356": [
+  {
+   "geo": "Canada",
+   "x": 1,
+   "value": 76745.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 2,
+   "value": 40925.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 3,
+   "value": 35820.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 1,
+   "value": 665.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 2,
+   "value": 305.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 3,
+   "value": 355.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 1,
+   "value": 28490.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 2,
+   "value": 16650.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 3,
+   "value": 11840.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 1,
+   "value": 885.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 2,
+   "value": 300.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 3,
+   "value": 580.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 1,
+   "value": 800.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 2,
+   "value": 295.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 3,
+   "value": 500.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 1,
+   "value": 695.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 2,
+   "value": 430.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 3,
+   "value": 265.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 1,
+   "value": 595.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 2,
+   "value": 290.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 3,
+   "value": 305.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 1,
+   "value": 6670.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 2,
+   "value": 3565.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 3,
+   "value": 3105.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 1,
+   "value": 2695.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 2,
+   "value": 1375.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 3,
+   "value": 1320.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 1,
+   "value": 3430.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 2,
+   "value": 2040.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 3,
+   "value": 1390.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 1,
+   "value": 8075.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 2,
+   "value": 4020.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 3,
+   "value": 4055.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 1,
+   "value": 320.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 2,
+   "value": 90.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 3,
+   "value": 230.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 1,
+   "value": 6300.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 2,
+   "value": 3360.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 3,
+   "value": 2945.0,
+   "vector": 0
+  },
+  {
+   "geo": "Yukon",
+   "x": 1,
+   "value": 15.0,
+   "vector": 0
+  },
+  {
+   "geo": "Yukon",
+   "x": 3,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Northwest Territories",
+   "x": 1,
+   "value": 25.0,
+   "vector": 0
+  },
+  {
+   "geo": "Northwest Territories",
+   "x": 2,
+   "value": 25.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 1,
+   "value": 160.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 2,
+   "value": 45.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 3,
+   "value": 115.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 1,
+   "value": 15620.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 2,
+   "value": 7765.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 3,
+   "value": 7855.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 1,
+   "value": 13895.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 2,
+   "value": 7140.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 3,
+   "value": 6755.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 1,
+   "value": 260.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 2,
+   "value": 80.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 3,
+   "value": 185.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 1,
+   "value": 43555.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 2,
+   "value": 24340.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 3,
+   "value": 19215.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 1,
+   "value": 50.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 2,
+   "value": 30.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 3,
+   "value": 25.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 1,
+   "value": 2275.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 2,
+   "value": 1135.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 3,
+   "value": 1135.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 1,
+   "value": 2375.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 2,
+   "value": 1470.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 3,
+   "value": 905.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 1,
+   "value": 4805.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 2,
+   "value": 2385.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 3,
+   "value": 2425.0,
+   "vector": 0
+  }
+ ],
+ "98100302": [
+  {
+   "geo": "Canada",
+   "x": 1,
+   "value": 43130.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 10,
+   "value": 10150.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 11,
+   "value": 7175.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 2,
+   "value": 685.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 3,
+   "value": 35270.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 4,
+   "value": 3140.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 5,
+   "value": 3145.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 6,
+   "value": 6495.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 7,
+   "value": 8950.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 8,
+   "value": 13535.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 9,
+   "value": 3390.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 1,
+   "value": 8340.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 10,
+   "value": 805.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 11,
+   "value": 735.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 2,
+   "value": 150.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 3,
+   "value": 7455.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 4,
+   "value": 1020.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 5,
+   "value": 1165.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 6,
+   "value": 2105.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 7,
+   "value": 1790.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 8,
+   "value": 1375.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 9,
+   "value": 570.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 1,
+   "value": 7735.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 10,
+   "value": 680.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 11,
+   "value": 675.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 2,
+   "value": 140.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 3,
+   "value": 6915.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 4,
+   "value": 995.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 5,
+   "value": 1145.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 6,
+   "value": 1975.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 7,
+   "value": 1600.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 8,
+   "value": 1200.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 9,
+   "value": 515.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 1,
+   "value": 50.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 10,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 11,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 3,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 4,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 7,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 8,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 1,
+   "value": 25995.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 1,
+   "value": 85.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 10,
+   "value": 30.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 11,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 2,
+   "value": 15.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 3,
+   "value": 50.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 7,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 8,
+   "value": 30.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 1,
+   "value": 30.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 10,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 11,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 3,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 8,
+   "value": 15.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 1,
+   "value": 455.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 10,
+   "value": 110.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 11,
+   "value": 135.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 3,
+   "value": 315.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 4,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 5,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 6,
+   "value": 25.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 7,
+   "value": 90.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 8,
+   "value": 155.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 9,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 1,
+   "value": 420.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 10,
+   "value": 105.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 11,
+   "value": 120.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 3,
+   "value": 300.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 4,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 5,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 6,
+   "value": 15.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 7,
+   "value": 90.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 8,
+   "value": 145.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 9,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 1,
+   "value": 165.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 10,
+   "value": 60.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 11,
+   "value": 25.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 3,
+   "value": 135.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 4,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 5,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 6,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 7,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 8,
+   "value": 80.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 9,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 10,
+   "value": 7060.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 11,
+   "value": 4890.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 2,
+   "value": 305.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 3,
+   "value": 20795.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 4,
+   "value": 1620.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 5,
+   "value": 1595.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 6,
+   "value": 3475.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 7,
+   "value": 5120.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 8,
+   "value": 8985.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 9,
+   "value": 1925.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 1,
+   "value": 1195.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 10,
+   "value": 300.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 11,
+   "value": 155.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 2,
+   "value": 15.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 3,
+   "value": 1025.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 4,
+   "value": 95.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 5,
+   "value": 80.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 6,
+   "value": 130.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 7,
+   "value": 355.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 8,
+   "value": 365.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 9,
+   "value": 65.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 1,
+   "value": 1480.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 10,
+   "value": 755.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 11,
+   "value": 240.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 2,
+   "value": 25.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 3,
+   "value": 1205.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 4,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 5,
+   "value": 45.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 6,
+   "value": 90.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 7,
+   "value": 225.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 8,
+   "value": 810.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 9,
+   "value": 60.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 1,
+   "value": 2435.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 10,
+   "value": 785.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 11,
+   "value": 510.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 2,
+   "value": 50.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 3,
+   "value": 1880.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 4,
+   "value": 130.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 5,
+   "value": 170.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 6,
+   "value": 255.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 7,
+   "value": 395.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 8,
+   "value": 930.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 9,
+   "value": 145.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 1,
+   "value": 18135.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 10,
+   "value": 4540.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 11,
+   "value": 3540.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 2,
+   "value": 190.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 3,
+   "value": 14405.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 4,
+   "value": 1070.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 5,
+   "value": 1095.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 6,
+   "value": 2625.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 7,
+   "value": 3615.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 8,
+   "value": 6000.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 9,
+   "value": 1460.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 1,
+   "value": 335.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 10,
+   "value": 120.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 11,
+   "value": 70.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 2,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 3,
+   "value": 255.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 4,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 5,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 6,
+   "value": 30.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 7,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 8,
+   "value": 155.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 9,
+   "value": 35.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 1,
+   "value": 320.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 10,
+   "value": 120.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 11,
+   "value": 70.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 3,
+   "value": 245.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 4,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 5,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 6,
+   "value": 25.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 7,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 8,
+   "value": 150.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 9,
+   "value": 35.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 1,
+   "value": 310.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 10,
+   "value": 75.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 11,
+   "value": 25.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 3,
+   "value": 280.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 4,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 5,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 6,
+   "value": 35.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 7,
+   "value": 75.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 8,
+   "value": 135.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 9,
+   "value": 65.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 1,
+   "value": 3135.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 10,
+   "value": 845.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 11,
+   "value": 250.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 2,
+   "value": 55.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 3,
+   "value": 2830.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 4,
+   "value": 155.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 5,
+   "value": 145.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 6,
+   "value": 425.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 7,
+   "value": 1035.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 8,
+   "value": 1075.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 9,
+   "value": 235.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 1,
+   "value": 1230.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 2,
+   "value": 25.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 10,
+   "value": 405.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 11,
+   "value": 105.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 3,
+   "value": 1100.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 4,
+   "value": 70.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 5,
+   "value": 95.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 6,
+   "value": 160.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 7,
+   "value": 320.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 8,
+   "value": 450.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 9,
+   "value": 45.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 1,
+   "value": 1765.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 10,
+   "value": 430.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 11,
+   "value": 140.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 2,
+   "value": 15.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 3,
+   "value": 1610.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 4,
+   "value": 75.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 5,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 6,
+   "value": 255.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 7,
+   "value": 640.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 8,
+   "value": 595.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 9,
+   "value": 160.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 1,
+   "value": 4250.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 10,
+   "value": 1030.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 11,
+   "value": 1015.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 2,
+   "value": 135.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 3,
+   "value": 3100.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 4,
+   "value": 250.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 5,
+   "value": 185.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 6,
+   "value": 380.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 7,
+   "value": 760.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 8,
+   "value": 1525.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 9,
+   "value": 495.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 1,
+   "value": 3505.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 10,
+   "value": 790.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 11,
+   "value": 860.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 2,
+   "value": 105.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 3,
+   "value": 2540.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 4,
+   "value": 205.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 5,
+   "value": 165.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 6,
+   "value": 310.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 7,
+   "value": 645.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 8,
+   "value": 1210.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 9,
+   "value": 415.0,
+   "vector": 0
+  },
+  {
+   "geo": "Yukon",
+   "x": 1,
+   "value": 20.0,
+   "vector": 0
+  },
+  {
+   "geo": "Yukon",
+   "x": 3,
+   "value": 15.0,
+   "vector": 0
+  },
+  {
+   "geo": "Yukon",
+   "x": 8,
+   "value": 10.0,
+   "vector": 0
+  }
+ ],
+ "98100181": [
+  {
+   "geo": "Canada",
+   "x": 1,
+   "value": 51010.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 2,
+   "value": 44190.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 3,
+   "value": 6820.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 1,
+   "value": 400.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 2,
+   "value": 345.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 3,
+   "value": 60.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 1,
+   "value": 21030.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 2,
+   "value": 18330.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 3,
+   "value": 2700.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 1,
+   "value": 335.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 2,
+   "value": 295.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 3,
+   "value": 35.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 1,
+   "value": 305.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 2,
+   "value": 275.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 3,
+   "value": 35.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 1,
+   "value": 365.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 2,
+   "value": 295.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 3,
+   "value": 70.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 1,
+   "value": 360.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 2,
+   "value": 315.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 3,
+   "value": 40.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 1,
+   "value": 3860.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 2,
+   "value": 3285.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 3,
+   "value": 570.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 1,
+   "value": 1635.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 2,
+   "value": 1390.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 3,
+   "value": 245.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 1,
+   "value": 2070.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 2,
+   "value": 1770.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 3,
+   "value": 300.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 1,
+   "value": 5530.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 2,
+   "value": 4765.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 3,
+   "value": 765.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 1,
+   "value": 135.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 2,
+   "value": 95.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 3,
+   "value": 35.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 1,
+   "value": 4775.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 2,
+   "value": 4095.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 3,
+   "value": 675.0,
+   "vector": 0
+  },
+  {
+   "geo": "Yukon",
+   "x": 1,
+   "value": 5.0,
+   "vector": 0
+  },
+  {
+   "geo": "Yukon",
+   "x": 2,
+   "value": 5.0,
+   "vector": 0
+  },
+  {
+   "geo": "Northwest Territories",
+   "x": 1,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Northwest Territories",
+   "x": 2,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Northwest Territories",
+   "x": 3,
+   "value": 5.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 1,
+   "value": 75.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 2,
+   "value": 65.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 3,
+   "value": 5.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 1,
+   "value": 9500.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 2,
+   "value": 8220.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 3,
+   "value": 1280.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 1,
+   "value": 8765.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 2,
+   "value": 7615.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 3,
+   "value": 1150.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 1,
+   "value": 100.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 2,
+   "value": 90.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 3,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 1,
+   "value": 30725.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 2,
+   "value": 26740.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 3,
+   "value": 3980.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 1,
+   "value": 75.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 2,
+   "value": 65.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 3,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 1,
+   "value": 1490.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 2,
+   "value": 1270.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 3,
+   "value": 215.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 1,
+   "value": 1915.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 2,
+   "value": 1700.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 3,
+   "value": 215.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 1,
+   "value": 3140.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 2,
+   "value": 2755.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 3,
+   "value": 385.0,
+   "vector": 0
+  }
+ ],
+ "98100201": [
+  {
+   "geo": "Canada",
+   "x": 1,
+   "value": 57610.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 2,
+   "value": 13490.0,
+   "vector": 0
+  },
+  {
+   "geo": "Canada",
+   "x": 3,
+   "value": 44120.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 1,
+   "value": 455.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 2,
+   "value": 50.0,
+   "vector": 0
+  },
+  {
+   "geo": "Nova Scotia",
+   "x": 3,
+   "value": 410.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 1,
+   "value": 23995.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 2,
+   "value": 5620.0,
+   "vector": 0
+  },
+  {
+   "geo": "Toronto (CMA), Ont.",
+   "x": 3,
+   "value": 18380.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 1,
+   "value": 370.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 2,
+   "value": 50.0,
+   "vector": 0
+  },
+  {
+   "geo": "Manitoba",
+   "x": 3,
+   "value": 320.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 1,
+   "value": 345.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 2,
+   "value": 45.0,
+   "vector": 0
+  },
+  {
+   "geo": "Winnipeg (CMA), Man.",
+   "x": 3,
+   "value": 300.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 1,
+   "value": 455.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 2,
+   "value": 65.0,
+   "vector": 0
+  },
+  {
+   "geo": "Saskatchewan",
+   "x": 3,
+   "value": 395.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 1,
+   "value": 420.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 2,
+   "value": 50.0,
+   "vector": 0
+  },
+  {
+   "geo": "Halifax (CMA), N.S.",
+   "x": 3,
+   "value": 365.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 1,
+   "value": 4310.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 2,
+   "value": 1010.0,
+   "vector": 0
+  },
+  {
+   "geo": "Alberta",
+   "x": 3,
+   "value": 3300.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 1,
+   "value": 1805.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 2,
+   "value": 430.0,
+   "vector": 0
+  },
+  {
+   "geo": "Calgary (CMA), Alta.",
+   "x": 3,
+   "value": 1380.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 1,
+   "value": 2300.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 2,
+   "value": 560.0,
+   "vector": 0
+  },
+  {
+   "geo": "Edmonton (CMA), Alta.",
+   "x": 3,
+   "value": 1745.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 1,
+   "value": 6085.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 2,
+   "value": 1070.0,
+   "vector": 0
+  },
+  {
+   "geo": "British Columbia",
+   "x": 3,
+   "value": 5015.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 1,
+   "value": 150.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 2,
+   "value": 15.0,
+   "vector": 0
+  },
+  {
+   "geo": "New Brunswick",
+   "x": 3,
+   "value": 140.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 1,
+   "value": 5330.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 2,
+   "value": 945.0,
+   "vector": 0
+  },
+  {
+   "geo": "Vancouver (CMA), B.C.",
+   "x": 3,
+   "value": 4390.0,
+   "vector": 0
+  },
+  {
+   "geo": "Yukon",
+   "x": 1,
+   "value": 5.0,
+   "vector": 0
+  },
+  {
+   "geo": "Yukon",
+   "x": 3,
+   "value": 5.0,
+   "vector": 0
+  },
+  {
+   "geo": "Northwest Territories",
+   "x": 1,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Northwest Territories",
+   "x": 3,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 1,
+   "value": 95.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 2,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Newfoundland and Labrador",
+   "x": 3,
+   "value": 80.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 1,
+   "value": 10970.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 2,
+   "value": 3100.0,
+   "vector": 0
+  },
+  {
+   "geo": "Quebec",
+   "x": 3,
+   "value": 7865.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 1,
+   "value": 10170.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 2,
+   "value": 2930.0,
+   "vector": 0
+  },
+  {
+   "geo": "Montréal (CMA), Que.",
+   "x": 3,
+   "value": 7240.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 1,
+   "value": 110.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 2,
+   "value": 15.0,
+   "vector": 0
+  },
+  {
+   "geo": "Québec (CMA), Que.",
+   "x": 3,
+   "value": 95.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 1,
+   "value": 34620.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 2,
+   "value": 8115.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ontario",
+   "x": 3,
+   "value": 26505.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 1,
+   "value": 80.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 2,
+   "value": 10.0,
+   "vector": 0
+  },
+  {
+   "geo": "Prince Edward Island",
+   "x": 3,
+   "value": 70.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 1,
+   "value": 1670.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 2,
+   "value": 320.0,
+   "vector": 0
+  },
+  {
+   "geo": "Hamilton (CMA), Ont.",
+   "x": 3,
+   "value": 1350.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 1,
+   "value": 2085.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 2,
+   "value": 685.0,
+   "vector": 0
+  },
+  {
+   "geo": "Kitchener - Cambridge - Waterloo (CMA), Ont.",
+   "x": 3,
+   "value": 1405.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 1,
+   "value": 3365.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 2,
+   "value": 775.0,
+   "vector": 0
+  },
+  {
+   "geo": "Ottawa - Gatineau (CMA), Ont./Que.",
+   "x": 3,
+   "value": 2585.0,
+   "vector": 0
+  }
+ ]
+}

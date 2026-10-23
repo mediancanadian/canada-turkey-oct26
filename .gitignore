@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# rebuilt by slides/make_slides.py; the JPG copies are kept
+/slides/out/*.png
+/slides/slides.html
+# raw downloads go in each thread's raw/ folder (see REPRODUCE.md); one small input is kept
+/analysis/*/raw/*
+!/analysis/energy/raw/round3/

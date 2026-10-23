@@ -1,0 +1,91 @@
+flow,year,rank,hs6,description,value,share
+total_exports,2024,1,071340,"Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",324044528.0,0.26420791022129975
+total_exports,2024,2,720429,Ferrous waste and scrap; of alloy steel (excluding stainless),166616274.0,0.13584965570657462
+total_exports,2024,3,120190,"Soya beans; other than seed, whether or not broken",113157153.0,0.09226205764141736
+total_exports,2024,4,901380,"Optical devices, appliances and instruments; n.e.c. in heading no. 9013",99201712.0,0.08088356615574523
+total_exports,2024,5,071320,"Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",50175583.0,0.04091038355248935
+total_exports,2024,6,841121,Turbo-propellers; of a power not exceeding 1100kW,39843232.0,0.03248595842106742
+total_exports,2024,7,870324,"Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",27718339.0,0.022599994103265807
+total_exports,2024,8,480100,"Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",19264739.0,0.01570739818864885
+total_exports,2024,9,880730,"Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",16636612.0,0.013564569402889588
+total_exports,2024,10,071339,"Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",14394230.0,0.01173625566528542
+total_exports,2024,11,180500,"Cocoa; powder, not containing added sugar or other sweetening matter",10093813.0,0.008229934494973445
+total_exports,2024,12,870390,Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703,9254366.0,0.007545496035295029
+total_exports,2024,13,870323,"Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",9113342.0,0.007430512898375498
+total_exports,2024,14,841122,Turbo-propellers; of a power exceeding 1100kW,7302070.0,0.005953702310287573
+total_exports,2024,15,300390,"Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",7008622.0,0.0057144411096212875
+total_exports,2025,1,071340,"Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",172576223.0,0.15398561857235335
+total_exports,2025,2,880240,"Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 15,000kg",101871300.0,0.09089731408288951
+total_exports,2025,3,880230,"Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 2000kg but not exceeding 15,000kg",60111460.0,0.05363601190522796
+total_exports,2025,4,720429,Ferrous waste and scrap; of alloy steel (excluding stainless),54414272.0,0.04855254789696195
+total_exports,2025,5,901380,"Optical devices, appliances and instruments; n.e.c. in heading no. 9013",50878741.0,0.04539787850767574
+total_exports,2025,6,841121,Turbo-propellers; of a power not exceeding 1100kW,46086676.0,0.041122034011624134
+total_exports,2025,7,870390,Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703,37719354.0,0.03365607357068865
+total_exports,2025,8,270112,"Coal; bituminous, whether or not pulverised, but not agglomerated",37404690.0,0.033375306441589696
+total_exports,2025,9,100119,"Cereals; wheat and meslin, durum wheat, other than seed",28820995.0,0.02571628156994549
+total_exports,2025,10,071320,"Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",28763230.0,0.02566473924793725
+total_exports,2025,11,841112,Turbo-jets; of a thrust exceeding 25kN,25328261.0,0.02259979891579278
+total_exports,2025,12,120190,"Soya beans; other than seed, whether or not broken",19348544.0,0.017264241067058213
+total_exports,2025,13,480100,"Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",17739342.0,0.015828388774834456
+total_exports,2025,14,870323,"Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",17696020.0,0.01578973359481124
+total_exports,2025,15,870324,"Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",17334476.0,0.01546713656775078
+domestic_exports,2024,1,071340,"Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",324044528.0,0.27591812702601076
+domestic_exports,2024,2,720429,Ferrous waste and scrap; of alloy steel (excluding stainless),166616274.0,0.14187078096295647
+domestic_exports,2024,3,120190,"Soya beans; other than seed, whether or not broken",113157153.0,0.09635129439789748
+domestic_exports,2024,4,901380,"Optical devices, appliances and instruments; n.e.c. in heading no. 9013",99100902.0,0.08438264776508814
+domestic_exports,2024,5,071320,"Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",49845886.0,0.042442881507544085
+domestic_exports,2024,6,841121,Turbo-propellers; of a power not exceeding 1100kW,39843232.0,0.033925800308847724
+domestic_exports,2024,7,870324,"Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",25763144.0,0.021936856896350387
+domestic_exports,2024,8,480100,"Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",19264739.0,0.016403581123039187
+domestic_exports,2024,9,880730,"Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",14806575.0,0.01260753411540452
+domestic_exports,2024,10,071339,"Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",14394230.0,0.012256429713825054
+domestic_exports,2024,11,180500,"Cocoa; powder, not containing added sugar or other sweetening matter",10093813.0,0.008594701458778525
+domestic_exports,2024,12,870390,Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703,9103045.0,0.007751080205352185
+domestic_exports,2024,13,841122,Turbo-propellers; of a power exceeding 1100kW,7302070.0,0.006217582164549997
+domestic_exports,2024,14,300390,"Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",7008622.0,0.0059677164345552335
+domestic_exports,2024,15,842951,Front-end shovel loaders,6383199.0,0.005435179922292361
+domestic_exports,2025,1,071340,"Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",172576223.0,0.1695460362213551
+domestic_exports,2025,2,880240,"Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 15,000kg",101871300.0,0.1000825885482297
+domestic_exports,2025,3,880230,"Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 2000kg but not exceeding 15,000kg",60111460.0,0.059055990433157984
+domestic_exports,2025,4,720429,Ferrous waste and scrap; of alloy steel (excluding stainless),54414272.0,0.053458836745260495
+domestic_exports,2025,5,901380,"Optical devices, appliances and instruments; n.e.c. in heading no. 9013",50801282.0,0.04990928558022316
+domestic_exports,2025,6,841121,Turbo-propellers; of a power not exceeding 1100kW,46086676.0,0.04527746118547198
+domestic_exports,2025,7,870390,Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703,37626389.0,0.03696572448611764
+domestic_exports,2025,8,270112,"Coal; bituminous, whether or not pulverised, but not agglomerated",37404690.0,0.03674791819721631
+domestic_exports,2025,9,100119,"Cereals; wheat and meslin, durum wheat, other than seed",28820995.0,0.0283149403623551
+domestic_exports,2025,10,071320,"Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",28100491.0,0.027607087361761668
+domestic_exports,2025,11,120190,"Soya beans; other than seed, whether or not broken",19348544.0,0.019008811786629977
+domestic_exports,2025,12,480100,"Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",17739342.0,0.017427865026777217
+domestic_exports,2025,13,071339,"Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",13349701.0,0.013115299720577733
+domestic_exports,2025,14,847710,"Machinery; injection-moulding machines, for working rubber or plastics or for the manufacture of products from these materials",12489066.0,0.01226977621596745
+domestic_exports,2025,15,870324,"Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",12038171.0,0.011826798274550642
+imports,2024,1,721049,"Iron or non-alloy steel; flat-rolled, width 600mm or more, (not corrugated), plated or coated with zinc (not electrolytically)",201724838.0,0.06412415552190201
+imports,2024,2,890400,Tugs and pusher craft,128293307.0,0.04078178994738922
+imports,2024,3,300490,"Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",104457282.0,0.0332048103881148
+imports,2024,4,570242,"Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",74380161.0,0.023643915439446828
+imports,2024,5,720916,"Iron or non-alloy steel; in coils, flat-rolled, width 600mm or more, cold-rolled, of a thickness exceeding 1mm but less than 3mm",65491409.0,0.02081836494554276
+imports,2024,6,271012,"Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",60918660.0,0.01936478257588622
+imports,2024,7,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",60704911.0,0.019296836187853175
+imports,2024,8,441114,"Medium density fibreboard (MDF), of a thickness exceeding 9 mm",55528715.0,0.017651430492616742
+imports,2024,9,841191,Turbines; parts of turbo-jets and turbo-propellers,48934858.0,0.015555379674337328
+imports,2024,10,080222,"Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",36546971.0,0.011617526505379781
+imports,2024,11,854430,"Insulated electric conductors; ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",35737728.0,0.011360284886045771
+imports,2024,12,720917,"Iron or non-alloy steel; in coils, flat-rolled, width 600mm or more, cold-rolled, of a thickness of 0.5mm or more but not exceeding 1mm",35383185.0,0.011247582996201143
+imports,2024,13,284019,"Borates; disodium tetraborate (refined borax), other than anhydrous",32241380.0,0.010248868140673589
+imports,2024,14,620462,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of cotton (not knitted or crocheted)",29884440.0,0.00949964564227311
+imports,2024,15,870880,Vehicle parts; suspension systems and parts thereof (including shock-absorbers),29582570.0,0.00940368741016192
+imports,2025,1,300490,"Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",179304263.0,0.05608320848227094
+imports,2025,2,890200,"Fishing vessels, factory ships and other vessels; for processing or preserving fishery products",79205607.0,0.02477411577406734
+imports,2025,3,841191,Turbines; parts of turbo-jets and turbo-propellers,71914766.0,0.022493669403341125
+imports,2025,4,570242,"Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",70910995.0,0.022179707552576554
+imports,2025,5,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",67890940.0,0.021235087656992002
+imports,2025,6,300215,"Blood, human or animal, antisera, other blood fractions and immunological products; immunological products, put up in measured doses or in forms or packings for retail sale",62113053.0,0.01942786659160103
+imports,2025,7,441114,"Medium density fibreboard (MDF), of a thickness exceeding 9 mm",49620652.0,0.015520464068064097
+imports,2025,8,720851,"Iron or non-alloy steel; (not in coils), flat-rolled, of a width 600mm or more, hot-rolled, without patterns in relief, of a thickness exceeding 10mm",47706150.0,0.014921641636242022
+imports,2025,9,200979,"Juice; apple, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",47044475.0,0.014714681375779578
+imports,2025,10,870880,Vehicle parts; suspension systems and parts thereof (including shock-absorbers),42580915.0,0.013318558596182724
+imports,2025,11,760429,"Aluminium; alloys, bars, rods and profiles, other than hollow",40459368.0,0.012654976143009615
+imports,2025,12,730820,"Iron or steel; structures and parts thereof, towers and lattice masts",38114435.0,0.011921522492128168
+imports,2025,13,854430,"Insulated electric conductors; ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",35744844.0,0.011180356254096711
+imports,2025,14,480300,"Tissue, towel, napkin stock or similar; for household or sanitary use, cellulose, wadding webs of cellulose fibres, in rolls exceeding 36cm in width or rectangular sheets with one side more than 36cm in unfolded state",32387205.0,0.010130146042166593
+imports,2025,15,880730,"Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",32169532.0,0.0100620617700154

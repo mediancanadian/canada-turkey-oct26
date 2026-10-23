@@ -1,0 +1,114 @@
+{
+ "2010": {
+  "n_destinations_parsed": 81,
+  "sum_parsed": 408819076.0,
+  "turkiye_value": 4341840.0,
+  "turkiye_rank": 19,
+  "top5": [
+   [
+    "United Kingdom",
+    92912589.0
+   ],
+   [
+    "Netherlands",
+    68001211.0
+   ],
+   [
+    "France",
+    28228622.0
+   ],
+   [
+    "Germany",
+    21729991.0
+   ],
+   [
+    "Korea (South), Republic of",
+    21427074.0
+   ]
+  ]
+ },
+ "2011": {
+  "n_destinations_parsed": 88,
+  "sum_parsed": 634560735.0,
+  "turkiye_value": 3767921.0,
+  "turkiye_rank": 24,
+  "top5": [
+   [
+    "United Kingdom",
+    168317053.0
+   ],
+   [
+    "Saudi Arabia",
+    64975753.0
+   ],
+   [
+    "Italy",
+    51833911.0
+   ],
+   [
+    "Australia",
+    45574646.0
+   ],
+   [
+    "Malaysia",
+    39392561.0
+   ]
+  ]
+ },
+ "2012": {
+  "n_destinations_parsed": 78,
+  "sum_parsed": 1050693471.0,
+  "turkiye_value": 5865162.0,
+  "turkiye_rank": 20,
+  "top5": [
+   [
+    "Saudi Arabia",
+    422298391.0
+   ],
+   [
+    "United Arab Emirates",
+    277116557.0
+   ],
+   [
+    "United Kingdom",
+    85832256.0
+   ],
+   [
+    "Germany",
+    25338364.0
+   ],
+   [
+    "Australia",
+    24663910.0
+   ]
+  ]
+ },
+ "2013": {
+  "n_destinations_parsed": 91,
+  "sum_parsed": 682796868.0,
+  "turkiye_value": 3023801.0,
+  "turkiye_rank": 29,
+  "top5": [
+   [
+    "Saudi Arabia",
+    152772708.0
+   ],
+   [
+    "United Kingdom",
+    106293401.0
+   ],
+   [
+    "Austria",
+    84644172.0
+   ],
+   [
+    "Italy",
+    49580162.0
+   ],
+   [
+    "Germany",
+    46851284.0
+   ]
+  ]
+ }
+}

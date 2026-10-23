@@ -1,0 +1,12 @@
+2022 Canada-reported exports to Turkiye | 2701: 119.49M USD (338,276 t), 2710: 0.08M USD (52 t), 2844: 2.26M USD (0 t)
+2022 Turkiye-reported imports from Canada | 2701: 201.55M USD (533,461 t), 2710: 3.51M USD (1,038 t), 2844: 1.45M USD (0 t), 2846: 0.00M USD (0 t), 8105: 4.80M USD (63 t)
+2022 Canada total & ch27 exports to TR: [('27', 119.9), ('TOTAL', 985.2)]
+2023 Canada-reported exports to Turkiye | 2701: 43.26M USD (161,656 t), 2710: 0.21M USD (232 t), 2844: 2.16M USD (0 t)
+2023 Turkiye-reported imports from Canada | 2601: 0.00M USD (0 t), 2701: 46.75M USD (161,512 t), 2710: 4.23M USD (1,130 t), 2844: 2.77M USD (0 t), 2846: 0.00M USD (0 t), 8105: 3.36M USD (103 t)
+2023 Canada total & ch27 exports to TR: [('27', 45.0), ('TOTAL', 912.1)]
+2024 Canada-reported exports to Turkiye | 2710: 0.29M USD (138 t), 2844: 2.02M USD (0 t), 8105: 0.01M USD (0 t)
+2024 Turkiye-reported imports from Canada | 2601: 12.94M USD (77,790 t), 2710: 3.85M USD (988 t), 2805: 0.00M USD (0 t), 2844: 2.96M USD (1 t), 2846: 0.00M USD (0 t), 8105: 0.01M USD (0 t)
+2024 Canada total & ch27 exports to TR: [('27', 1.9), ('TOTAL', 916.1)]
+2025 Canada-reported exports to Turkiye | 2701: 26.72M USD (165,833 t), 2710: 0.46M USD (278 t), 2844: 2.56M USD (1 t), 2846: 0.00M USD (0 t)
+2025 Turkiye-reported imports from Canada | 2601: 0.00M USD (2 t), 2701: 31.81M USD (166,616 t), 2710: 4.74M USD (1,452 t), 2844: 2.50M USD (1 t), 2846: 0.00M USD (0 t), 8105: 0.74M USD (27 t)
+2025 Canada total & ch27 exports to TR: []

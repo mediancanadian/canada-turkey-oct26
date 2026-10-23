@@ -1,0 +1,56 @@
+2021|Canada|Export|1123931.9
+2021|Canada|Import|2787785.6
+2021|Newfoundland and Labrador|Export|2047.7
+2021|Newfoundland and Labrador|Import|52104.1
+2021|Prince Edward Island|Export|148.0
+2021|Prince Edward Island|Import|0.0
+2021|Nova Scotia|Export|8763.9
+2021|Nova Scotia|Import|45638.8
+2021|New Brunswick|Export|50766.5
+2021|New Brunswick|Import|60155.1
+2021|Quebec|Export|353016.5
+2021|Quebec|Import|1002038.7
+2021|Ontario|Export|127212.1
+2021|Ontario|Import|1285910.9
+2021|Manitoba|Export|4779.1
+2021|Manitoba|Import|54622.7
+2021|Saskatchewan|Export|387485.4
+2021|Saskatchewan|Import|16117.7
+2021|Alberta|Export|28500.7
+2021|Alberta|Import|68511.8
+2021|British Columbia|Export|161212.1
+2021|British Columbia|Import|202685.8
+2021|Yukon|Export|0.0
+2021|Yukon|Import|0.0
+2021|Northwest Territories|Export|0.0
+2021|Northwest Territories|Import|0.0
+2021|Nunavut|Export|0.0
+2021|Nunavut|Import|0.0
+2025|Canada|Export|1029352.7
+2025|Canada|Import|3197312.8
+2025|Newfoundland and Labrador|Export|27300.4
+2025|Newfoundland and Labrador|Import|88400.1
+2025|Prince Edward Island|Export|508.9
+2025|Prince Edward Island|Import|7982.3
+2025|Nova Scotia|Export|10283.0
+2025|Nova Scotia|Import|46381.2
+2025|New Brunswick|Export|2310.2
+2025|New Brunswick|Import|9532.3
+2025|Quebec|Export|309521.3
+2025|Quebec|Import|1168172.0
+2025|Ontario|Export|274593.4
+2025|Ontario|Import|1386072.1
+2025|Manitoba|Export|6660.7
+2025|Manitoba|Import|94134.8
+2025|Saskatchewan|Export|205310.0
+2025|Saskatchewan|Import|59360.1
+2025|Alberta|Export|81536.1
+2025|Alberta|Import|135073.9
+2025|British Columbia|Export|111326.1
+2025|British Columbia|Import|196342.8
+2025|Yukon|Export|0.0
+2025|Yukon|Import|0.0
+2025|Northwest Territories|Export|2.5
+2025|Northwest Territories|Import|0.0
+2025|Nunavut|Export|0.0
+2025|Nunavut|Import|5861.3

@@ -1,0 +1,163 @@
+{
+ "access_date": "2026-10-23",
+ "user_agent": "Mozilla/5.0 (generic; no personal details sent)",
+ "sources": [
+  {
+   "url": "https://www150.statcan.gc.ca/t1/wds/rest/getAllCubesListLite",
+   "saved_as": "raw/allcubes.json",
+   "content": "StatCan WDS list of all tables",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/t1/wds/rest/getCubeMetadata (POST, productIds 12100011,12100147,12100148,12100149,12100150,12100151,12100152,12100171,12100173,12100182)",
+   "saved_as": "raw/meta_*.json",
+   "content": "Table metadata, member IDs, footnotes",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/t1/wds/rest/getDataFromCubePidCoordAndLatestNPeriods (POST) productId 12100147",
+   "saved_as": "raw/wds/hs2_exports_tur.json, raw/wds/hs2_exports_world.json",
+   "content": "CIMT domestic exports and re-exports by province of origin, country, HS2, monthly 1988-01 to 2026-08",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/t1/wds/rest/getDataFromCubePidCoordAndLatestNPeriods (POST) productId 12100150",
+   "saved_as": "raw/wds/hs2_imports_tur.json, raw/wds/hs2_imports_world.json",
+   "content": "CIMT imports by province of clearance, country of origin, HS2, monthly 1988-01 to 2026-08",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/t1/wds/rest/getDataFromCubePidCoordAndLatestNPeriods (POST) productId 12100148",
+   "saved_as": "raw/wds/hs6_exp_tur.json",
+   "content": "CIMT exports by province, country, HS6, monthly 2021-01 to 2026-08",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/t1/wds/rest/getDataFromCubePidCoordAndLatestNPeriods (POST) productId 12100151",
+   "saved_as": "raw/wds/hs6_imp_tur.json",
+   "content": "CIMT imports by province of clearance, country, HS6, monthly 2021-01 to 2026-08",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/n1/tbl/csv/12100171-eng.zip",
+   "saved_as": "raw/12100171-eng.zip",
+   "content": "Table 12-10-0171-01, trade by country and NAPCS section, annual 1999-2025 (file dated 2026-08-04)",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/n1/tbl/csv/12100173-eng.zip",
+   "saved_as": "raw/12100173-eng.zip",
+   "content": "Table 12-10-0173-01, trade by province, country and NAPCS section, annual 1999-2025",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/n1/tbl/csv/12100011-eng.zip",
+   "saved_as": "raw/12100011-eng.zip",
+   "content": "Table 12-10-0011-01, trade by principal partners, monthly (Türkiye not a separate partner; downloaded for context only)",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www150.statcan.gc.ca/n1/tbl/csv/18100005-eng.zip",
+   "saved_as": "raw/18100005-eng.zip",
+   "content": "Table 18-10-0005-01, CPI annual average, Canada all-items",
+   "licence": "Statistics Canada Open Licence (https://www.statcan.gc.ca/en/reference/licence)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www.bankofcanada.ca/valet/observations/FXAUSDCAD/json",
+   "saved_as": "raw/boc_FXAUSDCAD.json",
+   "content": "Bank of Canada annual average USD/CAD",
+   "licence": "Bank of Canada terms of use (https://www.bankofcanada.ca/terms/)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://comtradeapi.un.org/files/v1/app/reference/HS.json",
+   "saved_as": "raw/comtrade_HS_ref.json",
+   "content": "HS code list and descriptions (all editions)",
+   "licence": "UN Comtrade terms (https://comtradeplus.un.org/)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode={124|792}&partnerCode={792|124}&period={year}&cmdCode=TOTAL&flowCode=M,X",
+   "saved_as": "raw/comtrade/total_r*_*.json",
+   "content": "UN Comtrade annual totals, Canada and Türkiye as reporters (mirror check), USD",
+   "licence": "UN Comtrade terms (https://comtradeplus.un.org/)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www.international.gc.ca/country-pays/turkiye/relations.aspx?lang=eng",
+   "saved_as": "raw/web/2a1087a0.html",
+   "content": "Global Affairs Canada, Canada-Türkiye relations (date modified 2026-10-06): fact sheet trade figures",
+   "licence": "Government of Canada website, Terms and conditions (https://www.canada.ca/en/transparency/terms.html); Open Government Licence - Canada where applicable",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://international.canada.ca/en/global-affairs/consultations/trade/2026-07-29-turkiye",
+   "saved_as": "raw/web/93279161.html",
+   "content": "GAC FTA consultation page (date modified 2026-07-31)",
+   "licence": "Government of Canada website, Terms and conditions (https://www.canada.ca/en/transparency/terms.html); Open Government Licence - Canada where applicable",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www.pm.gc.ca/en/node/54279",
+   "saved_as": "raw/web/54d835a2.html",
+   "content": "PMO news release announcing Oct 21-24 2026 visit; 'almost 50% in five years'",
+   "licence": "Government of Canada website, Terms and conditions (https://www.canada.ca/en/transparency/terms.html); Open Government Licence - Canada where applicable",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www.theglobeandmail.com/canada/article-canada-turkey-carney-strategic-partnership-defence-energy-trade/",
+   "saved_as": "not saved (robots disallowed)",
+   "content": "Lead only",
+   "licence": "news, not a data source",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www.chroniclejournal.com/news/national/in-ankara-carney-looks-to-turn-the-page-in-canadas-relationship-with-turkey/article_8006fdcf-75f9-5933-9239-4ef4d35ceb36.html",
+   "saved_as": "not saved (read via WebFetch)",
+   "content": "The Canadian Press, Craig Lord, 2026-10-22: wording of $10 billion goal",
+   "licence": "news, lead only",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www.spokesman.com/stories/2026/oct/21/canada-turkey-sign-strategic-partnership-as-part-o/",
+   "saved_as": "not saved (read via WebFetch)",
+   "content": "Reuters, Maria Cheng and Tuvan Gumrukcu, 2026-10-21/22: wording of $3B/$5B/$10B path",
+   "licence": "news, lead only",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www.jpost.com/international/article-912641",
+   "saved_as": "not saved (read via WebFetch)",
+   "content": "Reuters copy, 2026-10-23: 'C$4.34 billion ($3.09 billion)'",
+   "licence": "news, lead only",
+   "accessed": "2026-10-23"
+  },
+  {
+   "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership",
+   "saved_as": "not saved (read via WebFetch)",
+   "content": "Al Jazeera/Anadolu/Reuters 2026-10-22: Erdogan quote 'around $3bn'",
+   "licence": "news, lead only",
+   "accessed": "2026-10-23"
+  }
+ ],
+ "not_reachable": [
+  {
+   "url": "https://www5.statcan.gc.ca/cimt-cicm/",
+   "note": "connection reset from this sandbox (blocked); same data obtained via WDS cubes 12-10-0147 to 12-10-0152, which are the CIMT application's own back-end tables"
+  },
+  {
+   "url": "https://ised-isde.canada.ca/app/ixb/tdo/crtr.html",
+   "note": "form page loads (HTTP 200) but report runs return 405 or bounce back to the form without data; not used"
+  }
+ ]
+}

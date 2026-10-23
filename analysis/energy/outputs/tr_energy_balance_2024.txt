@@ -1,0 +1,7 @@
+2024 ktoe: production 55,016; imports 128,437; exports 12,304; bunkers 5,669; total energy supply 165,214
+net imports / supply = 70.3%
+gross imports / supply = 77.7%
+domestic production / supply = 33.3% -> 1 - that = 66.7%
+Taş Kömürü imports 24564 supply 25150
+Ham Petrol imports 31526 supply 36786
+Doğal Gaz3 imports 43076 supply 43952

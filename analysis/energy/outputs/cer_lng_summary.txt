@@ -1,0 +1,36 @@
+EXCLUDED anomalous records: [('08/01/2026', 'QINGCHENG', 'Taiwan, Province of China', '75378736.000000'), ('08/01/2026', 'QINGCHENG', 'Viet Nam', '16511533.000000'), ('08/01/2026', 'QINGCHENG', 'China', '8602832.000000')]
+== 2025 all: records 69, 3,113,865 thousand m3 gas equiv = 3.11 bcm = 110.0 Bcf; approx 2.3 Mt LNG (1 Mt LNG ~ 1.36 bcm)
+   Korea, Republic of               1,187,714  38.1%  cargoes/records 12
+   Japan                              979,449  31.5%  cargoes/records 10
+   China                              687,859  22.1%  cargoes/records 10
+   Taiwan, Province of China          199,245   6.4%  cargoes/records 2
+   United States                       59,597   1.9%  cargoes/records 35
+== 2026 Jan-Jul: records 123, 8,285,204 thousand m3 gas equiv = 8.29 bcm = 292.6 Bcf; approx 6.1 Mt LNG (1 Mt LNG ~ 1.36 bcm)
+   Korea, Republic of               3,325,714  40.1%  cargoes/records 34
+   China                            2,289,844  27.6%  cargoes/records 36
+   Japan                            1,490,012  18.0%  cargoes/records 15
+   Taiwan, Province of China          782,185   9.4%  cargoes/records 8
+   Viet Nam                           138,409   1.7%  cargoes/records 3
+   Thailand                            98,904   1.2%  cargoes/records 1
+   Philippines                         98,315   1.2%  cargoes/records 1
+   United States                       61,821   0.7%  cargoes/records 25
+== 2026 Jan-Aug (clean): records 137, 9,101,453 thousand m3 gas equiv = 9.10 bcm = 321.4 Bcf; approx 6.7 Mt LNG (1 Mt LNG ~ 1.36 bcm)
+   Korea, Republic of               3,857,764  42.4%  cargoes/records 40
+   China                            2,289,844  25.2%  cargoes/records 36
+   Japan                            1,692,639  18.6%  cargoes/records 17
+   Taiwan, Province of China          856,745   9.4%  cargoes/records 10
+   Viet Nam                           138,409   1.5%  cargoes/records 3
+   Thailand                            98,904   1.1%  cargoes/records 1
+   Philippines                         98,315   1.1%  cargoes/records 1
+   United States                       68,833   0.8%  cargoes/records 29
+== Jun 2025-Aug 2026 (clean): records 193, 12,190,340 thousand m3 gas equiv = 12.19 bcm = 430.5 Bcf; approx 9.0 Mt LNG (1 Mt LNG ~ 1.36 bcm)
+   Korea, Republic of               5,045,478  41.4%  cargoes/records 52
+   China                            2,977,703  24.4%  cargoes/records 46
+   Japan                            2,672,087  21.9%  cargoes/records 27
+   Taiwan, Province of China        1,055,990   8.7%  cargoes/records 12
+   Viet Nam                           138,409   1.1%  cargoes/records 3
+   United States                      103,452   0.8%  cargoes/records 51
+   Thailand                            98,904   0.8%  cargoes/records 1
+   Philippines                         98,315   0.8%  cargoes/records 1
+first Kitimat export record period: 202506
+Kitimat records by period: [('2025-06', 1), ('2025-07', 3), ('2025-08', 5), ('2025-09', 5), ('2025-10', 7), ('2025-11', 6), ('2025-12', 4), ('2026-01', 11), ('2026-02', 16), ('2026-03', 13), ('2026-04', 15), ('2026-05', 14), ('2026-06', 14), ('2026-07', 8), ('2026-08', 9)]

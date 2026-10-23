@@ -1,0 +1,21 @@
+total units 739
+{'unitName': 'AKKUYU-1', 'statusName': 'Under Construction', 'model': 'VVER V-509', 'netElectricalCapacity': 1114, 'constructionDate': '2018-04-03T00:00:00', 'criticalityDate': None, 'gridDate': None, 'ownerName': 'Akkuyu Nuclear Joint Stock Company (JSC)', 'operatorName': 'Akkuyu Nuclear Joint Stock Company (JSC)', 'reactorSupplierName': 'Atomenergomash'}
+{'unitName': 'AKKUYU-2', 'statusName': 'Under Construction', 'model': 'VVER V-509', 'netElectricalCapacity': 1114, 'constructionDate': '2020-04-08T00:00:00', 'criticalityDate': None, 'gridDate': None, 'ownerName': 'Akkuyu Nuclear Joint Stock Company (JSC)', 'operatorName': 'Akkuyu Nuclear Joint Stock Company (JSC)', 'reactorSupplierName': 'Atomenergomash'}
+{'unitName': 'AKKUYU-3', 'statusName': 'Under Construction', 'model': 'VVER V-509', 'netElectricalCapacity': 1114, 'constructionDate': '2021-03-10T00:00:00', 'criticalityDate': None, 'gridDate': None, 'ownerName': 'Akkuyu Nuclear Joint Stock Company (JSC)', 'operatorName': 'Akkuyu Nuclear Joint Stock Company (JSC)', 'reactorSupplierName': 'Atomenergomash'}
+{'unitName': 'AKKUYU-4', 'statusName': 'Under Construction', 'model': 'VVER V-509', 'netElectricalCapacity': 1114, 'constructionDate': '2022-07-21T00:00:00', 'criticalityDate': None, 'gridDate': None, 'ownerName': 'Akkuyu Nuclear Joint Stock Company (JSC)', 'operatorName': 'Akkuyu Nuclear Joint Stock Company (JSC)', 'reactorSupplierName': 'Atomenergomash'}
+operational 417 net MW 379611
+operational PHWR 46 Counter({'IN': 19, 'CA': 17, 'AR': 3, 'KR': 3, 'CN': 2, 'RO': 2})
+operational CANDU-labelled 25 Counter({'CA': 17, 'KR': 3, 'CN': 2, 'RO': 2, 'AR': 1})
+non-CANDU-labelled PHWR by country/model [(('IN', 'Horizontal Pressure Tube type', 'NUCLEAR POWER CORPORATION OF INDIA, LTD.\r\nVikram Sarabhai Bhavan, Anushakti Nagar, Mumbai - 400 094.'), 14), (('AR', 'PHWR KWU', 'Siemens AG, Power Generation'), 2), (('IN', 'PHWR-700', 'NUCLEAR POWER CORPORATION OF INDIA, LTD.\r\nVikram Sarabhai Bhavan, Anushakti Nagar, Mumbai - 400 094.'), 2), (('IN', 'Horizontal Pressure Tube Type', 'NUCLEAR POWER CORPORATION OF INDIA, LTD.\r\nVikram Sarabhai Bhavan, Anushakti Nagar, Mumbai - 400 094.'), 2), (('IN', 'Horizontal Pressure Tube type', 'ATOMIC ENERGY OF CANADA Ltda AND DEPARTMENT OF ATOMIC ENERGY(INDIA)'), 1)]
+PHWR under construction Counter({('IN', 'PHWR-700 (Horizontal Pressure Tubes)'): 2, ('IN', 'Horizontal Pressure Tube type'): 1})
+CANDU-design operational outside Canada (PRIS model/supplier): 9
+   AR EMBALSE CANDU 6 608 ATOMIC ENERGY OF CANADA, LTD.
+   CN QINSHAN 3-1 CANDU 6 677 ATOMIC ENERGY OF CANADA, LTD.
+   CN QINSHAN 3-2 CANDU 6 677 ATOMIC ENERGY OF CANADA, LTD.
+   RO CERNAVODA-1 CANDU 6 650 ATOMIC ENERGY OF CANADA, LTD.
+   RO CERNAVODA-2 CANDU 6 650 ATOMIC ENERGY OF CANADA, LTD.
+   IN RAJASTHAN-2 Horizontal Pressure Tube type 187 ATOMIC ENERGY OF CANADA Ltda AND DEPARTM
+   KR WOLSONG-2 CANDU 6 571 ATOMIC ENERGY OF CANADA LTD./DOOSAN HEAV
+   KR WOLSONG-3 CANDU 6 595 ATOMIC ENERGY OF CANADA LTD./DOOSAN HEAV
+   KR WOLSONG-4 CANDU 6 569 ATOMIC ENERGY OF CANADA LTD./DOOSAN HEAV
+Canada operational: 17 12714 MWe

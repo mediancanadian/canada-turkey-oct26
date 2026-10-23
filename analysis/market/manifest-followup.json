@@ -1,0 +1,136 @@
+{
+ "thread": "followup: official-source gaps",
+ "created": "2026-10-23",
+ "results": "results-followup.md",
+ "scripts": [
+  "scripts/tuik_press.py",
+  "scripts/tuik_search.py"
+ ],
+ "run": "python3 -I scripts/tuik_press.py <id> en raw/followup",
+ "files": [
+  {
+   "path": "raw/followup/press_53899_en.txt",
+   "source_url": "https://veriportali.tuik.gov.tr/en/press/53899",
+   "note": "TurkStat ABPRS 2025: population, growth, median age, age shares, Istanbul, urban share",
+   "sha256": "3eb0a6dc7e93681f683633e1470f3cbb8a5bbe95b7015e15c14167b1ba089417",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/press_58018_en.txt",
+   "source_url": "https://veriportali.tuik.gov.tr/en/press/58018",
+   "note": "TurkStat Birth Statistics 2025: TFR 1.42, births",
+   "sha256": "29ce6b7048475bb184beb84612e0e9b27c39e33b12de4ea0ab190d39c67f941c",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/press_53993_en.txt",
+   "source_url": "https://veriportali.tuik.gov.tr/en/press/53993",
+   "note": "TurkStat Income Distribution Statistics 2025: Gini, quintile shares, mean income",
+   "sha256": "68b3a1e5cbb089f4c238e27c2eb254000bcb94d0fd40028ba66077331339c0af",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/press_53699_en.txt",
+   "source_url": "https://veriportali.tuik.gov.tr/en/press/53699",
+   "note": "TurkStat Population Projections 2023-2100",
+   "sha256": "330c0e09e209d7d1529b2570df43dafab1142c98c00f85e150c861eb152d4802",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/press_53911_en.txt",
+   "source_url": "https://veriportali.tuik.gov.tr/en/press/53911",
+   "note": "TurkStat Foreign Trade Statistics Dec 2025: BEC import shares, 2025 totals",
+   "sha256": "d6b8fe662ac4d005cf1e327963d8f6eb8536e39c9b460c4a24bc70a832da9e6e",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/hmb_credit_ratings.json",
+   "source_url": "https://en.hmb.gov.tr/credit-ratings",
+   "note": "Ministry of Treasury and Finance credit ratings table (modified 2026-04-14)",
+   "sha256": "e5d13de412704ed5d84d044a16ded17a19494b9c2a526f810400d5c2dc7333d9",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/tcmb/BalanceofPayments_August2026.pdf",
+   "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/4329826e-067d-44b6-8748-620900d91741/BalanceofPayments_August2026.pdf?MOD=AJPERES",
+   "note": "TCMB BoP developments Aug 2026",
+   "sha256": "08dbf3860d700d8cf99516102a292b13715aca5b624a7b6fa9302a25802b97f4",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/tcmb/bopzip/bop.xls",
+   "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/08454646-62d8-4188-bfbe-1c8c01d83fc4/bop.zip?MOD=AJPERES",
+   "note": "TCMB BoP tables: annual (T4) and annualized (T3) current account",
+   "sha256": "0a0122cccd457d2e92af7ee4f1b20a3dd3abe58dc92312b301a6bd7feeaef430",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/tcmb_bop.html",
+   "source_url": "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Statistics/Balance+of+Payments+and+Related+Statistics/Balance+of+Payments+Statisticss/",
+   "note": "TCMB BoP statistics landing page",
+   "sha256": "19f96b6ab7955a9cf9d531aa199ae4e2c48cc0bf0552adb216c76b62ce329a4b",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/press_53899_en.json",
+   "source_url": "https://veriportali.tuik.gov.tr/api/en/press/53899",
+   "note": "raw API JSON",
+   "sha256": "c02a9c341506ff3bf5478e55895ca375f9b61c21eb564566baf4b53998ac9d80",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/press_58018_en.json",
+   "source_url": "https://veriportali.tuik.gov.tr/api/en/press/58018",
+   "note": "raw API JSON",
+   "sha256": "93ac3672f15d11eb6e1eb43ba76afee4ffd9e04815c8c2d62636fe4ddb46b3e2",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/press_53993_en.json",
+   "source_url": "https://veriportali.tuik.gov.tr/api/en/press/53993",
+   "note": "raw API JSON",
+   "sha256": "7b61091df63a551b1fe94142889d0a975bf0eaeaa5f4a579c5b59f30d29391e1",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/press_53699_en.json",
+   "source_url": "https://veriportali.tuik.gov.tr/api/en/press/53699",
+   "note": "raw API JSON",
+   "sha256": "64d49064f3daa64f00db92ca9bccdb9844a402bef86738b8e39434f80c3e1929",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/followup/press_53911_en.json",
+   "source_url": "https://veriportali.tuik.gov.tr/api/en/press/53911",
+   "note": "raw API JSON",
+   "sha256": "b7d2d41f91d365c49ef6d72e20c76801118b33a9b14ea190fb8a713af53b4b56",
+   "accessed": "2026-10-23"
+  }
+ ],
+ "web_sources_no_local_copy": [
+  {
+   "url": "https://investmentpolicy.unctad.org/international-investment-agreements/countries/214/t-rkiye",
+   "via": "WebFetch",
+   "finding": "140 BITs, 84 in force; no Canada row in any status"
+  },
+  {
+   "url": "https://www.qnbinvest.com.tr/investodak/qnbarastirma/fitch-ratings-turkiyenin-kredi-notu-gorunumunu-pozitiften-duragana-revize-etti",
+   "via": "WebFetch",
+   "finding": "Fitch revised outlook Positive to Stable, BB- affirmed, ~2026-04-13 (bank research, not agency)"
+  },
+  {
+   "url": "https://www.hurriyetdailynews.com/fitch-revises-turkiye-outlook-to-positive-affirms-bb-rating-218173",
+   "via": "WebFetch",
+   "finding": "Fitch outlook to Positive, article 2026-01-24 (news)"
+  }
+ ],
+ "blocked": [
+  "disclosure.spglobal.com / spglobal.com S&P entity page (403; WebFetch permission not answered)",
+  "ratings.moodys.com and moodys.com Türkiye page (Cloudflare; WebFetch client error)",
+  "fitchratings.com entity page (JS only; WebFetch permission not answered)",
+  "UNCTAD treaty page 648 and Canada country page (Cloudflare 403; WebFetch permission not answered)",
+  "treaty-accord.gc.ca search (server 500 / connection reset)",
+  "international.gc.ca (connection reset); web.archive.org (connection reset)",
+  "nsiws.tuik.gov.tr SDMX (401)"
+ ]
+}

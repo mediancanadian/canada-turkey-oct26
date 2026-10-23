@@ -1,0 +1,324 @@
+{
+ "project": "Week 03 Canada-Turkiye energy: follow-up checks",
+ "accessed": "2026-10-23",
+ "results": "results-followup.md",
+ "parent_manifest": "manifest.json",
+ "key_sources": {
+  "comtrade_tur_hs27_imports": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=792&partnerCode=0&flowCode=M&cmdCode=27,TOTAL&period={2024,2025}",
+  "canada_critical_minerals_list": "https://www.canada.ca/en/campaign/critical-minerals-in-canada/critical-minerals-an-opportunity-for-canada (WebFetch transcript only)",
+  "oag_cesd_2024_report6": "https://open.canada.ca/data/dataset/a9cc4c5e-259c-450b-850a-56528a1a76c7/resource/61d6a849-80ca-4eb8-8573-6488f07f4f8d/download/cesd-report_6-the-canadian-critical-minerals-strategy.pdf",
+  "nrcan_cml_consultation": "https://natural-resources.canada.ca/minerals-mining/critical-minerals/consultation-update-canada-s-critical-minerals-list-methodology",
+  "can_nir_2026": "https://unfccc.int/documents/656423 (file via https://cdn.climatepolicyradar.org/navigator/CAN/2026/canada-national-inventory-report-nir-2026_ec2d760875487ee72323b68480a15970.pdf)",
+  "tur_nir_2026": "https://unfccc.int/documents/656426 (file via https://cdn.climatepolicyradar.org/navigator/TUR/2026/turkiye-national-inventory-report-nir-2026_67cca463bc9ff044072f412890a8d477.pdf)",
+  "tur_ndc3": "https://faolex.fao.org/docs/pdf/tur240214.pdf",
+  "unep_leap_tur_ndc3": "https://leap.unep.org/en/countries/tr/national-legislation/second-nationally-determined-contribution-ndc-30",
+  "worldbank_population": "https://api.worldbank.org/v2/country/CAN;TUR/indicator/SP.POP.TOTL?date=2023:2024&format=json",
+  "usgs_mcs2026_boron": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-boron.pdf",
+  "usgs_mcs2026_chromium": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-chromium.pdf",
+  "comtrade_can_tur_exports": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=124&partnerCode=792&flowCode=X&cmdCode=27,2701,2709,2710,2711,2716,2612,2844,TOTAL&period={year}",
+  "boc_fx_annual": "https://www.bankofcanada.ca/valet/observations/FXAUSDCAD/json?start_date=2015-01-01",
+  "boc_fx_daily_2015_2016": "https://www.bankofcanada.ca/valet/observations/IEXE0101/json?start_date=2015-01-01&end_date=2016-12-31",
+  "nrcan_uranium_facts": "https://natural-resources.canada.ca/minerals-mining/mining-data-statistics-analysis/minerals-metals-facts/uranium-nuclear-power-facts",
+  "cer_uranium_snapshot": "https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2026/market-snapshot-canadian-uranium-exports-help-fuel-nuclear-generation-around-the-world.html"
+ },
+ "notes": [
+  "16.9 kt uranium figure is from CER, not CNSC; equals NRCan 14,327 tU x 1.1792 (U3O8)",
+  "Turkiye NDC 643 Mt is on a net (incl. LULUCF) basis; compare with 517.4 Mt net 2024",
+  "CAD export values are Comtrade USD converted at BoC annual averages, not StatCan CAD",
+  "Critical minerals list saved only as WebFetch transcript; canada.ca and web.archive.org reset connections",
+  "Blocked: unfccc.int (Incapsula), data.tuik.gov.tr API (login), etimaden.gov.tr (TLS), ISED TDO, www150.statcan.gc.ca"
+ ],
+ "files": [
+  {
+   "path": "raw/followup/CAN_NIR_2026_p1-30.txt",
+   "bytes": 175567,
+   "sha256": "5bbc366511100cd653cd6f5f1276dad614f0739aa148517f6e9db056bc2b492d"
+  },
+  {
+   "path": "raw/followup/CAN_NIR_2026_partA_ec2d.pdf",
+   "bytes": 31422410,
+   "sha256": "d66ff76231c69670e02b15f296ec300a8b4fff63a162a9914e2c7f11cd8fd8c4"
+  },
+  {
+   "path": "raw/followup/TUR_NDC3_2035.txt",
+   "bytes": 62203,
+   "sha256": "ef13a70ed8e2460d208c2bdc9b3bb3bc4325d74b029364f2d4de92867eed530d"
+  },
+  {
+   "path": "raw/followup/TUR_NDC3_2035_faolex_tur240214.pdf",
+   "bytes": 366771,
+   "sha256": "5e9ee188b3ddc97eb72d9a04465170672119f93878ddf7beb37a4d19a56e5de8"
+  },
+  {
+   "path": "raw/followup/TUR_NIR_2026_p1-40.txt",
+   "bytes": 114085,
+   "sha256": "abc44f90a09c4bc147ea9a886928dddd3b788c1c11b37abe18d040c38c649f31"
+  },
+  {
+   "path": "raw/followup/TUR_NIR_2026_unfccc_doc656426_via_CPR.pdf",
+   "bytes": 7731757,
+   "sha256": "f10af47855866194e8e71f745f3672c2213b9788316f9e929779f56736687946"
+  },
+  {
+   "path": "raw/followup/boc_FXAUSDCAD_annual.json",
+   "bytes": 1675,
+   "sha256": "65f93b6bfcdd266e082e38b35445e88a1b6ba7ac4af4ff2c84bb018dd7907f5e"
+  },
+  {
+   "path": "raw/followup/boc_IEXE0101_annual_2015-2016.json",
+   "bytes": 61410,
+   "sha256": "8ada4073f985085715eb261ea35fea1258661e2502f1d0da7b0e7bfc67d79367"
+  },
+  {
+   "path": "raw/followup/canada_ca_critical_minerals_list_webfetch_transcript.txt",
+   "bytes": 769,
+   "sha256": "6d703f28f86e92b0bc21a796f125fa7e89636bcc28b5b4523499f7c57189f0b0"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2015.json",
+   "bytes": 4572,
+   "sha256": "3e3241d03f74a59e511502a060258504832e7db7744be35b48698a8cd79b9569"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2016.json",
+   "bytes": 4576,
+   "sha256": "c2b96841905bea1ff9cdefaa4ed821fb8ad497d62582fbd00d51f364654dfebb"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2017.json",
+   "bytes": 5438,
+   "sha256": "97114f64a1115509fe2aeb14787198f95036c90ff5bb93a1b7cf500bd96f43a8"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2018.json",
+   "bytes": 5450,
+   "sha256": "129d95e79920147188656e0ddcadddb6d0e75385936eabe2d8fccaedc4bb6101"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2019.json",
+   "bytes": 4562,
+   "sha256": "0f90d3a11891765810c5807032cf0a38590ea1183275384b2d877b4d4404e1c8"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2020.json",
+   "bytes": 4569,
+   "sha256": "8769931083910ffd581aa8e65de12ae673c56094b3ad9a5a4d0a85fb69cc6c2b"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2021.json",
+   "bytes": 4562,
+   "sha256": "1e3ead1c0b44d669eff1e6fa663543e2ea8ce7e3c577f1c1f79c4b63987ded9c"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2022.json",
+   "bytes": 4562,
+   "sha256": "c34688d9da0d9ca8ec4349d1ae65c5514c514cb1abc0bde1aaf682398c1be064"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2023.json",
+   "bytes": 4565,
+   "sha256": "9f7cc07002e828c6a98dab2516132974de1d5745e753138eca8bd1a329428653"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2024.json",
+   "bytes": 3646,
+   "sha256": "86fa831e5cc164f0624d41b496957ca44f6b0b8a5b6020486258d648374b0887"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_2025.json",
+   "bytes": 4569,
+   "sha256": "4daf79bb3740bac0af867a9cb472ec301fe86ccb4ed6265d64eb3cbcbf60d795"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2015.json",
+   "bytes": 957,
+   "sha256": "27df650b2349995c74f956f2237bfa58afd45061d37fc10585cc3c89c8ce2e80"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2016.json",
+   "bytes": 83,
+   "sha256": "65049875866f91abb6665c2bef2b3f0f71214157ea396dad40c48d4d0b23f0ae"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2017.json",
+   "bytes": 83,
+   "sha256": "87b2054653b05cd43aa59af75935bc7ff1294932f43411b8b7b551c563407e96"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2018.json",
+   "bytes": 967,
+   "sha256": "0456dddac831986f9d413933c4b656405cf78ba08acf3b5f24fef8d13b98b20c"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2019.json",
+   "bytes": 970,
+   "sha256": "e2c18011b439e00bcf0e01e3a76aef517cd498017c6958305d3a68cb1c3e54b7"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2020.json",
+   "bytes": 954,
+   "sha256": "f2ccb758cb601f0e37d5f850d4c80e59837c3fd3add0b378d0d6998b9d427bb1"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2021.json",
+   "bytes": 954,
+   "sha256": "d4c173ef30c5c9381f71aa712f5966416a5a0f81e5742812f05c124634395b61"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2022.json",
+   "bytes": 58,
+   "sha256": "4d4d50d68a2e424a6fd3461f39fd7f6c40a78f2cf03ae9b7c1dc57c5e1a7e305"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2023.json",
+   "bytes": 58,
+   "sha256": "808edd924edbc6d0f6035a34e1a34a657ad3f1475236507c2f080c91e21be754"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2024.json",
+   "bytes": 58,
+   "sha256": "6f28827414c5e7e7db6823016c411ff22a3e53ac8f27f2906afb139323e53b6f"
+  },
+  {
+   "path": "raw/followup/comtrade_CAN_TUR_X_HS6_2025.json",
+   "bytes": 58,
+   "sha256": "297617aff4e5dffcb59f9da991ac726f0294ba75b9bbd154d760e3526e02dad2"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2015.json",
+   "bytes": 3675,
+   "sha256": "983049e8e2a05d15e3c11df53417012cae76ce2e7dc9f9929e024c8d01ea9c0a"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2016.json",
+   "bytes": 3688,
+   "sha256": "d223f22133260492ed8b64d1c2ce16796168e3bd7e3ffddf82c11b82c6bfcb0c"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2017.json",
+   "bytes": 3679,
+   "sha256": "0b3981cf66a6caa39f27faf771cb64853e9b1ebcf43406cabaf73c5ff9120807"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2018.json",
+   "bytes": 3675,
+   "sha256": "34cddc5cc71d7c5b047c76a20d00db809baec9e7b8e8578ee980f25c1b6e4385"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2019.json",
+   "bytes": 3681,
+   "sha256": "d51ccac73001a5f585cce9c8d3910889e9327da0db9d167bebe69189cadc5f36"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2020.json",
+   "bytes": 3688,
+   "sha256": "f4504523bd21ca71c24c705b79a5f2131ea137e77286e4f8fe3fcdf152aff138"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2021.json",
+   "bytes": 3677,
+   "sha256": "b5faf8f050d65a7a0468ef46041ea7bdb56697dc591aa53c01722efd62e1899c"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2022.json",
+   "bytes": 3684,
+   "sha256": "dfbfe070f3885a4b97ea47397a7d873385ede28bb8be4813e2a23a38828e1681"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2023.json",
+   "bytes": 3678,
+   "sha256": "46c3fc461be6fd8e4c7b1b4482a81116375fa6de9a376f7e0ac95f358ffeee6f"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2024.json",
+   "bytes": 2755,
+   "sha256": "1c65d8832a3b39d4b8fda48e68734314f126e38cf8c17f5e327f6cff3fda3c5e"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_CAN_M_2025.json",
+   "bytes": 83,
+   "sha256": "8d88b8b9fbdd8f0731dae50cd5053f15c592d13f5c87541e3eded00ea3a21051"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_WORLD_M_HS27_2024.json",
+   "bytes": 1875,
+   "sha256": "57cb4144942a2c3f24d56bbeee1fdde143c33baef2977591dd80f3296a8c9a39"
+  },
+  {
+   "path": "raw/followup/comtrade_TUR_WORLD_M_HS27_2025.json",
+   "bytes": 1875,
+   "sha256": "883ff27168bce5eb282740ac5cafe03fdab990a7409f06da0b19ca5660bf5dc6"
+  },
+  {
+   "path": "raw/followup/nrcan_critical_minerals_list_consultation.html",
+   "bytes": 30876,
+   "sha256": "29f3bdd29493e82d65e185a698cf0ca2dbba0c66fa872993f4cee8e3767dda5c"
+  },
+  {
+   "path": "raw/followup/nrcan_uranium_nuclear_power_facts.html",
+   "bytes": 46109,
+   "sha256": "b095d9075d0a56c1a073b82ac9e4861247454fded3acd2b3360b55b0fb469660"
+  },
+  {
+   "path": "raw/followup/oag_cesd_2024_report6.txt",
+   "bytes": 120491,
+   "sha256": "1102be6a687b5dbb34cd672728bb752b4c5427f7728d283cbf99c7c3cac392c7"
+  },
+  {
+   "path": "raw/followup/oag_cesd_2024_report6_critical_minerals.pdf",
+   "bytes": 1799508,
+   "sha256": "4ff1d741a3b8a6fca43111aa00df6a665b5e65072e5dcd5cf76e1e0841fa8084"
+  },
+  {
+   "path": "raw/followup/unep_leap_tr_ndc3.html",
+   "bytes": 37129,
+   "sha256": "bef956b1291cedeecc9f0b71fe62e4c0b3c730f39259517ce8ae2c0e72ab78e2"
+  },
+  {
+   "path": "raw/followup/wb_population_CAN_TUR_2024.json",
+   "bytes": 872,
+   "sha256": "c4f50ec7eb3b69bde8bcf95ab4ea55427cd6b93783eb792b9eec2861e2e72cff"
+  },
+  {
+   "path": "raw/minerals/mcs2026-boron.pdf",
+   "bytes": 115584,
+   "sha256": "a7606ad4a3c2b0b24d3fd7f3092fdd71f6256b196875137d9b9dfb1c591d2ec9"
+  },
+  {
+   "path": "raw/minerals/mcs2026-boron.txt",
+   "bytes": 10849,
+   "sha256": "31658bc760be8e8990d6ed316acec30068967d0ded83c1da540817991686a13b"
+  },
+  {
+   "path": "raw/minerals/mcs2026-chromium.pdf",
+   "bytes": 139309,
+   "sha256": "c19e412f65eddf60ab8b3b49ec415d7e0b817d08412733a0094a47af06fa4a04"
+  },
+  {
+   "path": "raw/minerals/mcs2026-chromium.txt",
+   "bytes": 10807,
+   "sha256": "fb35b2eab009313b779d6e178c22c199e5b2a7658517eefc6a1a8038f81e8ae5"
+  },
+  {
+   "path": "raw/cer/market-snapshot-canadian-uranium-exports-help-fuel-nuclear-generation-around-the-world.html",
+   "bytes": 30275,
+   "sha256": "2050f708ef70b17a4a70d7bd1ccee0c476063cd28f124651e7de045e51661473"
+  },
+  {
+   "path": "raw/ghg/eb2c2d.html",
+   "bytes": 231483,
+   "sha256": "ece7dd6501c754eafe975da30393953192b239b680b64f905ccf3c0f0e3e4e19"
+  },
+  {
+   "path": "raw/ghg/tr_ndc.html",
+   "bytes": 26789,
+   "sha256": "9a94fd668128e2097003fb310c7df73815f20cc26cc9e9146fbc5e8de5551538"
+  },
+  {
+   "path": "outputs/can_to_tur_energy_cad_2015_2025.json",
+   "bytes": 2586,
+   "sha256": "3d4dea378089a81591ebeb00c2c37ec018f564c0c4f2f0bc362c49c250759cdd",
+   "note": "derived"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "1": {
+  "key": "01-cover-c",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/An%C4%B1tkabir_2025.jpg/3840px-An%C4%B1tkabir_2025.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:An%C4%B1tkabir_2025.jpg",
+  "author": "Nicoleon",
+  "licence": "CC0",
+  "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "credit": "Photo: Nicoleon, CC0, via Wikimedia Commons",
+  "description": "Anıtkabir mausoleum, Ankara, ceremonial plaza (small distant visitors only)",
+  "file_in_use": "full size"
+ },
+ "1b": {
+  "key": "10-market-b",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Istanbul_as_seen_from_the_Galata_Tower_%288396801424%29.jpg/3840px-Istanbul_as_seen_from_the_Galata_Tower_%288396801424%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Istanbul_as_seen_from_the_Galata_Tower_(8396801424).jpg",
+  "author": "Jorge Láscar",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "credit": "Photo: Jorge Láscar, CC BY 2.0, via Wikimedia Commons",
+  "description": "Istanbul rooftops and Golden Horn seen from Galata Tower",
+  "file_in_use": "full size"
+ },
+ "2": {
+  "key": "02-trade-a",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/In_Port_Of_Ambarli_-_panoramio.jpg/1920px-In_Port_Of_Ambarli_-_panoramio.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:In_Port_Of_Ambarli_-_panoramio.jpg",
+  "author": "---=XEON=---",
+  "licence": "CC BY 3.0",
+  "licence_url": "https://creativecommons.org/licenses/by/3.0",
+  "credit": "Photo: ---=XEON=---, CC BY 3.0, via Wikimedia Commons",
+  "description": "Port of Ambarlı, Istanbul, seen from a ship deck (2007)",
+  "file_in_use": "full size (1920 px)"
+ },
+ "3": {
+  "key": "02-trade-c",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Vue_a%C3%A9rienne_du_port_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec%2C_Canada_2.jpg/3840px-Vue_a%C3%A9rienne_du_port_de_Montr%C3%A9al%2C_Montr%C3%A9al%2C_Qu%C3%A9bec%2C_Canada_2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_port_de_Montr%C3%A9al,_Montr%C3%A9al,_Qu%C3%A9bec,_Canada_2.jpg",
+  "author": "Maxime Laterreur",
+  "licence": "CC BY 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0",
+  "credit": "Photo: Maxime Laterreur, CC BY 4.0, via Wikimedia Commons",
+  "description": "Aerial view of the Port of Montréal container terminals (Oct 2026)",
+  "file_in_use": "full size"
+ },
+ "4": {
+  "key": "03-lentils-c",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Red_lentils_%281%29.jpg/1920px-Red_lentils_%281%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Red_lentils_(1).jpg",
+  "author": "Fumikas Sagisavas",
+  "licence": "CC0",
+  "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "credit": "Photo: Fumikas Sagisavas, CC0, via Wikimedia Commons",
+  "description": "Full-frame red lentils texture, ideal text background",
+  "file_in_use": "full size (1920 px)"
+ },
+ "5": {
+  "key": "05-prairies-a",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Grain_elevator_in_Saskatchewan.jpg/3840px-Grain_elevator_in_Saskatchewan.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Grain_elevator_in_Saskatchewan.jpg",
+  "author": "Janusz Sobolewski",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "credit": "Photo: Janusz Sobolewski, CC BY 2.0, via Wikimedia Commons",
+  "description": "Saskatchewan grain elevator at blue hour with a hay bale",
+  "file_in_use": "full size"
+ },
+ "6": {
+  "key": "08-flights-b",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Turkish_Airlines_B787-9_TC-LLK.jpg/3840px-Turkish_Airlines_B787-9_TC-LLK.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Turkish_Airlines_B787-9_TC-LLK.jpg",
+  "author": "Siyuan He",
+  "licence": "Public Domain Mark (Flickr PDM)",
+  "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "credit": "Photo: Siyuan He, public domain, via Wikimedia Commons",
+  "description": "Turkish Airlines 787-9 landing at Toronto Pearson as TK17",
+  "file_in_use": "full size"
+ },
+ "7": {
+  "key": "07-energy-a",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Darlington_Nuclear_Generating_Station_IMG_7476.jpg/3840px-Darlington_Nuclear_Generating_Station_IMG_7476.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Darlington_Nuclear_Generating_Station_IMG_7476.jpg",
+  "author": "Robert T Bell",
+  "licence": "CC BY 2.0",
+  "licence_url": "https://creativecommons.org/licenses/by/2.0",
+  "credit": "Photo: Robert T Bell, CC BY 2.0, via Wikimedia Commons",
+  "description": "Darlington Nuclear Generating Station (CANDU) across Lake Ontario",
+  "file_in_use": "full size"
+ },
+ "8": {
+  "key": "09-trust-a",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Parliament_Hill_%28Ottawa%2C_ON%2C_12-17-24%29.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Parliament_Hill_(Ottawa,_ON,_12-17-24).jpg",
+  "author": "DJLeamen",
+  "licence": "CC0",
+  "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "credit": "Photo: DJLeamen, CC0, via Wikimedia Commons",
+  "description": "Parliament Hill, Ottawa, East Block facade in winter light",
+  "file_in_use": "full size"
+ },
+ "9": {
+  "key": "12-next-b",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_bicycle_path_along_the_coast_in_Antalya%2C_Turkey_DSF8523.jpg/3840px-The_bicycle_path_along_the_coast_in_Antalya%2C_Turkey_DSF8523.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:The_bicycle_path_along_the_coast_in_Antalya,_Turkey_DSF8523.jpg",
+  "author": "Levi Meir Clancy",
+  "licence": "CC0",
+  "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "credit": "Photo: Levi Meir Clancy, CC0, via Wikimedia Commons",
+  "description": "Antalya coastal path with Taurus mountains behind",
+  "file_in_use": "full size"
+ }
+}

@@ -1,0 +1,13 @@
+year,TRY_per_CAD,source
+2015,2.125,"BoC legacy annual avg (noon basis), IEXA5802"
+2016,2.274,"BoC legacy annual avg (noon basis), IEXA5802"
+2017,2.805,BoC annual avg FXATRYCAD
+2018,3.625,BoC annual avg FXATRYCAD
+2019,4.274,BoC annual avg FXATRYCAD
+2020,5.181,BoC annual avg FXATRYCAD
+2021,6.897,BoC annual avg FXATRYCAD
+2022,12.594,BoC annual avg FXATRYCAD
+2023,17.065,BoC annual avg FXATRYCAD
+2024,23.923,BoC annual avg FXATRYCAD
+2025,28.169,BoC annual avg FXATRYCAD
+2026 YTD (to Oct 22),33.127,mean of BoC daily FXCADTRY 2026-01-02 to 2026-10-22

@@ -1,0 +1,20 @@
+{
+ "report_2025.html.txt": {
+  "n_destinations": 84,
+  "total": 2045095824.74,
+  "turkiye_value": 60760039.44,
+  "turkiye_rank": 7
+ },
+ "report_2024.html.txt": {
+  "n_destinations": 78,
+  "total": 2503825159.23,
+  "turkiye_value": 107875401.5,
+  "turkiye_rank": 4
+ },
+ "report_2023.html.txt": {
+  "n_destinations": 78,
+  "total": 2143422892.04,
+  "turkiye_value": 120000.0,
+  "turkiye_rank": 61
+ }
+}

@@ -1,0 +1,341 @@
+[
+ {
+  "n": 1,
+  "key": "pmo-joint",
+  "text": "Prime Minister's Office. Statement by Prime Minister Carney and President Recep Tayyip Erdoğan. October 22, 2026.",
+  "url": [
+   "https://www.pm.gc.ca/en/news/statements/2026/10/22/statement-prime-minister-carney-and-president-recep-tayyip-erdogan"
+  ]
+ },
+ {
+  "n": 2,
+  "key": "pmo-1023",
+  "text": "Prime Minister's Office. Prime Minister Carney's historic visit to Türkiye launches new Strategic Partnership. News release, October 23, 2026.",
+  "url": [
+   "https://www.pm.gc.ca/en/news/news-releases/2026/10/23/prime-minister-carneys-historic-visit-turkiye-launches-new-strategic"
+  ]
+ },
+ {
+  "n": 3,
+  "key": "pmo-readout",
+  "text": "Prime Minister's Office. Prime Minister Carney meets with President of Türkiye Recep Tayyip Erdoğan. Readout, October 22, 2026.",
+  "url": [
+   "https://www.pm.gc.ca/en/news/readouts/2026/10/22/prime-minister-carney-meets-president-turkiye-recep-tayyip-erdogan"
+  ]
+ },
+ {
+  "n": 4,
+  "key": "energy-js",
+  "text": "Natural Resources Canada and Türkiye's Ministry of Energy and Natural Resources. Joint statement on cooperation in the field of energy. October 2026.",
+  "url": [
+   "https://www.newswire.ca/news-releases/joint-statement-between-the-minister-of-energy-and-natural-resources-of-canada-and-the-minister-of-energy-and-natural-resources-of-turkiye-on-cooperation-in-the-field-of-energy-892792181.html"
+  ]
+ },
+ {
+  "n": 5,
+  "key": "pmo-1006",
+  "text": "Prime Minister's Office. Prime Minister Carney to visit Türkiye to advance partnership across trade and investment, energy, and defence. News release, October 6, 2026.",
+  "url": [
+   "https://www.pm.gc.ca/en/news/news-releases/2026/10/06/prime-minister-carney-visit-turkiye-advance-partnership-across-trade"
+  ]
+ },
+ {
+  "n": 6,
+  "key": "comtrade",
+  "text": "United Nations. UN Comtrade database: Türkiye's imports in 2025 by partner, as reported by Türkiye.",
+  "url": [
+   "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=792&period=2025&flowCode=M&cmdCode=TOTAL&partner2Code=0&motCode=0&customsCode=C00"
+  ]
+ },
+ {
+  "n": 7,
+  "key": "statcan-171",
+  "text": "Statistics Canada. Table 12-10-0171-01, international merchandise trade by country and product section, annual, 1999 to 2025.",
+  "url": [
+   "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1210017101"
+  ]
+ },
+ {
+  "n": 8,
+  "key": "pmo-251029",
+  "text": "Prime Minister's Office. Prime Minister Carney strengthens trade and economic partnerships with Singapore. News release, October 29, 2025.",
+  "url": [
+   "https://www.pm.gc.ca/en/news/news-releases/2025/10/29/prime-minister-carney-strengthens-trade-and-economic-partnerships"
+  ]
+ },
+ {
+  "n": 9,
+  "key": "comtrade-hs",
+  "text": "United Nations. UN Comtrade database: Türkiye's imports in 2025 by HS chapter, from the world and from Canada, as reported by Türkiye.",
+  "url": [
+   "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=792&period=2025&flowCode=M&cmdCode=AG2&partnerCode=0&partner2Code=0&motCode=0&customsCode=C00",
+   "https://comtradeapi.un.org/public/v1/preview/C/A/HS?reporterCode=792&period=2025&flowCode=M&cmdCode=AG2&partnerCode=124&partner2Code=0&motCode=0&customsCode=C00"
+  ]
+ },
+ {
+  "n": 10,
+  "key": "turkstat",
+  "text": "Turkish Statistical Institute (TurkStat). Address Based Population Registration System results, 2025.",
+  "url": [
+   "https://veriportali.tuik.gov.tr/en/press/53899"
+  ]
+ },
+ {
+  "n": 11,
+  "key": "statcan-cimt",
+  "text": "Statistics Canada. Canadian International Merchandise Trade (CIMT): monthly exports by province of origin and imports by province of clearance, by country and HS product, 1988 to August 2026 (tables 12-10-0147, 12-10-0148, 12-10-0150 and 12-10-0151, read through Statistics Canada's Web Data Service).",
+  "url": [
+   "https://www150.statcan.gc.ca/n1/en/catalogue/71-607-X2021004"
+  ]
+ },
+ {
+  "n": 12,
+  "key": "tr-tariff",
+  "text": "Türkiye Ministry of Trade. 2026 Import Regime Decision (No. 3350) and Additional Customs Duty Decision (No. 3351), consolidated annexes.",
+  "url": [
+   "https://ticaret.gov.tr/ithalat/ithalat-mevzuati/ithalat-rejimi-karari-igv-karari-ve-ithalat-tebligleri/1-ithalat-rejimi-kararikarar-sayisi3350karar-metni-ve-tablolar-konsolide-edilmis-olup-gunceldir"
+  ]
+ },
+ {
+  "n": 13,
+  "key": "cbsa",
+  "text": "Canada Border Services Agency. Customs Tariff 2026 (T2026-2).",
+  "url": [
+   "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/menu-eng.html"
+  ]
+ },
+ {
+  "n": 14,
+  "key": "tr-schedule",
+  "text": "Resmî Gazete (Official Gazette of Türkiye). Decision No. 10781, 2026 Turkish Customs Tariff Schedule, December 30, 2025.",
+  "url": [
+   "https://www.resmigazete.gov.tr/eskiler/2025/12/20251230M1-2.pdf"
+  ]
+ },
+ {
+  "n": 15,
+  "key": "statcan-cimt-files",
+  "text": "Statistics Canada. Canadian International Merchandise Trade, 2025 data files: domestic exports by HS8 and imports by HS10.",
+  "url": [
+   "https://www150.statcan.gc.ca/n1/pub/71-607-x/2021004/zip/CIMT-CICM_Dom_Exp_2025.zip",
+   "https://www150.statcan.gc.ca/n1/pub/71-607-x/2021004/zip/CIMT-CICM_Imp_2025.zip"
+  ]
+ },
+ {
+  "n": 16,
+  "key": "wto-tpr",
+  "text": "World Trade Organization. Trade Policy Review: Türkiye, report by the Secretariat, WT/TPR/S/439, 2023 (inward processing).",
+  "url": [
+   "https://www.wto.org/english/tratop_e/tpr_e/s439_e.pdf"
+  ]
+ },
+ {
+  "n": 17,
+  "key": "census",
+  "text": "Statistics Canada. 2021 Census of Population, table 98-10-0356-01 (ethnic or cultural origin) and place of birth tables.",
+  "url": [
+   "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810035601"
+  ]
+ },
+ {
+  "n": 18,
+  "key": "guinness",
+  "text": "Guinness World Records. Most countries flown to by an airline (Turkish Airlines, 120 countries, September 2023 to September 2024).",
+  "url": [
+   "https://www.guinnessworldrecords.com/world-records/736843-most-countries-flown-by-a-commercial-airline"
+  ]
+ },
+ {
+  "n": 19,
+  "key": "aci",
+  "text": "Airports Council International World. World's busiest airports, 2025 passenger rankings. July 15, 2026.",
+  "url": [
+   "https://aci.aero/2026/07/15/worlds-busiest-airports-atlanta-holds-asia-climbs-strong-demand-while-asia-pacific-growth-reshape-the-rankings/"
+  ]
+ },
+ {
+  "n": 20,
+  "key": "ktb",
+  "text": "Türkiye Ministry of Culture and Tourism. Border statistics, yearly bulletins: arriving foreign visitors by nationality, 2010 to 2025.",
+  "url": [
+   "https://yigm.ktb.gov.tr/TR-249709/yillik-bultenler.html"
+  ]
+ },
+ {
+  "n": 21,
+  "key": "ircc-pr",
+  "text": "Immigration, Refugees and Citizenship Canada. Open data: permanent residents by country of citizenship, 2015 to 2026.",
+  "url": [
+   "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-PR-Citz.xlsx"
+  ]
+ },
+ {
+  "n": 22,
+  "key": "ircc-study",
+  "text": "Immigration, Refugees and Citizenship Canada. Open data: study permit holders on December 31 by country of citizenship.",
+  "url": [
+   "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP_annual-TR-Study-IS_CITZ_year_end.xlsx"
+  ]
+ },
+ {
+  "n": 23,
+  "key": "ircc-work",
+  "text": "Immigration, Refugees and Citizenship Canada. Open data: work permit holders on December 31 by country of citizenship, International Mobility Program (all purposes) and Temporary Foreign Worker Program.",
+  "url": [
+   "https://www.ircc.canada.ca/opendata-donneesouvertes/data/en_odp_annual-tr-work-imp_citz_year_end_all_purpose.xlsx",
+   "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP_annual-TR-work-TFW_CITZ_year_end.xlsx"
+  ]
+ },
+ {
+  "n": 24,
+  "key": "cta-25",
+  "text": "Canadian Transportation Agency. Determination A-2025-25, Turkish Airlines request for extra weekly flights. February 14, 2025.",
+  "url": [
+   "https://otc-cta.gc.ca/eng/ruling/a-2025-25"
+  ]
+ },
+ {
+  "n": 25,
+  "key": "cta-77",
+  "text": "Canadian Transportation Agency. Determination A-2025-77. April 29, 2025.",
+  "url": [
+   "https://otc-cta.gc.ca/eng/ruling/a-2025-77"
+  ]
+ },
+ {
+  "n": 26,
+  "key": "transat",
+  "text": "Air Transat. News release on flights from Montréal to Istanbul, May 29, 2026.",
+  "url": [
+   "https://www.transat.com/en-CA/corporate/media/news-releases/124611"
+  ]
+ },
+ {
+  "n": 27,
+  "key": "ircc-quake",
+  "text": "Immigration, Refugees and Citizenship Canada. Temporary public policy for nationals of Türkiye and Syria affected by the earthquakes of February 6, 2023.",
+  "url": [
+   "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/public-policies/turkiye-syria-earthquake-2023.html"
+  ]
+ },
+ {
+  "n": 28,
+  "key": "menr-2023",
+  "text": "Türkiye Ministry of Energy and Natural Resources. Nuclear power goals: 7.2 GW added by 2035 and over 20 GW by 2050. September 25, 2023.",
+  "url": [
+   "https://enerji.gov.tr/news-detail?id=21184"
+  ]
+ },
+ {
+  "n": 29,
+  "key": "menr-candu",
+  "text": "Türkiye Ministry of Energy and Natural Resources. TÜNAŞ and AtkinsRéalis memorandum on CANDU technology. March 2026.",
+  "url": [
+   "https://enerji.gov.tr/news-detail?id=31758"
+  ]
+ },
+ {
+  "n": 30,
+  "key": "invest-tr",
+  "text": "Presidency of the Republic of Türkiye, Investment Office. Energy sector: Net Zero 2053 and the Akkuyu plant.",
+  "url": [
+   "https://www.invest.gov.tr/en/Sectors/Pages/energy.aspx"
+  ]
+ },
+ {
+  "n": 31,
+  "key": "pris",
+  "text": "International Atomic Energy Agency. Power Reactor Information System (PRIS): Türkiye's reactors under construction, Akkuyu units 1 to 4.",
+  "url": [
+   "https://pris-stats.iaea.org/"
+  ]
+ },
+ {
+  "n": 32,
+  "key": "menr-2024",
+  "text": "Türkiye Ministry of Energy and Natural Resources. 120,000 MW of wind and solar capacity by 2035. November 4, 2024.",
+  "url": [
+   "https://enerji.gov.tr/news-detail?id=21392"
+  ]
+ },
+ {
+  "n": 33,
+  "key": "nrcan-u",
+  "text": "Natural Resources Canada. Uranium and nuclear power facts (2024 production and world share).",
+  "url": [
+   "https://natural-resources.canada.ca/minerals-mining/mining-data-statistics-analysis/minerals-metals-facts/uranium-nuclear-power-facts"
+  ]
+ },
+ {
+  "n": 34,
+  "key": "epias",
+  "text": "EPİAŞ (Energy Exchange Istanbul). Türkiye electricity market daily bulletin, December 14, 2025: installed capacity.",
+  "url": [
+   "https://www.epias.com.tr/wp-content/uploads/2025/12/epias-bulten-14.12.2025.pdf"
+  ]
+ },
+ {
+  "n": 35,
+  "key": "epdk",
+  "text": "Energy Market Regulatory Authority of Türkiye (EPDK). 2025 Natural Gas Market Development Report: imports by country.",
+  "url": [
+   "https://www.epdk.gov.tr/Detay/DownloadDocument?id=fSTHy8vYN/Q="
+  ]
+ },
+ {
+  "n": 36,
+  "key": "cer-lng",
+  "text": "Canada Energy Regulator. Liquefied natural gas exports, shipment detail.",
+  "url": [
+   "https://www.cer-rec.gc.ca/open/imports-exports/liquefied-natural-gas-exports-detail.csv"
+  ]
+ },
+ {
+  "n": 37,
+  "key": "atkins",
+  "text": "AtkinsRéalis. Trade release on the CANDU assessment in Türkiye. March 3, 2026.",
+  "url": [
+   "https://www.atkinsrealis.com/en/media/trade-releases/2026/2026-03-03-a"
+  ]
+ },
+ {
+  "n": 38,
+  "key": "nato-exp",
+  "text": "NATO. Defence expenditure of NATO countries, 2026 estimates (military personnel).",
+  "url": [
+   "https://www.nato.int/content/dam/nato/webready/documents/finance/def-exp-2026-en.pdf"
+  ]
+ },
+ {
+  "n": 39,
+  "key": "gac-mil",
+  "text": "Global Affairs Canada. Reports on Exports of Military Goods, 2010 to 2025 (exports to Türkiye by year; 2025 report, table 16, brokering permits).",
+  "url": [
+   "https://international.canada.ca/en/global-affairs/corporate/reports/export-import-controls/strategic-goods-2025"
+  ]
+ },
+ {
+  "n": 40,
+  "key": "ancc",
+  "text": "Armenian National Committee of Canada. Submission to the Canada-Türkiye free trade agreement consultation. September 24, 2026.",
+  "url": [
+   "https://anccanada.org/ancc-calls-on-canada-to-protect-export-controls-in-canada-turkey-fta/"
+  ]
+ },
+ {
+  "n": 41,
+  "key": "gac-1108",
+  "text": "Global Affairs Canada. Notice to Exporters No. 1108: export permit applications for Türkiye. January 2024.",
+  "url": [
+   "https://www.international.gc.ca/trade-commerce/controls-controles/notices-avis/1108.aspx?lang=eng"
+  ]
+ },
+ {
+  "n": 42,
+  "key": "gac-2021",
+  "text": "Global Affairs Canada. Statement from Minister Garneau on the cancellation of export permits to Turkey. April 12, 2021.",
+  "url": [
+   "https://www.canada.ca/en/global-affairs/news/2021/04/statement-fromminister-garneauto-announce-the-cancellation-of-export-permits-to-turkey.html"
+  ]
+ }
+]

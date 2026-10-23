@@ -1,0 +1,698 @@
+{
+ "thread": "people and travel links, Canada-Türkiye",
+ "created": "2026-10-23",
+ "files": [
+  {
+   "path": "results.md",
+   "bytes": 22910,
+   "sha256": "3b95f337e26b72aa48c25b54aeb635dd55a33e5bae3455393b3c9391a160c4be",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/asylum.py",
+   "bytes": 988,
+   "sha256": "fcd902f8d391081a060329c7a0f4ea20ab2dc435217ced147f30e540ed83f41f",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/census.py",
+   "bytes": 2123,
+   "sha256": "be4a23a0b850fcab37d4f08b93243d7a4174d56c6c15bede6ea1d2b937997432",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/census_table.py",
+   "bytes": 1373,
+   "sha256": "de59ca7a6640c6c7db6d5a660e0bf4e25773ef40bf082275e36c727028fa48e0",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/irb.py",
+   "bytes": 957,
+   "sha256": "0d69d18290c8bc27d3ba2cd9408b7469cb1dff5a054b6c0ea4bea1014f32a7db",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/irb_rates.py",
+   "bytes": 602,
+   "sha256": "028ea18d51ffcabb436f29860e83d88b02f2fd1e55dfe58f30c5d31227c11304",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/ircc_xlsx.py",
+   "bytes": 1287,
+   "sha256": "8d90ae52596d54f8df83c17663ae18d77a2215febe77364dec371d2708aab2b7",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/manifest.py",
+   "bytes": 5895,
+   "sha256": "4b1c5d62a778e5cc160a01c9220bdffa23d4942c6dec15eb005c0993c008954a",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/meta.py",
+   "bytes": 520,
+   "sha256": "eba67f6667b2106e8ae8ff512217a4bfadeed838e22a356a5f809240870d8335",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/pr_category.py",
+   "bytes": 823,
+   "sha256": "f8c62de92224e80bf5f1cc7d6d58c6d2fa2712c47915a5b2ec7bd7c2d2aba4bc",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/pr_rank.py",
+   "bytes": 939,
+   "sha256": "dcda18bdee89f87953b4fe04522d14d0fe543cce56e77404d5d6e4f56ff1f188",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/tr_ranks.py",
+   "bytes": 1592,
+   "sha256": "3b7ba7d0bcbd3eb9ed48d14e71be6a5430ecad0d93ade70f3d685b0c69670f40",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/travel.py",
+   "bytes": 2027,
+   "sha256": "4cc586477864f07846c91e67f5b14d740bb0f93372fc3eea58189b2155535dfc",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/turkiye_border.py",
+   "bytes": 2158,
+   "sha256": "c9c16448b570e53a37130c8019d2beddbaa4cd3fe9cd0e975af4210049617f76",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "scripts/__pycache__/ircc_xlsx.cpython-313.pyc",
+   "bytes": 3212,
+   "sha256": "a6ab6ec2864b766d3c49ee744aa75bd77cf0e6707f2c0f44ee8acdeb1b409db1",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/asylum_turkey.json",
+   "bytes": 732,
+   "sha256": "1bb5a16f7cb51a1a624e137441a01c91d6c0ef072bf51e11328b6167ce65b667",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/census_results.json",
+   "bytes": 37504,
+   "sha256": "98cc45654261a588fda43750f61ab5586b3c8d7a355af3904d32d71251d5e385",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/census_turkish_by_geo.csv",
+   "bytes": 2114,
+   "sha256": "bb2c50fb0e0085e745f24b940c90d05c3aac1e53be66e96ad01edc5f8b4fe097",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/irb_turkiye.json",
+   "bytes": 8277,
+   "sha256": "0843c18999f891eadd5882c6b2743390bdfcd5b8440a32cb8e65a346de81fd69",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/irb_turkiye_rates.json",
+   "bytes": 2614,
+   "sha256": "00fa125d38a7505ffbc1dc8ae35e7df138a73058bac182a8385a74f1dfb40d40",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/pr_turkey_by_category.json",
+   "bytes": 2169,
+   "sha256": "6ee033835ab24dc8d647bc2be9d0f1a9e93e20f8abf5694ab1a37612cd238478",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/pr_turkey_by_year.csv",
+   "bytes": 458,
+   "sha256": "fe198cd4df15085fabe6998dae7d0ead26acee0912f468015319cd71ad3037ae",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/pr_turkey_by_year.json",
+   "bytes": 1536,
+   "sha256": "bf127f47a81c7c5fb137268ef858d868f138686dbfdc123a97b8dfb727d23103",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/temp_residents_turkey.json",
+   "bytes": 5300,
+   "sha256": "05080ce2c505b0749ee5b06eff1940f9346ee7aea42685067f09e8e33008b691",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/travel_results.json",
+   "bytes": 11613,
+   "sha256": "b2868c86249939a3f35e887f2280ca48678eca7b21ede2b70c19a2dbeb320263",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "outputs/turkiye_border_canada.json",
+   "bytes": 3070,
+   "sha256": "a0142800b88173ac84cf0645048d5ccc14812d7762cdc1c9be2cdd89c9603a1e",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ckan_360024f2-17e9-4558-bfc1-3616485d65b9.json",
+   "bytes": 77570,
+   "sha256": "968df01066ec8e7ea36191b916b7f4222c08d7e726f8f8b7817e3dbcfbb58c3a",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ckan_90115b00-f9b8-49e8-afa3-b4cff8facaee.json",
+   "bytes": 43797,
+   "sha256": "29ffe02cec8df2184749cc55ef264d5157213f1c601cf707f73c225546bf7f7f",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ckan_9b34e712-513f-44e9-babf-9df4f7256550.json",
+   "bytes": 21798,
+   "sha256": "9a636defecbfa9c89d2c2532c31b3eb01d0e338ee57a11983d43067ddacea5b3",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ckan_b6cbcf4d-f763-4924-a2fb-8cc4a06e3de4.json",
+   "bytes": 59381,
+   "sha256": "be1409ba1317a830286ff03cfe75f45e5c140384632dfb8778423fa130eaf3ab",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ckan_pr.json",
+   "bytes": 64716,
+   "sha256": "684209a9e5f1fbd057e44bbdf80c639085b469744dc878b92b5efbe0cb57d492",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/codesets.json",
+   "bytes": 314809,
+   "sha256": "dda546004870324727dc8a6a4cfa324d713ee78d82df1af3238dbfc2f1620532",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/cubes_list.json",
+   "bytes": 5051411,
+   "sha256": "97cbb8a2835eff4657397028be4202691455640ffe4e237bd7f57f27b67b49e6",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/meta_24100050.json",
+   "bytes": 87616,
+   "sha256": "52f361cce0d1e1258c1a0ed249cb2c77dda4ee946e138bb50f665902bbffbebe",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/meta_24100065.json",
+   "bytes": 22581,
+   "sha256": "edd8600bec0580338b30c8dfcbfca8702faa8db287892423be94c4fc0a66d2d4",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/meta_24100080.json",
+   "bytes": 39287,
+   "sha256": "ae10e78b323fd5a717280996e21e24fba250fc33ebc49ee8b0a30c20fba517fe",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/meta_98100181.json",
+   "bytes": 818862,
+   "sha256": "f728a909248466a85f9727f9e1cf75e276e84f3a38e41fb390821f74b9664b1f",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/meta_98100201.json",
+   "bytes": 819204,
+   "sha256": "510c585aa0964150858dbd646bd591b73ca7e3841e6effe2b0429c058c4382e4",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/meta_98100302.json",
+   "bytes": 318060,
+   "sha256": "9be339787ab42957c98095d188728f5ba6d328f0425fd9076c1d128261bd883f",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/meta_98100338.json",
+   "bytes": 864058,
+   "sha256": "d8bfd92f61355098ed5cdcd716cf4005e9113d69e2bd116ac5bb9d0fb2e41bec",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/meta_98100356.json",
+   "bytes": 860389,
+   "sha256": "12d96114998e8d44ba608691869a4e522d378f20cabf2d677a2f3527d8e94078",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/wds_24100050_turkiye.json",
+   "bytes": 71811,
+   "sha256": "aeef90b71ff75be3bf871af6d272489fe8cde2a2c121f1bab57635050e2e57a2",
+   "source_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2410005001 (via WDS)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/wds_24100080_turkiye.json",
+   "bytes": 42517,
+   "sha256": "854cce41d79a6ce3080af549e8ddeac6a56639732610ae657e087a32aded8753",
+   "source_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2410008001 (via WDS)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/wds_98100181_mt_turkish.json",
+   "bytes": 30003,
+   "sha256": "5c93c422f4605abe417b8d2faf8a9b2e30dfdd1e83f49a448897078e59d633b6",
+   "source_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810018101 (via WDS)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/wds_98100201_home_turkish.json",
+   "bytes": 29759,
+   "sha256": "f02330d1bfb712d81674b0f3515542db3918c93616e9b7211362297f70ef3f53",
+   "source_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810020101 (via WDS)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/wds_98100302_pob_turkey.json",
+   "bytes": 101157,
+   "sha256": "80ca6a807ac5c25afe8e392de94d443dbf584293a98094e28011e006b44e59c7",
+   "source_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810030201 (via WDS)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/wds_98100356_ethnic_turkish.json",
+   "bytes": 29776,
+   "sha256": "417a4390ec05a31e6e37c4cfc946b13aa9f0ec20d9418dca33207f830dfbc09c",
+   "source_url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810035601 (via WDS getDataFromCubePidCoordAndLatestNPeriods)",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd.html",
+   "bytes": 64717,
+   "sha256": "4b0854c8ab459b5dfa40f782632e8f0d926ef85b319a345aa6bbe00c7e41604c",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2015.html",
+   "bytes": 99251,
+   "sha256": "c59a517a2fa97a7176ff504ac53ecdcff77dac756b23a7600120989650c43b69",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2015.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2016.html",
+   "bytes": 100487,
+   "sha256": "5574062cf4aefdfc3d9b4373820b1bcf3f679083700e1c1723c48a4540087313",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2016.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2017.html",
+   "bytes": 101194,
+   "sha256": "7dd748de4b156a4dd604c36cfe0448958ecc198280d358289af9956452ac18c0",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2017.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2018.html",
+   "bytes": 107877,
+   "sha256": "f5f8d7c84a3de94565a79a6c42e73b7521c423d84a4dee336be09d6102077cfc",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2018.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2019.html",
+   "bytes": 100327,
+   "sha256": "e363af8d98055bfb10e09b121d9494dcc145f751200c40d923b095e971956599",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2019.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2020.html",
+   "bytes": 104937,
+   "sha256": "c7424eab8521e89866dc7b519902c01e124fd90947e900a2166c2d1b9992687f",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2020.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2021.html",
+   "bytes": 93537,
+   "sha256": "f0d1c02a10ee6ea465969501146a5c80ff5ee2728a0ce2c0b544776809fe8e6b",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2021.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2022.html",
+   "bytes": 108448,
+   "sha256": "15b4b7831d5ddca08c5a93a799539957a69bfebc4c7faab78e973ac6422ce92b",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2022.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2023.html",
+   "bytes": 109817,
+   "sha256": "45c3a999b1fc524ee77e3355bf5ded9cf4d5f304a4e6644755b51ffeeeed2ea5",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2023.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2024.html",
+   "bytes": 88498,
+   "sha256": "cb59b53c6532fd2d9cf29f53c37a5cfa71c8f2a7b77d03d7cb5f86005b068933",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2024.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2025.html",
+   "bytes": 111187,
+   "sha256": "4d6a7aa27dd7d51fae241652aad707ee0164f46d662c8bc26de505e1a82437bc",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2025.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/irb/rpd_2026.html",
+   "bytes": 112312,
+   "sha256": "94d06ef52b7c7931a9ca11b517a9bb33dbdaabb6d7cceeb5c9f938477bcc1279",
+   "source_url": "https://www.irb-cisr.gc.ca/en/statistics/protection/Pages/RPDStat2026.aspx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/EN_ODP-PR-Citz.xlsx",
+   "bytes": 205997,
+   "sha256": "6a8d3964a0680d2fa47a24f9567525194508a77224e6a31ccbf4687e28065680",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-PR-Citz.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/ODP-PR-Citz.csv",
+   "bytes": 1296015,
+   "sha256": "9c1498d62b1107a692fedc92f33ced87c031bf55c77a9553ea030433d018661c",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/ODP-PR-Citz.csv",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/ODP-PR-Citz_immcat.csv",
+   "bytes": 28842957,
+   "sha256": "73e0deaa5e4b74a48e156d9c44e7e8f7a787780a87b2dc90c050a21551153176",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/ODP-PR-Citz_immcat.csv",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/asylum_top25_lastmonth.xlsx",
+   "bytes": 89100,
+   "sha256": "d4940831cf3de7f4d43915da8afd78b990e788c9ccab5ac65ce40fd6ca4837c9",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-Asylum-Top_25_CITZ_Office_Type_last_month.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/asylum_top25_lastyear.xlsx",
+   "bytes": 122641,
+   "sha256": "74dda0dfba0e3c31cbb157978879863b11e28205673851e04a96701afa483f37",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-Asylum-Top_25_CITZ_Office_Type_last_year.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/imp_citz_dec31_all.xlsx",
+   "bytes": 35872,
+   "sha256": "f67c70d7c813e1c869e6849dc8132471a910d17fa21a904a14defff6c792e876",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/en_odp_annual-tr-work-imp_citz_year_end_all_purpose.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/imp_citz_effective.xlsx",
+   "bytes": 203258,
+   "sha256": "5c7e9285782ad5933903f9af6847ab17f7e7345ddac7509e0d11a85df58949f5",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-TR-Work-IMP%20CITZ.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/new_citizens_cob.xlsx",
+   "bytes": 208876,
+   "sha256": "8bb5fef4b1457d44e91a0271f82efc3e28c5c1393af7f2a1a186ccef3e7cadc8",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/Open%20Data%20-%20New%20Citizens%20by%20COB%20en.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/study_citz_dec31.xlsx",
+   "bytes": 34549,
+   "sha256": "d0a6acb884e08c6851e133c04216b6e3e342f03c6ad62e8902fd54a0f6cac791",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP_annual-TR-Study-IS_CITZ_year_end.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/study_citz_effective.xlsx",
+   "bytes": 208311,
+   "sha256": "811a16c7a312d6675414820790a1e05b6b5c1f7ba5f41bc2955b02d329b9a70e",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-TR-Study-IS_CITZ_sign_date.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/tfwp_citz_dec31.xlsx",
+   "bytes": 30160,
+   "sha256": "cd95e02d07a251bd9fb7fb582fc347a3fdcc0fa825a6c114d90ad59b24129c27",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP_annual-TR-work-TFW_CITZ_year_end.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/tfwp_citz_effective.xlsx",
+   "bytes": 172502,
+   "sha256": "7cf31abf2bf76ed6b6a0a945dd13156710db8cbeeb288047916e95c8a9d262d2",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/EN_ODP-TR-Work-TFWP%20CITZ.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/ircc/trv_v1_approved.xlsx",
+   "bytes": 65335,
+   "sha256": "64718ca0bf225cb927b3f81ebd553868482d891e5a8196353ecf379f4c513cfc",
+   "source_url": "https://www.ircc.canada.ca/opendata-donneesouvertes/data/Open%20Data%20-%20OPS%20TRV%20V-1%20Approved%20en.xlsx",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/jul2026.html",
+   "bytes": 36170,
+   "sha256": "903936b1eeeab45038ed6c0f0e74fee518ec3d22dbb7da1985df357807ee5052",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/onceki.html",
+   "bytes": 36596,
+   "sha256": "2da38b7f83f6d757d091d7177b90baa8c679f802bcda3486ecb26b0f29d6ba6b",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2016.xlsx",
+   "bytes": 551376,
+   "sha256": "b971755dec06ef6c659213f01933edaa59a9d56e9f3c21ff2f036ef8ea695b46",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/53123,sinir-istatistikleri-2016xlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2017.xlsx",
+   "bytes": 1648150,
+   "sha256": "9e4ec3b2744780f950276a3ecb9f269d8deed2607f6afc61ff36b1c72f7f0f4e",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/67753,59424sinir-istatistikleri-2017xlsx-2xlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2018.xlsx",
+   "bytes": 988972,
+   "sha256": "3973f96a6e2bb7eb153e0b909a94b5083c04e5012a370d50188131416ec90f45",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/63274,sinir-istatistikleri-2018xlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2019.xlsx",
+   "bytes": 754981,
+   "sha256": "e37b97a5b4f21eb4f353c603595fc58dd318ecbc4e4dd789bc602fc03a93e4e4",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/72101,sinir-istatistikleri-2019xlsxxlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2020.xlsx",
+   "bytes": 532408,
+   "sha256": "5edb7e08538a8e7a64c1dec066e212cd9abbcea928010b4d39521cc67a0e06b5",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/81888,30032020yilliksinirbulteni-xlsx-1xlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2021.xlsx",
+   "bytes": 514813,
+   "sha256": "d55d89fc67fbab8bb106db06ce324cba3eb8e2a9c97498ff57f112d2a07f0626",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/93664,2021yilliksinirbultenixlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2022.xlsx",
+   "bytes": 560085,
+   "sha256": "ea34dec1de1979ef0b2256bd29c0314dab6459ec8926fe7218b4b2dd9c7eb0e0",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/111370,2022yilliksinirbultenixlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2023.xlsx",
+   "bytes": 860623,
+   "sha256": "3810852d1015e62eb52dbf49436541f611b9f611964d254cf6175748ec7002c6",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/122231,2023yilliksinirbultenixlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2024.xlsx",
+   "bytes": 470819,
+   "sha256": "3232ba491bdfd9faf56084e3f10100a76bb1f18f1c45c492c3df586fcfc77d7b",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/131301,2024yilliksinirbultenixlsxxlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2025.xlsx",
+   "bytes": 522712,
+   "sha256": "98670c6f51fd8e78bd587b089b36bca9e89baaad9d19d6ec615e2d7867c11d25",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/145395,2025yilliksinirbultenixlsx.xlsx?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_2026aug.xls",
+   "bytes": 3772928,
+   "sha256": "1d6e1034b7df301e1e04499eea3b2a661f421d00c04cdb8a86d8accfe7f9c84b",
+   "source_url": "https://yigm.ktb.gov.tr/Eklenti/151440,ag-stos-2026-bultenixls.xls?0",
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_bulteni_2026_07.xls",
+   "bytes": 514,
+   "sha256": "77e5d6db0d3e5acb6f03820c8a0591e5cfb9ad20a2d325140093ca2b82f6dc1c",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/sinir_page.html",
+   "bytes": 37655,
+   "sha256": "28c2fc9f4e38fa2ac2aa61c87d4e7cf8c5557a927ac9a5b9ed7cf693f0d49c18",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/ts.html",
+   "bytes": 152,
+   "sha256": "62eca2dc8b1cdd663682f7af339648386a99c290ac081ac10b7380b9036d675a",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/ts2.html",
+   "bytes": 41052,
+   "sha256": "f69d5a15f7dabb65d4e4a2bcc00d7f8bd18733c2a41b08a07d946b3de72a5490",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  },
+  {
+   "path": "raw/turkiye/yillik.html",
+   "bytes": 50434,
+   "sha256": "c9f1311696ca1d2d06d8d7aea01820ee5ad5be33f06ba7a29d7aa5c791612c03",
+   "source_url": null,
+   "accessed": "2026-10-23"
+  }
+ ],
+ "web_sources_via_webfetch": [
+  {
+   "what": "Entry requirements by country (Türkiye visa-required)",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+   "page_modified": "2026-07-31"
+  },
+  {
+   "what": "PM statement Carney-Erdogan, Oct 22 2026",
+   "url": "https://www.pm.gc.ca/en/news/statements/2026/10/22/statement-prime-minister-carney-and-president-recep-tayyip-erdogan"
+  },
+  {
+   "what": "CTA agreement page Turkey",
+   "url": "https://otc-cta.gc.ca/eng/transport-agreement/turkey"
+  },
+  {
+   "what": "CTA Determination A-2024-140",
+   "url": "https://otc-cta.gc.ca/eng/ruling/a-2024-140"
+  },
+  {
+   "what": "Transport Canada release Dec 15 2023",
+   "url": "https://www.canada.ca/en/transport-canada/news/2023/12/canadians-to-benefit-from-expanded-air-transport-agreements-with-ethiopia-jordan-and-turkiye.html"
+  },
+  {
+   "what": "2009 agreement release",
+   "url": "https://www.canada.ca/en/news/archive/2009/03/canada-turkey-successfully-conclude-air-transport-agreement.html"
+  },
+  {
+   "what": "Air Transat release YUL-IST",
+   "url": "https://www.transat.com/en-CA/corporate/media/news-releases/124611"
+  },
+  {
+   "what": "LEAD ONLY haber.aero citing SHGM 12->21",
+   "url": "https://haber.aero/en/Aero-Agenda/Frequency-increase-on-the-Turkey-Canada-route./"
+  },
+  {
+   "what": "LEAD ONLY Travelweek TK frequencies",
+   "url": "https://www.travelweek.ca/?p=192957"
+  },
+  {
+   "what": "LEAD ONLY AeroRoutes TK NW26",
+   "url": "https://www.aeroroutes.com/eng/260701-tknw26ca"
+  },
+  {
+   "what": "LEAD ONLY ch-aviation CTA rejection 2025",
+   "url": "https://www.ch-aviation.com/news/151000-canada-rejects-turkish-airlines-request-for-more-summer-ops"
+  },
+  {
+   "what": "Air Canada-Pegasus interline release (GlobeNewswire via barchart)",
+   "url": "https://www.barchart.com/story/news/305120/air-canada-expands-travel-options-to-turkiye-through-new-partnership-with-pegasus-airlines"
+  }
+ ],
+ "blocked": [
+  "https://www.turkishairlines.com/en-ca/press-room/ (permission not granted)",
+  "thecanadianpressnews.ca article (client error)"
+ ]
+}

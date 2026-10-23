@@ -1,0 +1,103 @@
+province,flow,rank_2025,hs6,description,value_2025,avg_2021_2025
+Newfoundland and Labrador,domestic_exports,1,720429,Ferrous waste and scrap; of alloy steel (excluding stainless),25219553.0,5043910.6
+Newfoundland and Labrador,domestic_exports,2,480100,"Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",1191169.0,2786802.8
+Newfoundland and Labrador,domestic_exports,3,901590,Surveying equipment; parts and accessories for articles of heading no. 9015,550235.0,110047.0
+Newfoundland and Labrador,domestic_exports,4,870310,"Vehicles; specially designed for travelling on snow, golf cars and similar vehicles",235460.0,47092.0
+Newfoundland and Labrador,domestic_exports,5,030359,"Fish; frozen, n.e.c. in item no. 0303.5, excluding fillets, fish meat of 0304, and edible fish offal of subheadings 0303.91 to 0303.99",46090.0,9218.0
+Newfoundland and Labrador,imports_clearance,1,890200,"Fishing vessels, factory ships and other vessels; for processing or preserving fishery products",79205607.0,33841121.4
+Newfoundland and Labrador,imports_clearance,2,283620,Carbonates; disodium carbonate,4349066.0,5261003.4
+Newfoundland and Labrador,imports_clearance,3,281000,Oxides of boron; boric acids,1702144.0,3197872.2
+Newfoundland and Labrador,imports_clearance,4,283630,Carbonates; sodium hydrogen carbonate (sodium bicarbonate),1212917.0,1534859.2
+Newfoundland and Labrador,imports_clearance,5,283325,Sulphates; of copper,508362.0,101672.4
+Prince Edward Island,domestic_exports,1,843860,"Machinery; industrial, for the preparation of fruits, nuts or vegetables",67782.0,13556.4
+Prince Edward Island,domestic_exports,2,151590,"Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",61300.0,16076.6
+Prince Edward Island,domestic_exports,3,841191,Turbines; parts of turbo-jets and turbo-propellers,27976.0,26592.2
+Prince Edward Island,domestic_exports,4,841360,"Pumps; rotary positive displacement pumps, n.e.c. in heading no. 8413, for liquids",24948.0,4989.6
+Prince Edward Island,domestic_exports,5,853710,"Boards, panels, consoles, desks and other bases; for electric control or the distribution of electricity, (other than switching apparatus of heading no. 8517), for a voltage not exceeding 1000 volts",10635.0,2127.0
+Prince Edward Island,imports_clearance,1,850164,"Electric generators; AC generators, (alternators), other than photovoltaic generators, of an output exceeding 750kVA",7982310.0,1596462.0
+Nova Scotia,domestic_exports,1,870390,Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703,2442559.0,1042775.2
+Nova Scotia,domestic_exports,2,310100,"Fertilizers, animal or vegetable; whether or not mixed together or chemically treated; fertilizers, produced by the mixing or chemical treatment of animal or vegetable products",1800507.0,911479.2
+Nova Scotia,domestic_exports,3,081190,"Fruit, edible; fruit and nuts n.e.c. in heading no. 0811, uncooked or cooked, frozen whether or not containing added sugar or other sweetening matter",1560404.0,709313.2
+Nova Scotia,domestic_exports,4,151610,"Animal fats and oils and their fractions; partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared",1521153.0,399096.2
+Nova Scotia,domestic_exports,5,391510,"Ethylene polymers; waste, parings and scrap",734658.0,200198.8
+Nova Scotia,imports_clearance,1,190219,"Food preparations; pasta, uncooked (excluding that containing eggs), not stuffed or otherwise prepared",13236992.0,7883192.0
+Nova Scotia,imports_clearance,2,760429,"Aluminium; alloys, bars, rods and profiles, other than hollow",3669317.0,4352179.8
+Nova Scotia,imports_clearance,3,841290,"Engines; parts, for engines and motors of heading no. 8412",3519840.0,703968.0
+Nova Scotia,imports_clearance,4,760421,"Aluminium; alloys, hollow profiles",2498563.0,1692097.8
+Nova Scotia,imports_clearance,5,441192,"Fibreboard (other than MDF) of a density exceeding 0.8g/cm3, of wood or other ligneous materials, bonded or not with resins or other organic substances",2305243.0,874592.4
+New Brunswick,domestic_exports,1,843143,Boring or sinking machinery; parts for boring or sinking machinery of subheading 8430.41 or 8430.49,681255.0,156972.4
+New Brunswick,domestic_exports,2,470321,"Wood pulp; chemical wood pulp, soda or sulphate, (other than dissolving grades), semi-bleached or bleached, of coniferous wood",539273.0,907102.6
+New Brunswick,domestic_exports,3,902620,Instruments and apparatus; for measuring or checking pressure,194465.0,139678.2
+New Brunswick,domestic_exports,4,480100,"Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",194033.0,98092.8
+New Brunswick,domestic_exports,5,902519,"Thermometers and pyrometers; (other than liquid filled, for direct reading), not combined with other instruments",157909.0,124410.0
+New Brunswick,imports_clearance,1,392590,"Plastics; builders' ware, n.e.c. or included in heading no. 3925",1549108.0,309919.8
+New Brunswick,imports_clearance,2,842199,Machinery; parts for filtering or purifying liquids or gases,1475252.0,302057.6
+New Brunswick,imports_clearance,3,870193,Tractors; n.e.c. in heading no 8701 (other than tractors of heading no 8709); of an engine power exceeding 37kW but not exceeding 75kW,647746.0,1244033.4
+New Brunswick,imports_clearance,4,392099,"Plastics; plates, sheets, film, foil and strip (not self-adhesive), of plastics n.e.c. in heading no. 3920, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",633281.0,538767.2
+New Brunswick,imports_clearance,5,842121,Machinery; for filtering or purifying water,472697.0,94539.4
+Quebec,domestic_exports,1,880240,"Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 15,000kg",101871300.0,30180242.8
+Quebec,domestic_exports,2,880230,"Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 2000kg but not exceeding 15,000kg",60111460.0,17922503.4
+Quebec,domestic_exports,3,720429,Ferrous waste and scrap; of alloy steel (excluding stainless),29194719.0,116403317.8
+Quebec,domestic_exports,4,480100,"Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",15746710.0,15043708.4
+Quebec,domestic_exports,5,300390,"Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",5939073.0,5961323.4
+Quebec,imports_clearance,1,300490,"Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",111238288.0,60786676.0
+Quebec,imports_clearance,2,841191,Turbines; parts of turbo-jets and turbo-propellers,40751028.0,30287056.4
+Quebec,imports_clearance,3,854430,"Insulated electric conductors; ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",35497976.0,27446714.4
+Quebec,imports_clearance,4,480300,"Tissue, towel, napkin stock or similar; for household or sanitary use, cellulose, wadding webs of cellulose fibres, in rolls exceeding 36cm in width or rectangular sheets with one side more than 36cm in unfolded state",30974525.0,12463706.6
+Quebec,imports_clearance,5,880730,"Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",30573894.0,15239227.4
+Ontario,domestic_exports,1,901380,"Optical devices, appliances and instruments; n.e.c. in heading no. 9013",50801282.0,30036477.2
+Ontario,domestic_exports,2,870390,Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703,28982942.0,9314766.0
+Ontario,domestic_exports,3,847710,"Machinery; injection-moulding machines, for working rubber or plastics or for the manufacture of products from these materials",12489066.0,4331370.8
+Ontario,domestic_exports,4,180500,"Cocoa; powder, not containing added sugar or other sweetening matter",11479305.0,10096994.0
+Ontario,domestic_exports,5,870324,"Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",11345687.0,8685150.0
+Ontario,imports_clearance,1,300490,"Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",68062914.0,16545587.6
+Ontario,imports_clearance,2,300215,"Blood, human or animal, antisera, other blood fractions and immunological products; immunological products, put up in measured doses or in forms or packings for retail sale",62113053.0,16838810.8
+Ontario,imports_clearance,3,570242,"Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",53389347.0,61689244.4
+Ontario,imports_clearance,4,711319,"Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",41801847.0,35891273.0
+Ontario,imports_clearance,5,870880,Vehicle parts; suspension systems and parts thereof (including shock-absorbers),30301865.0,19862600.2
+Manitoba,domestic_exports,1,300212,"Blood, human or animal, antisera, other blood fractions and immunological products; antisera and other blood fractions",2294249.0,1582188.2
+Manitoba,domestic_exports,2,071339,"Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",1236915.0,1015405.0
+Manitoba,domestic_exports,3,300490,"Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",1087151.0,466903.0
+Manitoba,domestic_exports,4,120799,"Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",843314.0,454768.0
+Manitoba,domestic_exports,5,120925,"Seeds of forage plants; rye grass (Lolium multiflorum Lam., Lolium perenne L.) seeds, of a kind used for sowing",291000.0,224275.2
+Manitoba,imports_clearance,1,841191,Turbines; parts of turbo-jets and turbo-propellers,23362269.0,14780911.0
+Manitoba,imports_clearance,2,730820,"Iron or steel; structures and parts thereof, towers and lattice masts",22326841.0,12301754.6
+Manitoba,imports_clearance,3,853690,"Electrical apparatus; n.e.c. in heading no. 8536, for switching or protecting electrical circuits, for a voltage not exceeding 1000 volts",3811520.0,781758.4
+Manitoba,imports_clearance,4,853710,"Boards, panels, consoles, desks and other bases; for electric control or the distribution of electricity, (other than switching apparatus of heading no. 8517), for a voltage not exceeding 1000 volts",2907445.0,600005.8
+Manitoba,imports_clearance,5,870880,Vehicle parts; suspension systems and parts thereof (including shock-absorbers),2762354.0,1776149.8
+Saskatchewan,domestic_exports,1,071340,"Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",130024689.0,284170363.8
+Saskatchewan,domestic_exports,2,071320,"Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",26452077.0,31869401.8
+Saskatchewan,domestic_exports,3,100119,"Cereals; wheat and meslin, durum wheat, other than seed",22094175.0,16959238.4
+Saskatchewan,domestic_exports,4,120190,"Soya beans; other than seed, whether or not broken",19348544.0,19094193.8
+Saskatchewan,domestic_exports,5,071310,"Vegetables, leguminous; peas (pisum sativum), shelled, whether or not skinned or split, dried",3894457.0,3136476.0
+Saskatchewan,imports_clearance,1,284019,"Borates; disodium tetraborate (refined borax), other than anhydrous",12396769.0,13059185.2
+Saskatchewan,imports_clearance,2,730629,"Iron or steel (excluding cast iron); casing and tubing of a kind used in drilling for oil and gas (other than stainless steel or seamless), n.e.c. in chapter 73",10386481.0,3519827.8
+Saskatchewan,imports_clearance,3,853710,"Boards, panels, consoles, desks and other bases; for electric control or the distribution of electricity, (other than switching apparatus of heading no. 8517), for a voltage not exceeding 1000 volts",6919946.0,1383997.0
+Saskatchewan,imports_clearance,4,853690,"Electrical apparatus; n.e.c. in heading no. 8536, for switching or protecting electrical circuits, for a voltage not exceeding 1000 volts",5859913.0,1319010.0
+Saskatchewan,imports_clearance,5,843139,"Machinery; parts of the machinery of heading no. 8428, (other than lifts, skip hoists or escalators)",4289632.0,927476.8
+Alberta,domestic_exports,1,071340,"Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",42551534.0,67821694.4
+Alberta,domestic_exports,2,100119,"Cereals; wheat and meslin, durum wheat, other than seed",6553894.0,4284684.8
+Alberta,domestic_exports,3,071339,"Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",4008919.0,2343973.2
+Alberta,domestic_exports,4,841121,Turbo-propellers; of a power not exceeding 1100kW,3785951.0,11909514.8
+Alberta,domestic_exports,5,230910,"Dog or cat food; put up for retail sale, used in animal feeding",3640746.0,3015978.0
+Alberta,imports_clearance,1,843149,"Machinery; parts of machines handling earth, minerals or ores and n.e.c. in heading no. 8431",15124436.0,7612751.4
+Alberta,imports_clearance,2,730629,"Iron or steel (excluding cast iron); casing and tubing of a kind used in drilling for oil and gas (other than stainless steel or seamless), n.e.c. in chapter 73",9775635.0,14483948.4
+Alberta,imports_clearance,3,843139,"Machinery; parts of the machinery of heading no. 8428, (other than lifts, skip hoists or escalators)",7035827.0,2922104.6
+Alberta,imports_clearance,4,760820,"Aluminium; tubes and pipes, alloys",6404743.0,1508206.2
+Alberta,imports_clearance,5,760429,"Aluminium; alloys, bars, rods and profiles, other than hollow",4616352.0,1281258.6
+British Columbia,domestic_exports,1,841121,Turbo-propellers; of a power not exceeding 1100kW,42163985.0,10041632.4
+British Columbia,domestic_exports,2,270112,"Coal; bituminous, whether or not pulverised, but not agglomerated",37404690.0,78044221.8
+British Columbia,domestic_exports,3,841869,Refrigerating or freezing equipment; n.e.c. in heading no. 8418,3393701.0,678740.2
+British Columbia,domestic_exports,4,330430,Cosmetic and toilet preparations; manicure or pedicure preparations,2918751.0,2528006.6
+British Columbia,domestic_exports,5,284443,"Radioactive elements, isotopes and compounds; other alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds",2543554.0,1085029.8
+British Columbia,imports_clearance,1,841810,"Refrigerators and freezers; combined refrigerator-freezers, fitted with separate external doors, electric or other",8775103.0,7642192.2
+British Columbia,imports_clearance,2,081110,"Fruit, edible; strawberries, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter",7917822.0,4335655.4
+British Columbia,imports_clearance,3,890332,"Motorboats; (other than outboard motorboats), for pleasure or sports, other than inflatable, of a length exceeding 7.5m but not exceeding 24m",6271830.0,1683482.4
+British Columbia,imports_clearance,4,850434,"Transformers; n.e.c. in item no. 8504.2, having a power handling capacity exceeding 500kVA",5653678.0,1130735.6
+British Columbia,imports_clearance,5,620462,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of cotton (not knitted or crocheted)",5381964.0,5315730.0
+Northwest Territories,domestic_exports,1,870324,"Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",2500.0,500.0
+Nunavut,imports_clearance,1,252329,"Cement; portland, other than white, whether or not artificially coloured",2495877.0,499175.4
+Nunavut,imports_clearance,2,283325,Sulphates; of copper,1131473.0,446446.8
+Nunavut,imports_clearance,3,252210,Quicklime; excluding calcium oxide and hydroxide of heading no. 2825,860184.0,258773.4
+Nunavut,imports_clearance,4,283210,Sulphites; of sodium,760932.0,386574.0
+Nunavut,imports_clearance,5,860900,Containers; (including containers for transport of fluids) specially designed and equipped for carriage by one or more modes of transport,612881.0,326975.6

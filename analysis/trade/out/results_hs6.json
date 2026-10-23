@@ -1,0 +1,678 @@
+{
+ "total_exports_2024": {
+  "hs6_sum": 1226475497.0,
+  "top15": [
+   {
+    "hs6": "071340",
+    "description": "Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",
+    "value": 324044528.0,
+    "share": 0.26420791022129975
+   },
+   {
+    "hs6": "720429",
+    "description": "Ferrous waste and scrap; of alloy steel (excluding stainless)",
+    "value": 166616274.0,
+    "share": 0.13584965570657462
+   },
+   {
+    "hs6": "120190",
+    "description": "Soya beans; other than seed, whether or not broken",
+    "value": 113157153.0,
+    "share": 0.09226205764141736
+   },
+   {
+    "hs6": "901380",
+    "description": "Optical devices, appliances and instruments; n.e.c. in heading no. 9013",
+    "value": 99201712.0,
+    "share": 0.08088356615574523
+   },
+   {
+    "hs6": "071320",
+    "description": "Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",
+    "value": 50175583.0,
+    "share": 0.04091038355248935
+   },
+   {
+    "hs6": "841121",
+    "description": "Turbo-propellers; of a power not exceeding 1100kW",
+    "value": 39843232.0,
+    "share": 0.03248595842106742
+   },
+   {
+    "hs6": "870324",
+    "description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
+    "value": 27718339.0,
+    "share": 0.022599994103265807
+   },
+   {
+    "hs6": "480100",
+    "description": "Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",
+    "value": 19264739.0,
+    "share": 0.01570739818864885
+   },
+   {
+    "hs6": "880730",
+    "description": "Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",
+    "value": 16636612.0,
+    "share": 0.013564569402889588
+   },
+   {
+    "hs6": "071339",
+    "description": "Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",
+    "value": 14394230.0,
+    "share": 0.01173625566528542
+   },
+   {
+    "hs6": "180500",
+    "description": "Cocoa; powder, not containing added sugar or other sweetening matter",
+    "value": 10093813.0,
+    "share": 0.008229934494973445
+   },
+   {
+    "hs6": "870390",
+    "description": "Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703",
+    "value": 9254366.0,
+    "share": 0.007545496035295029
+   },
+   {
+    "hs6": "870323",
+    "description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
+    "value": 9113342.0,
+    "share": 0.007430512898375498
+   },
+   {
+    "hs6": "841122",
+    "description": "Turbo-propellers; of a power exceeding 1100kW",
+    "value": 7302070.0,
+    "share": 0.005953702310287573
+   },
+   {
+    "hs6": "300390",
+    "description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
+    "value": 7008622.0,
+    "share": 0.0057144411096212875
+   }
+  ],
+  "top15_share": 0.7450818359072362
+ },
+ "total_exports_2025": {
+  "hs6_sum": 1120729485.0,
+  "top15": [
+   {
+    "hs6": "071340",
+    "description": "Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",
+    "value": 172576223.0,
+    "share": 0.15398561857235335
+   },
+   {
+    "hs6": "880240",
+    "description": "Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 15,000kg",
+    "value": 101871300.0,
+    "share": 0.09089731408288951
+   },
+   {
+    "hs6": "880230",
+    "description": "Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 2000kg but not exceeding 15,000kg",
+    "value": 60111460.0,
+    "share": 0.05363601190522796
+   },
+   {
+    "hs6": "720429",
+    "description": "Ferrous waste and scrap; of alloy steel (excluding stainless)",
+    "value": 54414272.0,
+    "share": 0.04855254789696195
+   },
+   {
+    "hs6": "901380",
+    "description": "Optical devices, appliances and instruments; n.e.c. in heading no. 9013",
+    "value": 50878741.0,
+    "share": 0.04539787850767574
+   },
+   {
+    "hs6": "841121",
+    "description": "Turbo-propellers; of a power not exceeding 1100kW",
+    "value": 46086676.0,
+    "share": 0.041122034011624134
+   },
+   {
+    "hs6": "870390",
+    "description": "Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703",
+    "value": 37719354.0,
+    "share": 0.03365607357068865
+   },
+   {
+    "hs6": "270112",
+    "description": "Coal; bituminous, whether or not pulverised, but not agglomerated",
+    "value": 37404690.0,
+    "share": 0.033375306441589696
+   },
+   {
+    "hs6": "100119",
+    "description": "Cereals; wheat and meslin, durum wheat, other than seed",
+    "value": 28820995.0,
+    "share": 0.02571628156994549
+   },
+   {
+    "hs6": "071320",
+    "description": "Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",
+    "value": 28763230.0,
+    "share": 0.02566473924793725
+   },
+   {
+    "hs6": "841112",
+    "description": "Turbo-jets; of a thrust exceeding 25kN",
+    "value": 25328261.0,
+    "share": 0.02259979891579278
+   },
+   {
+    "hs6": "120190",
+    "description": "Soya beans; other than seed, whether or not broken",
+    "value": 19348544.0,
+    "share": 0.017264241067058213
+   },
+   {
+    "hs6": "480100",
+    "description": "Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",
+    "value": 17739342.0,
+    "share": 0.015828388774834456
+   },
+   {
+    "hs6": "870323",
+    "description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 1500 but not over 3000cc",
+    "value": 17696020.0,
+    "share": 0.01578973359481124
+   },
+   {
+    "hs6": "870324",
+    "description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
+    "value": 17334476.0,
+    "share": 0.01546713656775078
+   }
+  ],
+  "top15_share": 0.6389531047271412
+ },
+ "domestic_exports_2024": {
+  "hs6_sum": 1174422759.0,
+  "top15": [
+   {
+    "hs6": "071340",
+    "description": "Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",
+    "value": 324044528.0,
+    "share": 0.27591812702601076
+   },
+   {
+    "hs6": "720429",
+    "description": "Ferrous waste and scrap; of alloy steel (excluding stainless)",
+    "value": 166616274.0,
+    "share": 0.14187078096295647
+   },
+   {
+    "hs6": "120190",
+    "description": "Soya beans; other than seed, whether or not broken",
+    "value": 113157153.0,
+    "share": 0.09635129439789748
+   },
+   {
+    "hs6": "901380",
+    "description": "Optical devices, appliances and instruments; n.e.c. in heading no. 9013",
+    "value": 99100902.0,
+    "share": 0.08438264776508814
+   },
+   {
+    "hs6": "071320",
+    "description": "Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",
+    "value": 49845886.0,
+    "share": 0.042442881507544085
+   },
+   {
+    "hs6": "841121",
+    "description": "Turbo-propellers; of a power not exceeding 1100kW",
+    "value": 39843232.0,
+    "share": 0.033925800308847724
+   },
+   {
+    "hs6": "870324",
+    "description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
+    "value": 25763144.0,
+    "share": 0.021936856896350387
+   },
+   {
+    "hs6": "480100",
+    "description": "Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",
+    "value": 19264739.0,
+    "share": 0.016403581123039187
+   },
+   {
+    "hs6": "880730",
+    "description": "Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",
+    "value": 14806575.0,
+    "share": 0.01260753411540452
+   },
+   {
+    "hs6": "071339",
+    "description": "Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",
+    "value": 14394230.0,
+    "share": 0.012256429713825054
+   },
+   {
+    "hs6": "180500",
+    "description": "Cocoa; powder, not containing added sugar or other sweetening matter",
+    "value": 10093813.0,
+    "share": 0.008594701458778525
+   },
+   {
+    "hs6": "870390",
+    "description": "Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703",
+    "value": 9103045.0,
+    "share": 0.007751080205352185
+   },
+   {
+    "hs6": "841122",
+    "description": "Turbo-propellers; of a power exceeding 1100kW",
+    "value": 7302070.0,
+    "share": 0.006217582164549997
+   },
+   {
+    "hs6": "300390",
+    "description": "Medicaments; (not containing antibiotics, hormones, alkaloids or their derivatives), for therapeutic or prophylactic uses, (not packaged for retail sale)",
+    "value": 7008622.0,
+    "share": 0.0059677164345552335
+   },
+   {
+    "hs6": "842951",
+    "description": "Front-end shovel loaders",
+    "value": 6383199.0,
+    "share": 0.005435179922292361
+   }
+  ],
+  "top15_share": 0.7720621940024921
+ },
+ "domestic_exports_2025": {
+  "hs6_sum": 1017872354.0,
+  "top15": [
+   {
+    "hs6": "071340",
+    "description": "Vegetables, leguminous; lentils, shelled, whether or not skinned or split, dried",
+    "value": 172576223.0,
+    "share": 0.1695460362213551
+   },
+   {
+    "hs6": "880240",
+    "description": "Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 15,000kg",
+    "value": 101871300.0,
+    "share": 0.1000825885482297
+   },
+   {
+    "hs6": "880230",
+    "description": "Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 2000kg but not exceeding 15,000kg",
+    "value": 60111460.0,
+    "share": 0.059055990433157984
+   },
+   {
+    "hs6": "720429",
+    "description": "Ferrous waste and scrap; of alloy steel (excluding stainless)",
+    "value": 54414272.0,
+    "share": 0.053458836745260495
+   },
+   {
+    "hs6": "901380",
+    "description": "Optical devices, appliances and instruments; n.e.c. in heading no. 9013",
+    "value": 50801282.0,
+    "share": 0.04990928558022316
+   },
+   {
+    "hs6": "841121",
+    "description": "Turbo-propellers; of a power not exceeding 1100kW",
+    "value": 46086676.0,
+    "share": 0.04527746118547198
+   },
+   {
+    "hs6": "870390",
+    "description": "Vehicles; for transport of persons (other than those of heading no. 8702) n.e.c. in heading no. 8703",
+    "value": 37626389.0,
+    "share": 0.03696572448611764
+   },
+   {
+    "hs6": "270112",
+    "description": "Coal; bituminous, whether or not pulverised, but not agglomerated",
+    "value": 37404690.0,
+    "share": 0.03674791819721631
+   },
+   {
+    "hs6": "100119",
+    "description": "Cereals; wheat and meslin, durum wheat, other than seed",
+    "value": 28820995.0,
+    "share": 0.0283149403623551
+   },
+   {
+    "hs6": "071320",
+    "description": "Vegetables, leguminous; chickpeas (garbanzos), shelled, whether or not skinned or split, dried",
+    "value": 28100491.0,
+    "share": 0.027607087361761668
+   },
+   {
+    "hs6": "120190",
+    "description": "Soya beans; other than seed, whether or not broken",
+    "value": 19348544.0,
+    "share": 0.019008811786629977
+   },
+   {
+    "hs6": "480100",
+    "description": "Newsprint; made of fibres obtained essentially by a chemi-mechanical process or of a weight, per m2, of more than 57g but not more than 65g, in rolls or sheets",
+    "value": 17739342.0,
+    "share": 0.017427865026777217
+   },
+   {
+    "hs6": "071339",
+    "description": "Vegetables, leguminous; n.e.c. in item no. 0713.3, shelled, whether or not skinned or split, dried",
+    "value": 13349701.0,
+    "share": 0.013115299720577733
+   },
+   {
+    "hs6": "847710",
+    "description": "Machinery; injection-moulding machines, for working rubber or plastics or for the manufacture of products from these materials",
+    "value": 12489066.0,
+    "share": 0.01226977621596745
+   },
+   {
+    "hs6": "870324",
+    "description": "Vehicles; with only spark-ignition internal combustion reciprocating piston engine, cylinder capacity over 3000cc",
+    "value": 12038171.0,
+    "share": 0.011826798274550642
+   }
+  ],
+  "top15_share": 0.6806144201456522
+ },
+ "imports_2024": {
+  "hs6_sum": 3145847869.0,
+  "top15": [
+   {
+    "hs6": "721049",
+    "description": "Iron or non-alloy steel; flat-rolled, width 600mm or more, (not corrugated), plated or coated with zinc (not electrolytically)",
+    "value": 201724838.0,
+    "share": 0.06412415552190201
+   },
+   {
+    "hs6": "890400",
+    "description": "Tugs and pusher craft",
+    "value": 128293307.0,
+    "share": 0.04078178994738922
+   },
+   {
+    "hs6": "300490",
+    "description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
+    "value": 104457282.0,
+    "share": 0.0332048103881148
+   },
+   {
+    "hs6": "570242",
+    "description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
+    "value": 74380161.0,
+    "share": 0.023643915439446828
+   },
+   {
+    "hs6": "720916",
+    "description": "Iron or non-alloy steel; in coils, flat-rolled, width 600mm or more, cold-rolled, of a thickness exceeding 1mm but less than 3mm",
+    "value": 65491409.0,
+    "share": 0.02081836494554276
+   },
+   {
+    "hs6": "271012",
+    "description": "Petroleum oils and oils from bituminous minerals, not containing biodiesel, not crude, not waste oils; preparations n.e.c, containing by weight 70% or more of petroleum oils or oils from bituminous minerals; light oils and preparations",
+    "value": 60918660.0,
+    "share": 0.01936478257588622
+   },
+   {
+    "hs6": "711319",
+    "description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
+    "value": 60704911.0,
+    "share": 0.019296836187853175
+   },
+   {
+    "hs6": "441114",
+    "description": "Medium density fibreboard (MDF), of a thickness exceeding 9 mm",
+    "value": 55528715.0,
+    "share": 0.017651430492616742
+   },
+   {
+    "hs6": "841191",
+    "description": "Turbines; parts of turbo-jets and turbo-propellers",
+    "value": 48934858.0,
+    "share": 0.015555379674337328
+   },
+   {
+    "hs6": "080222",
+    "description": "Nuts, edible; hazelnuts or filberts (corylus spp.), fresh or dried, shelled",
+    "value": 36546971.0,
+    "share": 0.011617526505379781
+   },
+   {
+    "hs6": "854430",
+    "description": "Insulated electric conductors; ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",
+    "value": 35737728.0,
+    "share": 0.011360284886045771
+   },
+   {
+    "hs6": "720917",
+    "description": "Iron or non-alloy steel; in coils, flat-rolled, width 600mm or more, cold-rolled, of a thickness of 0.5mm or more but not exceeding 1mm",
+    "value": 35383185.0,
+    "share": 0.011247582996201143
+   },
+   {
+    "hs6": "284019",
+    "description": "Borates; disodium tetraborate (refined borax), other than anhydrous",
+    "value": 32241380.0,
+    "share": 0.010248868140673589
+   },
+   {
+    "hs6": "620462",
+    "description": "Trousers, bib and brace overalls, breeches and shorts; women's or girls', of cotton (not knitted or crocheted)",
+    "value": 29884440.0,
+    "share": 0.00949964564227311
+   },
+   {
+    "hs6": "870880",
+    "description": "Vehicle parts; suspension systems and parts thereof (including shock-absorbers)",
+    "value": 29582570.0,
+    "share": 0.00940368741016192
+   }
+  ],
+  "top15_share": 0.3178190607538244
+ },
+ "imports_2025": {
+  "hs6_sum": 3197111361.0,
+  "top15": [
+   {
+    "hs6": "300490",
+    "description": "Medicaments; consisting of mixed or unmixed products n.e.c. in heading no. 3004, for therapeutic or prophylactic uses, packaged for retail sale",
+    "value": 179304263.0,
+    "share": 0.05608320848227094
+   },
+   {
+    "hs6": "890200",
+    "description": "Fishing vessels, factory ships and other vessels; for processing or preserving fishery products",
+    "value": 79205607.0,
+    "share": 0.02477411577406734
+   },
+   {
+    "hs6": "841191",
+    "description": "Turbines; parts of turbo-jets and turbo-propellers",
+    "value": 71914766.0,
+    "share": 0.022493669403341125
+   },
+   {
+    "hs6": "570242",
+    "description": "Carpets and other textile floor coverings; woven, (not tufted or flocked), of man-made textile materials, of pile construction, made up, n.e.c. in item no. 5702.10 or 5702.20",
+    "value": 70910995.0,
+    "share": 0.022179707552576554
+   },
+   {
+    "hs6": "711319",
+    "description": "Jewellery; of precious metal (excluding silver) whether or not plated or clad with precious metal, and parts thereof",
+    "value": 67890940.0,
+    "share": 0.021235087656992002
+   },
+   {
+    "hs6": "300215",
+    "description": "Blood, human or animal, antisera, other blood fractions and immunological products; immunological products, put up in measured doses or in forms or packings for retail sale",
+    "value": 62113053.0,
+    "share": 0.01942786659160103
+   },
+   {
+    "hs6": "441114",
+    "description": "Medium density fibreboard (MDF), of a thickness exceeding 9 mm",
+    "value": 49620652.0,
+    "share": 0.015520464068064097
+   },
+   {
+    "hs6": "720851",
+    "description": "Iron or non-alloy steel; (not in coils), flat-rolled, of a width 600mm or more, hot-rolled, without patterns in relief, of a thickness exceeding 10mm",
+    "value": 47706150.0,
+    "share": 0.014921641636242022
+   },
+   {
+    "hs6": "200979",
+    "description": "Juice; apple, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",
+    "value": 47044475.0,
+    "share": 0.014714681375779578
+   },
+   {
+    "hs6": "870880",
+    "description": "Vehicle parts; suspension systems and parts thereof (including shock-absorbers)",
+    "value": 42580915.0,
+    "share": 0.013318558596182724
+   },
+   {
+    "hs6": "760429",
+    "description": "Aluminium; alloys, bars, rods and profiles, other than hollow",
+    "value": 40459368.0,
+    "share": 0.012654976143009615
+   },
+   {
+    "hs6": "730820",
+    "description": "Iron or steel; structures and parts thereof, towers and lattice masts",
+    "value": 38114435.0,
+    "share": 0.011921522492128168
+   },
+   {
+    "hs6": "854430",
+    "description": "Insulated electric conductors; ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",
+    "value": 35744844.0,
+    "share": 0.011180356254096711
+   },
+   {
+    "hs6": "480300",
+    "description": "Tissue, towel, napkin stock or similar; for household or sanitary use, cellulose, wadding webs of cellulose fibres, in rolls exceeding 36cm in width or rectangular sheets with one side more than 36cm in unfolded state",
+    "value": 32387205.0,
+    "share": 0.010130146042166593
+   },
+   {
+    "hs6": "880730",
+    "description": "Aircraft and spacecraft; parts of aeroplanes, helicopters or unmanned aircraft n.e.c. in heading no. 8807",
+    "value": 32169532.0,
+    "share": 0.0100620617700154
+   }
+  ],
+  "top15_share": 0.2806180638385339
+ },
+ "lentils_071340": {
+  "Canada": {
+   "2021": 340709975.0,
+   "2022": 486637004.0,
+   "2023": 435992561.0,
+   "2024": 324044528.0,
+   "2025": 172576223.0
+  },
+  "Newfoundland and Labrador": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "Prince Edward Island": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "Nova Scotia": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "New Brunswick": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "Quebec": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "Ontario": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "Manitoba": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "Saskatchewan": {
+   "2021": 339634970.0,
+   "2022": 365964891.0,
+   "2023": 318985840.0,
+   "2024": 266241429.0,
+   "2025": 130024689.0
+  },
+  "Alberta": {
+   "2021": 1075005.0,
+   "2022": 120672113.0,
+   "2023": 117006721.0,
+   "2024": 57803099.0,
+   "2025": 42551534.0
+  },
+  "British Columbia": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "Yukon": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "Northwest Territories": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  },
+  "Nunavut": {
+   "2021": 0,
+   "2022": 0,
+   "2023": 0,
+   "2024": 0,
+   "2025": 0
+  }
+ }
+}

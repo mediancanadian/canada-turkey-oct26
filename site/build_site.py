@@ -311,8 +311,27 @@ def province_paths():
         x = y = 0; pts = []
         for dx, dy in arc:
             x += dx; y += dy; pts.append((x * sx + tx, y * sy + ty))
-        # thin each shared arc once, keeping both ends, so neighbouring provinces use the same points and no gaps open
-        arcs.append(pts if len(pts) < 4 else pts[:-1:3] + [pts[-1]])
+        arcs.append(pts)
+    # simplify each shared arc once (Douglas-Peucker, keeping both ends), so neighbouring provinces
+    # use the same points along a border and no gaps or spikes open between them
+    def rdp(pts, tol):
+        if len(pts) < 3:
+            return pts
+        (x1, y1), (x2, y2) = pts[0], pts[-1]
+        dx, dy = x2 - x1, y2 - y1; L = (dx * dx + dy * dy) ** .5
+        best, bi = -1, 0
+        for i in range(1, len(pts) - 1):
+            x, y = pts[i]
+            dd = abs(dy * (x - x1) - dx * (y - y1)) / L if L else ((x - x1) ** 2 + (y - y1) ** 2) ** .5
+            if dd > best:
+                best, bi = dd, i
+        if best <= tol:
+            return [pts[0], pts[-1]]
+        return rdp(pts[:bi + 1], tol)[:-1] + rdp(pts[bi:], tol)
+    allx = [p[0] for a_ in arcs for p in a_]
+    tol = (max(allx) - min(allx)) / 600 * 0.35   # about a third of a pixel at the map's base width
+    import sys; sys.setrecursionlimit(10000)
+    arcs = [rdp(a_, tol) for a_ in arcs]
 
     def ring(idx):
         out = []
@@ -346,8 +365,7 @@ def province_paths():
                 pts = ring(r)
                 if len(pts) < 4:
                     continue
-                xy = [((x - minx) * sc, (maxy - y) * sc) for x, y in pts]
-                xy = despike(xy)
+                xy = despike([((x - minx) * sc, (maxy - y) * sc) for x, y in pts])
                 area = abs(sum(xy[i][0] * xy[i - 1][1] - xy[i - 1][0] * xy[i][1] for i in range(len(xy)))) / 2
                 if area < 1.5:  # specks and islands thinned to a line show as stray strokes
                     continue

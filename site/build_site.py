@@ -311,7 +311,8 @@ def province_paths():
         x = y = 0; pts = []
         for dx, dy in arc:
             x += dx; y += dy; pts.append((x * sx + tx, y * sy + ty))
-        arcs.append(pts)
+        # thin each shared arc once, keeping both ends, so neighbouring provinces use the same points and no gaps open
+        arcs.append(pts if len(pts) < 4 else pts[:-1:3] + [pts[-1]])
 
     def ring(idx):
         out = []
@@ -319,6 +320,19 @@ def province_paths():
             a_ = arcs[i] if i >= 0 else list(reversed(arcs[~i]))
             out.extend(a_ if not out else a_[1:])
         return out
+    def despike(xy):
+        # a narrow inlet thinned to two points reads as a stray line: drop sharp out-and-back points
+        import math
+        changed = True
+        while changed and len(xy) > 4:
+            changed = False
+            for i in range(1, len(xy) - 1):
+                (ax, ay), (bx, by), (cx, cy) = xy[i - 1], xy[i], xy[i + 1]
+                u, v = (ax - bx, ay - by), (cx - bx, cy - by)
+                nu, nv = math.hypot(*u), math.hypot(*v)
+                if nu and nv and (u[0] * v[0] + u[1] * v[1]) / (nu * nv) > math.cos(math.radians(25)):
+                    del xy[i]; changed = True; break
+        return xy
     geoms = topo["objects"]["provs"]["geometries"]
     allpts = [p for g in geoms for poly in ([g["arcs"]] if g["type"] == "Polygon" else g["arcs"]) for r in poly for p in ring(r)]
     minx, maxx = min(p[0] for p in allpts), max(p[0] for p in allpts)
@@ -332,9 +346,10 @@ def province_paths():
                 pts = ring(r)
                 if len(pts) < 4:
                     continue
-                pts = pts[::3] + [pts[-1]]
                 xy = [((x - minx) * sc, (maxy - y) * sc) for x, y in pts]
-                if max(a for a, _ in xy) - min(a for a, _ in xy) < 1.2 and max(b for _, b in xy) - min(b for _, b in xy) < 1.2:
+                xy = despike(xy)
+                area = abs(sum(xy[i][0] * xy[i - 1][1] - xy[i - 1][0] * xy[i][1] for i in range(len(xy)))) / 2
+                if area < 1.5:  # specks and islands thinned to a line show as stray strokes
                     continue
                 d += "M" + "L".join(f"{a:.1f},{b:.1f}" for a, b in xy) + "Z"
         out[g["properties"]["p"]] = d

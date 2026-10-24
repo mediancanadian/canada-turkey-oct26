@@ -304,7 +304,7 @@ D["skLentils"] = dict(y=[int(y) for y in V["sk_lentils_m"]], v=list(V["sk_lentil
 
 def province_paths():
     from pyproj import Transformer
-    topo = json.load(open(ROOT / "slides/data/base.json"))
+    topo = json.load(open(ROOT / "site/data/provinces.json"))  # Natural Earth 1:10m provinces, built by site/make_provinces.sh
     sx, sy = topo["transform"]["scale"]; tx, ty = topo["transform"]["translate"]
     arcs = []
     for arc in topo["arcs"]:
@@ -593,7 +593,7 @@ title = "Talking trade with Türkiye"
 desc = ("A Canadian prime minister's first bilateral visit brought agreements on flights, energy and defence. "
         "Explore what they mean for Canadians: trade, duties, provinces, travel, energy and defence.")
 page = f'''<!doctype html>
-<html lang="en-CA"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en-CA"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noai, noimageai">
 <title>{E(title)} · The Median Canadian</title>
 <meta name="description" content="{E(desc)}">
 <meta name="color-scheme" content="light dark">

@@ -46,6 +46,8 @@ Every source behind the slides and the page, in the order the page cites them. E
 | 40 | Global Affairs Canada. Notice to Exporters No. 1108: export permit applications for Türkiye. January 2024. | https://www.international.gc.ca/trade-commerce/controls-controles/notices-avis/1108.aspx?lang=eng | Government of Canada terms of use |
 | 41 | Global Affairs Canada. Statement from Minister Garneau on the cancellation of export permits to Turkey. April 12, 2021. | https://www.canada.ca/en/global-affairs/news/2021/04/statement-fromminister-garneauto-announce-the-cancellation-of-export-permits-to-turkey.html | Government of Canada terms of use |
 
+The province map on the page uses Natural Earth's 1:10m states and provinces with large lakes (public domain, https://www.naturalearthdata.com/), projected to Canada Atlas Lambert (EPSG:3978); `site/make_provinces.sh` rebuilds it. The slides use the earlier base map in `slides/data/base.json`.
+
 Other inputs used in the analysis but not quoted on the page are listed in each thread's `results.md` and manifest, for example Statistics Canada table 18-10-0005 (consumer prices) and the Bank of Canada exchange rates.
 
 News reports were used only to find official documents; no number on the page or the slides comes from a news story.

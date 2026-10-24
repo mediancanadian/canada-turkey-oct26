@@ -4,7 +4,7 @@ The text, charts, maps and slides made by The Median Canadian are licensed under
 Attribution 4.0 International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
 
 You can share and adapt them, including commercially, as long as you give credit:
-"The Median Canadian (CC BY 4.0)" with a link to https://sjvadrevu.github.io/canada-turkey-oct26/.
+"The Median Canadian (CC BY 4.0)" with a link to https://mediancanadian.ca/canada-turkey-oct26/.
 
 ## Photos
 

@@ -2,8 +2,8 @@
 
 Week 2 of The Median Canadian: an explorable page on what the Canada-Türkiye Strategic Partnership of October 2026 means for Canadians, built from official data.
 
-- Page: https://sjvadrevu.github.io/canada-turkey-oct26/
-- All posts: https://sjvadrevu.github.io/the-median-canadian/ (the link in the Instagram bio)
+- Page: https://mediancanadian.ca/canada-turkey-oct26/
+- All posts: https://mediancanadian.ca/ (the link in the Instagram bio)
 
 Everything behind the page and the Instagram slides is here: every analysis script, every output table, the independent checks and the steps to rebuild it from the official sources. Nothing is hidden, so anyone can reproduce or challenge any number.
 

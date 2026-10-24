@@ -15,9 +15,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 A = ROOT / "analysis"
 V = json.load(open(ROOT / "slides/values.json", encoding="utf-8"))
-SITE = "https://sjvadrevu.github.io/canada-turkey-oct26/"
-REPO = "https://github.com/sjvadrevu/canada-turkey-oct26"
-HUB = "https://sjvadrevu.github.io/the-median-canadian/"
+SITE = "https://mediancanadian.ca/canada-turkey-oct26/"
+REPO = "https://github.com/mediancanadian/canada-turkey-oct26"
+HUB = "https://mediancanadian.ca/"
 E = html.escape
 
 

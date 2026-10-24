@@ -98,7 +98,7 @@ R = [
 rows = "\n".join(f"| N{i} | {r[0]} | {r[1]} | {r[2]} | `{r[3]}` | {r[4]} |" for i, r in enumerate(R, 1))
 text = f"""# Methodology
 
-How every number in the week 2 post (the Instagram slides and the page at https://sjvadrevu.github.io/canada-turkey-oct26/) was produced, so anyone can check or challenge it.
+How every number in the week 2 post (the Instagram slides and the page at https://mediancanadian.ca/canada-turkey-oct26/) was produced, so anyone can check or challenge it.
 
 ## The question
 
